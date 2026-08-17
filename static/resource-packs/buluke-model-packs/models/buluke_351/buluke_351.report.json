@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:351",
+  "sourceId": "351",
+  "source": "buluke",
+  "name": "动感单车",
+  "entry": "UploadFile/1/BooketFiled/20232232259838992207.ldr",
+  "fileCount": 166,
+  "raw": {
+    "bytes": 3980435,
+    "kb": 3887.14,
+    "mb": 3.8
+  },
+  "gzip": {
+    "bytes": 582111,
+    "kb": 568.47,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "10318aa9cb36",
+  "verified": true
+}

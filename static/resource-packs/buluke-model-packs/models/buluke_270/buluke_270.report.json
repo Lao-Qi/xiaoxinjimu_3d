@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:270",
+  "sourceId": "270",
+  "source": "buluke",
+  "name": "儿童车",
+  "entry": "UploadFile/1/BooketFiled/2022122342840733864.ldr",
+  "fileCount": 147,
+  "raw": {
+    "bytes": 342502,
+    "kb": 334.47,
+    "mb": 0.33
+  },
+  "gzip": {
+    "bytes": 55912,
+    "kb": 54.6,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "d502de04c786",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:519",
+  "sourceId": "519",
+  "source": "buluke",
+  "name": "快速投石机",
+  "entry": "UploadFile/1/BooketFiled/20247312642514451606.ldr",
+  "fileCount": 213,
+  "raw": {
+    "bytes": 1091631,
+    "kb": 1066.05,
+    "mb": 1.04
+  },
+  "gzip": {
+    "bytes": 166498,
+    "kb": 162.6,
+    "mb": 0.16
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "292c88981040",
+  "verified": true
+}

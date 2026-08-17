@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<title>积木3D图纸 MOC图纸</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, mininmum-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+    <link href="./css/i.css?version=local-20260713-1" rel="stylesheet" type="text/css" />
+    <link href="./css/p.css?version=1.0.0(2022-10-15)" rel="stylesheet" type="text/css" />
+    <link href="./css/b.css?version=1.0.0(2022-10-20)" rel="stylesheet" type="text/css" />
+    <link href="./css/op.css?version=1.0.0(2022-10-15)" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="./files/haha.ico" />
+  </head>
+  <body onLoad="main()">
+  	<div id = "xuanran">
+		<img src="./files/xuanran.gif" style="width:100px;"/>
+	</div>
+	<div id = "loading">	
+		<p style = "text-align: center" id = "loadingnotice">加载网页组件</p>
+	</div>
+    <div id="main_canvas_holder">
+     <div id="modelTitle"></div>
+     <canvas id="main_canvas"></canvas>
+     <div id="instructions_decorations">
+      <span id="empty_step">EMPTY STEP</span>
+      <canvas id="pli"></canvas>
+      <div id="pli_drag_horizontal" class="ui_control"></div>
+      <div id="pli_drag_vertical" class="ui_control"></div>
+      <span class="decoration_holder">
+       <div id="multiplier">x1</div>
+      </span>
+      <span class="decoration_holder">
+       <div id="rotator">
+         <svg viewbox="-52,-52,104,104" fill="none" stroke="black" stroke-width="12">
+          <g id="full_arrow">
+           <path id="half_arrow" d="M 25,-14 40,-10 48,-23 M 40,-10 C 30,-50 -30,-50 -40,-10 M 40,-10 Z"></path>
+           <g transform="scale(-1 -1)">
+            <path id="half_arrow" d="M 25,-14 40,-10 48,-23 M 40,-10 C 30,-50 -30,-50 -40,-10 M 40,-10 Z"></path>
+           </g>
+          </g>
+          <animateTransform xlink:href="#full_arrow" attributeName="transform" attributeType="XML" id="rotator_animation" type="rotate" from="0 0 0" to="180 0 0" dur="0.4s" begin="0" repeatCount="1" fill="freeze"></animateTransform>
+         </svg>
+       </div>
+      </span>
+     </div>
+    </div>
+    <div id="partslist">
+    	<div id="big_parts"><canvas id="partslist_canvas"></canvas></div>
+    	<div id="partslist_close" onclick="manager.closePartsList();">
+			<div id="partslist_closeButton"></div>
+		</div>
+    </div>
+    
+    <div id="pli_preview_section">
+        <div id="preview_background" class="background" onclick="manager.hidePliPreview();"></div>
+        <div id="preview_holder" class="holder">
+          <div id="preview_parent"><canvas id="secondary_canvas"></canvas></div>
+          <div id="modelTitle2"></div>
+		  <div id="preview_info">
+	      	<span class="preview_info_line">
+	      		<span id="preview_info_name"></span>
+          	</span>
+          	<div id="pli_preview_close" onclick="manager.hidePliPreview();">
+          		<div id="pli_preview_closeButton"></div>
+          		<div id="pli_preview_triButton"></div>
+          	</div>
+	  	  </div>
+       </div>
+    </div>
+    
+    <div id="options2">
+    	<div id="optionlist"></div>
+    	<p style="text-align:center;"><img src="pic/options/操作说明1.jpg" style="width:96%;" alt="17150169059" loading="lazy"></p>
+    	<p style="text-align:center;"><img src="pic/options/操作说明2.jpg" style="width:96%;" alt="17150169059" loading="lazy"></p>
+    	<p style="text-align:center;"><img src="pic/options/操作说明3.jpg" style="width:96%;" alt="17150169059" loading="lazy"></p>
+    	<div id="optionBotton2"></div>
+    	<div id="options2_close" onclick="manager.options2();">
+			<div id="options2_closeButton"></div>
+		</div>
+    </div>
+    
+    <script src="./js/local-shim.js"></script>
+    <script src="./js/jm.js?version=1.0.0(2022-09-19)"></script>
+    <script src="./js/3m.js?version=1.0.0(2022-09-19)"></script>
+    <script src="./js/oc.js?version=1.0.0(2022-09-19)"></script>
+    <script src="./js/c.js?version=1.0.0(2022-09-19)"></script>
+    <script src="./js/desc.js?version=1.0.0(2022-09-19)"></script>
+    <script src="./js/meta.js?version=1.0.0(2022-10-20)"></script>
+    <script src="./js/mocmeta.js?version=1.0.0(2024-05-02)"></script>
+    <script src="./js/meta2.js?version=1.0.0(2024-05-02)"></script>
+    <script src="./js/mocmeta2.js?version=1.0.0(2024-05-02)"></script>
+    <script src = "./lib/cjm.js?version=1.0.1(2022-09-19)"></script>
+	<script src = "./lib/pojc.js?version=1.0.1(2022-09-19)"></script>
+    <script>		
+    function getLinkInfo() {
+        var linkInfo = "";
+         
+			linkInfo = "Na3lNT5ey8uZ1LCh8EYcsZrTPcYAgyeUAuXhFj6sn1zjfSYxruPXNObiMiJul0pnRdTLTdZpjZ4mOKVpqyxfog==";
+	              return linkInfo;
+	 } 
+	</script>    
+    <script src="./js/gogogo.js?version=1.0.0(2022-12-09)"></script>     
+  </body>
+</html>

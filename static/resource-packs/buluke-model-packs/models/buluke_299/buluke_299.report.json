@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:299",
+  "sourceId": "299",
+  "source": "buluke",
+  "name": "传递排版",
+  "entry": "UploadFile/1/BooketFiled/2023155123414698917.ldr",
+  "fileCount": 120,
+  "raw": {
+    "bytes": 243398,
+    "kb": 237.69,
+    "mb": 0.23
+  },
+  "gzip": {
+    "bytes": 39143,
+    "kb": 38.23,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "820ef5160fad",
+  "verified": true
+}

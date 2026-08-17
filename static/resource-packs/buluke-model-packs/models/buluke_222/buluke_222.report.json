@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:222",
+  "sourceId": "222",
+  "source": "buluke",
+  "name": "齿轮传递",
+  "entry": "UploadFile/1/BooketFiled/202210292920859212170.ldr",
+  "fileCount": 100,
+  "raw": {
+    "bytes": 183621,
+    "kb": 179.32,
+    "mb": 0.18
+  },
+  "gzip": {
+    "bytes": 32862,
+    "kb": 32.09,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e6c01436363b",
+  "verified": true
+}

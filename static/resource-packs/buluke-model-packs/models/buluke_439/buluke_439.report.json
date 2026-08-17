@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:439",
+  "sourceId": "439",
+  "source": "buluke",
+  "name": "小飞机",
+  "entry": "UploadFile/1/BooketFiled/2023322372090878284.ldr",
+  "fileCount": 110,
+  "raw": {
+    "bytes": 213969,
+    "kb": 208.95,
+    "mb": 0.2
+  },
+  "gzip": {
+    "bytes": 37827,
+    "kb": 36.94,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "24d299aec2a7",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:276",
+  "sourceId": "276",
+  "source": "buluke",
+  "name": "井字棋",
+  "entry": "UploadFile/1/BooketFiled/20221223853730386871.ldr",
+  "fileCount": 38,
+  "raw": {
+    "bytes": 56431,
+    "kb": 55.11,
+    "mb": 0.05
+  },
+  "gzip": {
+    "bytes": 10039,
+    "kb": 9.8,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b35005aeadeb",
+  "verified": true
+}

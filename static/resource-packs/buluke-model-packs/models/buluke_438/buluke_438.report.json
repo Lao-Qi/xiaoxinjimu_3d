@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:438",
+  "sourceId": "438",
+  "source": "buluke",
+  "name": "小凳子",
+  "entry": "UploadFile/1/BooketFiled/20233223649996997619.ldr",
+  "fileCount": 38,
+  "raw": {
+    "bytes": 61877,
+    "kb": 60.43,
+    "mb": 0.06
+  },
+  "gzip": {
+    "bytes": 10603,
+    "kb": 10.35,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "47883572acd2",
+  "verified": true
+}

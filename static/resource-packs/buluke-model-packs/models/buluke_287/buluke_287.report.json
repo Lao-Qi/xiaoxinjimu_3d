@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:287",
+  "sourceId": "287",
+  "source": "buluke",
+  "name": "稻草人",
+  "entry": "UploadFile/1/BooketFiled/2023154438708781652.ldr",
+  "fileCount": 152,
+  "raw": {
+    "bytes": 3862681,
+    "kb": 3772.15,
+    "mb": 3.68
+  },
+  "gzip": {
+    "bytes": 573667,
+    "kb": 560.22,
+    "mb": 0.55
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "c89997060521",
+  "verified": true
+}

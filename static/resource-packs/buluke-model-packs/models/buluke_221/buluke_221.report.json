@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:221",
+  "sourceId": "221",
+  "source": "buluke",
+  "name": "投石器",
+  "entry": "UploadFile/1/BooketFiled/202210292651744504689.ldr",
+  "fileCount": 80,
+  "raw": {
+    "bytes": 192298,
+    "kb": 187.79,
+    "mb": 0.18
+  },
+  "gzip": {
+    "bytes": 30220,
+    "kb": 29.51,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "15bc9bc070ae",
+  "verified": true
+}

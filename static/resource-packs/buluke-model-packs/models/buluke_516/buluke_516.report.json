@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:516",
+  "sourceId": "516",
+  "source": "buluke",
+  "name": "晾衣架",
+  "entry": "UploadFile/1/BooketFiled/202354928266791729.ldr",
+  "fileCount": 81,
+  "raw": {
+    "bytes": 156467,
+    "kb": 152.8,
+    "mb": 0.15
+  },
+  "gzip": {
+    "bytes": 25123,
+    "kb": 24.53,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "de1a8324c61d",
+  "verified": true
+}

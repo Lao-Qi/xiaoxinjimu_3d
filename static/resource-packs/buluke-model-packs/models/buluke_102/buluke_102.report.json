@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:102",
+  "sourceId": "102",
+  "source": "buluke",
+  "name": "旋转飞椅",
+  "entry": "UploadFile/1/BooketFiled/202275157265253922.ldr",
+  "fileCount": 149,
+  "raw": {
+    "bytes": 3987410,
+    "kb": 3893.96,
+    "mb": 3.8
+  },
+  "gzip": {
+    "bytes": 583439,
+    "kb": 569.76,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "861c17642eef",
+  "verified": true
+}

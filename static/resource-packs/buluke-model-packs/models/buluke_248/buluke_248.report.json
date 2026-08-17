@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:248",
+  "sourceId": "248",
+  "source": "buluke",
+  "name": "磨光器",
+  "entry": "UploadFile/1/BooketFiled/20221125846144450961.ldr",
+  "fileCount": 103,
+  "raw": {
+    "bytes": 227883,
+    "kb": 222.54,
+    "mb": 0.22
+  },
+  "gzip": {
+    "bytes": 39865,
+    "kb": 38.93,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "cc74de2bec7d",
+  "verified": true
+}

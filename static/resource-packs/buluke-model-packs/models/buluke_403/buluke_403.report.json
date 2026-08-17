@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:403",
+  "sourceId": "403",
+  "source": "buluke",
+  "name": "电动碎石机",
+  "entry": "UploadFile/1/BooketFiled/20233135214363222869.ldr",
+  "fileCount": 106,
+  "raw": {
+    "bytes": 3652978,
+    "kb": 3567.36,
+    "mb": 3.48
+  },
+  "gzip": {
+    "bytes": 530568,
+    "kb": 518.13,
+    "mb": 0.51
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "54e6f8664390",
+  "verified": true
+}

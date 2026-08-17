@@ -1,0 +1,395 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <title>小新积木3D教程</title>
+    <script>
+      (function () {
+        function getParam(name) {
+          var search = new URLSearchParams(location.search || "");
+          if (search.has(name)) return search.get(name);
+          var hashQuery = (location.hash || "").split("?")[1] || "";
+          return new URLSearchParams(hashQuery).get(name);
+        }
+
+        var embed = getParam("embed") || getParam("platform") || getParam("env");
+        var isMiniapp = /^(miniapp|weapp|wechat|wx)$/i.test(embed || "");
+        window.__XIAOXIN_WEBVIEW_ENV__ = {
+          embed: isMiniapp,
+          name: isMiniapp ? "miniapp" : "browser"
+        };
+        if (isMiniapp) {
+          document.documentElement.classList.add("miniapp-embed", "miniapp-buluke");
+          installMiniappUrlGuard();
+        }
+
+        function getHashParams(hash) {
+          var query = (hash || "").split("?")[1] || "";
+          return new URLSearchParams(query);
+        }
+
+        function installMiniappUrlGuard() {
+          if (window.__XIAOXIN_BULUKE_URL_GUARD__) return;
+          window.__XIAOXIN_BULUKE_URL_GUARD__ = true;
+
+          var basePath = location.pathname || "/buluke/";
+          function normalizeUrl(url) {
+            if (typeof url === "undefined" || url === null) return url;
+            try {
+              var target = new URL(String(url), location.href);
+              var hash = target.hash || "";
+              var isRootBrickmodel = target.pathname === "/" && /^#\/(en\/)?brickmodel\b/.test(hash);
+              if (!isRootBrickmodel) return url;
+
+              var hashPath = hash.split("?")[0] || "#/brickmodel";
+              var hashParams = getHashParams(hash);
+              hashParams.set("embed", "miniapp");
+              return basePath + hashPath + "?" + hashParams.toString();
+            } catch (error) {
+              return url;
+            }
+          }
+
+          var replaceState = history.replaceState;
+          var pushState = history.pushState;
+          history.replaceState = function (state, title, url) {
+            return replaceState.call(this, state, title, normalizeUrl(url));
+          };
+          history.pushState = function (state, title, url) {
+            return pushState.call(this, state, title, normalizeUrl(url));
+          };
+        }
+      })();
+
+      localStorage.setItem("openId", localStorage.getItem("openId") || "local-dev-openid");
+      localStorage.setItem("fwcode", localStorage.getItem("fwcode") || "LOCAL_DEV_OK");
+      localStorage.setItem("userID", localStorage.getItem("userID") || "1");
+      localStorage.setItem("UID", localStorage.getItem("UID") || "1");
+      if (!location.hash || location.hash === "#/" || location.hash === "#") {
+        location.replace(location.pathname + location.search + "#/index");
+      }
+    </script>
+    <script src="/data-guard.js?v=9389850196f4"></script>
+    <script src="/static/js/jquery.min.js"></script>
+    <link href="/miniapp-embed.css" rel="stylesheet">
+    <link href="/static/css/app.63d1cef0df11aff078b1cbc2ed1f16f9.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="app"></div>
+    <div id="miniappEmbedLoading" class="miniapp-loading" aria-live="polite">
+      <div class="miniapp-loading-box">
+        <span class="miniapp-loading-spinner" aria-hidden="true"></span>
+        <span>页面加载中</span>
+      </div>
+    </div>
+    <script src="/static/js/manifest.3ad1d5771e9b13dbdad2.js"></script>
+    <script src="/static/js/vendor.308ca75a6fbd0be9bb57.js"></script>
+    <script src="/static/js/app.6852d75481223fdba578.js"></script>
+    <script>
+      (function () {
+        var env = window.__XIAOXIN_WEBVIEW_ENV__;
+        if (!env || !env.embed) return;
+
+        var loading = document.getElementById("miniappEmbedLoading");
+        if (!loading) return;
+
+        var startedAt = Date.now();
+        var minVisibleMs = 2600;
+        var maxVisibleMs = 20000;
+        var readySince = 0;
+        var removed = false;
+        var initialHashStepApplied = false;
+        var backgroundsRemoved = false;
+        var screenshotControlsRemoved = false;
+        var screenshotMethodsDisabled = false;
+        var topButtonsMoved = false;
+        var observerPending = false;
+        function removeLoading() {
+          if (removed) return;
+          removed = true;
+          loading.classList.add("is-leaving");
+          setTimeout(function () {
+            if (loading.parentNode) loading.parentNode.removeChild(loading);
+          }, 220);
+        }
+
+        function isVisible(node) {
+          if (!node) return false;
+          var style = getComputedStyle(node);
+          if (style.display === "none" || style.visibility === "hidden" || style.opacity === "0") return false;
+          var rect = node.getBoundingClientRect();
+          return rect.width > 1 && rect.height > 1;
+        }
+
+        function hasVisibleInternalLoading(app) {
+          var selectors = [
+            ".page-spinner",
+            ".lx-load-mark",
+            ".weui-loading_toast",
+            ".mint-indicator",
+            ".van-loading",
+            ".loading"
+          ];
+          for (var i = 0; i < selectors.length; i += 1) {
+            var nodes = app.querySelectorAll(selectors[i]);
+            for (var j = 0; j < nodes.length; j += 1) {
+              if (isVisible(nodes[j])) return true;
+            }
+          }
+          return false;
+        }
+
+        function visibleImagesReady(app) {
+          var images = Array.prototype.slice.call(app.querySelectorAll("img")).filter(isVisible);
+          if (!images.length) return false;
+          return images.every(function (image) {
+            return image.complete && image.naturalWidth > 0;
+          });
+        }
+
+        function removeBulukeBackgrounds() {
+          if (backgroundsRemoved) return;
+          var app = document.getElementById("app");
+          if (!app) return;
+          var backgrounds = app.querySelectorAll(".bg");
+          if (!backgrounds.length) return;
+          Array.prototype.forEach.call(backgrounds, function (node) {
+            if (node.parentNode) node.parentNode.removeChild(node);
+          });
+          backgroundsRemoved = true;
+        }
+
+        function disableScreenshotMethods(vm) {
+          if (!vm || screenshotMethodsDisabled) return false;
+          var patched = false;
+          if (typeof vm.screenShot === "function") {
+            vm.screenShot = function () {};
+            patched = true;
+          }
+          if (typeof vm.downloadFile === "function") {
+            vm.downloadFile = function () {};
+            patched = true;
+          }
+          if (typeof vm.closeScreenShotCon === "function") {
+            vm.closeScreenShotCon = function () {};
+            patched = true;
+          }
+          var children = vm.$children || [];
+          for (var i = 0; i < children.length; i += 1) {
+            patched = disableScreenshotMethods(children[i]) || patched;
+          }
+          if (patched) screenshotMethodsDisabled = true;
+          return patched;
+        }
+
+        function removeBulukeScreenshotControls() {
+          if (screenshotControlsRemoved && screenshotMethodsDisabled) return;
+          var app = document.getElementById("app");
+          if (!app) return;
+
+          if (!screenshotControlsRemoved) {
+            var removedControl = false;
+            Array.prototype.forEach.call(app.querySelectorAll(".btn .btnli"), function (node) {
+              var text = (node.textContent || "").replace(/\s+/g, "").toLowerCase();
+              if (text === "截屏" || text === "screenshot") {
+                node.parentNode && node.parentNode.removeChild(node);
+                removedControl = true;
+              }
+            });
+
+            Array.prototype.forEach.call(document.querySelectorAll("#viewScreenShotCon, #viewScreenShotCon_con"), function (node) {
+              node.style.display = "none";
+              node.style.opacity = "0";
+              node.classList.add("miniapp-hidden");
+            });
+            screenshotControlsRemoved = removedControl || !!document.getElementById("viewScreenShotCon");
+          }
+
+          disableScreenshotMethods(app.__vue__);
+        }
+
+        function makeSideNavButton(source, label) {
+          var selector = '[data-miniapp-side-button="' + source.id + '"]';
+          var wrapper = document.querySelector(selector) || document.createElement("div");
+          wrapper.className = "btnli miniapp-side-nav-button";
+          wrapper.setAttribute("data-miniapp-side-button", source.id);
+
+          var icon = wrapper.querySelector(".icn_list");
+          if (!icon) {
+            icon = document.createElement("div");
+            wrapper.appendChild(icon);
+          }
+          icon.className = source.className;
+          icon.setAttribute("aria-hidden", "true");
+          try {
+            var sourceStyle = getComputedStyle(source);
+            icon.style.setProperty("--miniapp-icon-mask", sourceStyle.backgroundImage);
+          } catch (error) {}
+          wrapper.onclick = function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            source.click();
+            try {
+              icon.className = source.className;
+              icon.style.setProperty("--miniapp-icon-mask", getComputedStyle(source).backgroundImage);
+            } catch (error) {}
+          };
+
+          var msg = wrapper.querySelector(".msg");
+          if (!msg) {
+            msg = document.createElement("span");
+            msg.className = "msg";
+            wrapper.appendChild(msg);
+          }
+          msg.textContent = label;
+          return wrapper;
+        }
+
+        function moveBulukeTopButtonsToSide() {
+          if (topButtonsMoved) return;
+          var app = document.getElementById("app");
+          if (!app) return;
+          var side = app.querySelector(".btn");
+          if (!side) return;
+
+          var configs = [
+            { id: "showOldColorsButton", label: "显示" },
+            { id: "partslistButton", label: "零件" }
+          ];
+          var anchor = side.querySelector(".btnli:not(.miniapp-side-nav-button)");
+
+          for (var i = 0; i < configs.length; i += 1) {
+            var source = document.getElementById(configs[i].id);
+            if (!source) continue;
+            var wrapper = makeSideNavButton(source, configs[i].label);
+            if (wrapper.parentNode !== side) {
+              side.insertBefore(wrapper, anchor);
+            }
+          }
+          topButtonsMoved = configs.every(function (config) {
+            var node = document.querySelector('[data-miniapp-side-button="' + config.id + '"]');
+            return !!node && node.parentNode === side;
+          });
+        }
+
+        function svgToDataUrl(svg) {
+          return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+        }
+
+        var resetStepIcon = svgToDataUrl('<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M943.8 484.1c-17.5-13.7-42.8-10.7-56.6 6.8-5.7 7.3-8.5 15.8-8.6 24.4h-0.4c-0.6 78.3-26.1 157-78 223.3-124.9 159.2-356 187.1-515.2 62.3-31.7-24.9-58.2-54-79.3-85.9h77.1c22.4 0 40.7-18.3 40.7-40.7v-3c0-22.4-18.3-40.7-40.7-40.7H105.5c-22.4 0-40.7 18.3-40.7 40.7v177.3c0 22.4 18.3 40.7 40.7 40.7h3c22.4 0 40.7-18.3 40.7-40.7v-73.1c24.2 33.3 53 63.1 86 89 47.6 37.3 101 64.2 158.9 79.9 55.9 15.2 113.5 19.3 171.2 12.3 57.7-7 112.7-24.7 163.3-52.8 52.5-29 98-67.9 135.3-115.4 37.3-47.6 64.2-101 79.9-158.9 10.2-37.6 15.4-76 15.6-114.6h-0.1c-0.3-11.6-5.5-23.1-15.5-30.9zM918.7 135.2h-3c-22.4 0-40.7 18.3-40.7 40.7V249c-24.2-33.3-53-63.1-86-89-47.6-37.3-101-64.2-158.9-79.9-55.9-15.2-113.5-19.3-171.2-12.3-57.7 7-112.7 24.7-163.3 52.8-52.5 29-98 67.9-135.3 115.4-37.3 47.5-64.2 101-79.9 158.8-10.2 37.6-15.4 76-15.6 114.6h0.1c0.2 11.7 5.5 23.2 15.4 30.9 17.5 13.7 42.8 10.7 56.6-6.8 5.7-7.3 8.5-15.8 8.6-24.4h0.4c0.6-78.3 26.1-157 78-223.3 124.9-159.2 356-187.1 515.2-62.3 31.7 24.9 58.2 54 79.3 85.9h-77.1c-22.4 0-40.7 18.3-40.7 40.7v3c0 22.4 18.3 40.7 40.7 40.7h177.3c22.4 0 40.7-18.3 40.7-40.7V175.8c0.1-22.3-18.2-40.6-40.6-40.6z" fill="#ffffff"/></svg>');
+        var resetCameraIcon = svgToDataUrl('<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M511.68 318.08a193.664 193.664 0 0 0-136.96 330.752 193.664 193.664 0 1 0 136.96-330.752zM928 465.088A417.6 417.6 0 0 0 558.528 96V0H464.96v96.064a417.408 417.408 0 0 0-368.896 369.024H0v93.568h96a418.304 418.304 0 0 0 369.28 369.28V1024h93.44v-96.064a418.112 418.112 0 0 0 369.28-369.28H1024V465.088h-96z m-416.256 388.288a341.312 341.312 0 0 1-334.784-408.064 341.504 341.504 0 0 1 465.472-248.896A341.44 341.44 0 0 1 853.056 512a342.4 342.4 0 0 1-341.376 341.44z" fill="#ffffff"/></svg>');
+
+        function applyBulukeSideIconSvgs() {
+          var resetCameraButton = document.getElementById("reset_camera_button");
+          if (resetCameraButton && resetCameraButton.getAttribute("src") !== resetCameraIcon) {
+            resetCameraButton.setAttribute("src", resetCameraIcon);
+          }
+          var resetStepButton = document.getElementById("resetStepButton");
+          if (resetStepButton && resetStepButton.getAttribute("src") !== resetStepIcon) {
+            resetStepButton.setAttribute("src", resetStepIcon);
+          }
+        }
+
+        function getHashParam(name) {
+          var query = (location.hash || "").split("?")[1] || "";
+          return new URLSearchParams(query).get(name);
+        }
+
+        function findBulukeManager(vm) {
+          if (!vm) return null;
+          if (vm.manager && typeof vm.manager.goToStep === "function") return vm.manager;
+          var children = vm.$children || [];
+          for (var i = 0; i < children.length; i += 1) {
+            var manager = findBulukeManager(children[i]);
+            if (manager) return manager;
+          }
+          return null;
+        }
+
+        function applyInitialHashStep() {
+          if (initialHashStepApplied) return true;
+          var step = parseInt(getHashParam("step"), 10);
+          if (!step || step < 2) {
+            initialHashStepApplied = true;
+            return true;
+          }
+          var app = document.getElementById("app");
+          var manager = findBulukeManager(app && app.__vue__);
+          if (!manager || !manager.stepHandler) return false;
+          initialHashStepApplied = true;
+          manager.goToStep(step);
+          return true;
+        }
+
+        function runLightAdapters() {
+          removeBulukeBackgrounds();
+          removeBulukeScreenshotControls();
+          moveBulukeTopButtonsToSide();
+          applyBulukeSideIconSvgs();
+        }
+
+        function isBulukeReady() {
+          var app = document.getElementById("app");
+          if (!app) return false;
+          runLightAdapters();
+          var hasViewerShell = !!app.querySelector(".steps") && !!app.querySelector(".btn");
+          var hasModelCanvas = !!app.querySelector("#container canvas, canvas");
+          if (!hasViewerShell || !hasModelCanvas) return false;
+          if (hasVisibleInternalLoading(app)) return false;
+          if (!visibleImagesReady(app)) return false;
+          applyInitialHashStep();
+          return true;
+        }
+
+        function tryRemove() {
+          var now = Date.now();
+          var timedOut = now - startedAt > maxVisibleMs;
+          if (isBulukeReady() || timedOut) {
+            if (!readySince) readySince = now;
+            var stayedLongEnough = now - startedAt >= minVisibleMs;
+            var readyStable = now - readySince >= 700;
+            if (timedOut || (stayedLongEnough && readyStable)) {
+              removeLoading();
+              return true;
+            }
+          } else {
+            readySince = 0;
+          }
+          return false;
+        }
+
+        if (tryRemove()) return;
+
+        var observer = new MutationObserver(function () {
+          if (observerPending) return;
+          observerPending = true;
+          requestAnimationFrame(function () {
+            observerPending = false;
+            runLightAdapters();
+            if (tryRemove()) observer.disconnect();
+          });
+        });
+        observer.observe(document.getElementById("app") || document.body, {
+          childList: true,
+          subtree: true
+        });
+
+        window.addEventListener("load", function () {
+          if (tryRemove()) return;
+          setTimeout(function () {
+            if (tryRemove()) observer.disconnect();
+          }, minVisibleMs);
+        });
+
+        var timer = setInterval(function () {
+          runLightAdapters();
+          if (tryRemove()) {
+            clearInterval(timer);
+            observer.disconnect();
+          }
+        }, 250);
+      })();
+    </script>
+  </body>
+</html>

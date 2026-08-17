@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:231",
+  "sourceId": "231",
+  "source": "buluke",
+  "name": "摇摆机",
+  "entry": "UploadFile/1/BooketFiled/202210294936358937368.ldr",
+  "fileCount": 108,
+  "raw": {
+    "bytes": 220114,
+    "kb": 214.96,
+    "mb": 0.21
+  },
+  "gzip": {
+    "bytes": 37065,
+    "kb": 36.2,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "3cc25210cb85",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:353",
+  "sourceId": "353",
+  "source": "buluke",
+  "name": "俯卧撑",
+  "entry": "UploadFile/1/BooketFiled/2023223249512617366.ldr",
+  "fileCount": 215,
+  "raw": {
+    "bytes": 4157786,
+    "kb": 4060.34,
+    "mb": 3.97
+  },
+  "gzip": {
+    "bytes": 609375,
+    "kb": 595.09,
+    "mb": 0.58
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "0f2ffd87d1eb",
+  "verified": true
+}

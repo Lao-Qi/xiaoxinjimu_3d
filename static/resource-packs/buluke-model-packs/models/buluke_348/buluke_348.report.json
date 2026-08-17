@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:348",
+  "sourceId": "348",
+  "source": "buluke",
+  "name": "指挥者",
+  "entry": "UploadFile/1/BooketFiled/202326025643343633.ldr",
+  "fileCount": 72,
+  "raw": {
+    "bytes": 105056,
+    "kb": 102.59,
+    "mb": 0.1
+  },
+  "gzip": {
+    "bytes": 18141,
+    "kb": 17.72,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f9eaf8b1465d",
+  "verified": true
+}

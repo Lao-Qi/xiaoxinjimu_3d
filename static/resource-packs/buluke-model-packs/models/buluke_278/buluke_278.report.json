@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:278",
+  "sourceId": "278",
+  "source": "buluke",
+  "name": "单杠运动",
+  "entry": "UploadFile/1/BooketFiled/202212244184628208.ldr",
+  "fileCount": 155,
+  "raw": {
+    "bytes": 4006722,
+    "kb": 3912.81,
+    "mb": 3.82
+  },
+  "gzip": {
+    "bytes": 588860,
+    "kb": 575.06,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "512db4b689ce",
+  "verified": true
+}

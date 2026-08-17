@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:350",
+  "sourceId": "350",
+  "source": "buluke",
+  "name": "吊车",
+  "entry": "UploadFile/1/BooketFiled/2023223223273540096.ldr",
+  "fileCount": 248,
+  "raw": {
+    "bytes": 4745464,
+    "kb": 4634.24,
+    "mb": 4.53
+  },
+  "gzip": {
+    "bytes": 697534,
+    "kb": 681.19,
+    "mb": 0.67
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "d4136d453df7",
+  "verified": true
+}

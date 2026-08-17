@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:437",
+  "sourceId": "437",
+  "source": "buluke",
+  "name": "相框",
+  "entry": "UploadFile/1/BooketFiled/2023322368617684982.ldr",
+  "fileCount": 66,
+  "raw": {
+    "bytes": 93943,
+    "kb": 91.74,
+    "mb": 0.09
+  },
+  "gzip": {
+    "bytes": 16656,
+    "kb": 16.27,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "466e587ad5bc",
+  "verified": true
+}

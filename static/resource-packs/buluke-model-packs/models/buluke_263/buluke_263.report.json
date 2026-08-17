@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:263",
+  "sourceId": "263",
+  "source": "buluke",
+  "name": "跳舞的猫头鹰",
+  "entry": "UploadFile/1/BooketFiled/202211232531559986132.ldr",
+  "fileCount": 170,
+  "raw": {
+    "bytes": 4008790,
+    "kb": 3914.83,
+    "mb": 3.82
+  },
+  "gzip": {
+    "bytes": 586064,
+    "kb": 572.33,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b07ce058f467",
+  "verified": true
+}

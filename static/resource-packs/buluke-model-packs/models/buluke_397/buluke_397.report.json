@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:397",
+  "sourceId": "397",
+  "source": "buluke",
+  "name": "旋转陀螺",
+  "entry": "UploadFile/1/BooketFiled/2023313451780924880.ldr",
+  "fileCount": 148,
+  "raw": {
+    "bytes": 3821621,
+    "kb": 3732.05,
+    "mb": 3.64
+  },
+  "gzip": {
+    "bytes": 558738,
+    "kb": 545.64,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "66ce31f383ff",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:469",
+  "sourceId": "469",
+  "source": "buluke",
+  "name": "四脚虫",
+  "entry": "UploadFile/1/BooketFiled/20234112532973393637.ldr",
+  "fileCount": 152,
+  "raw": {
+    "bytes": 3835371,
+    "kb": 3745.48,
+    "mb": 3.66
+  },
+  "gzip": {
+    "bytes": 558858,
+    "kb": 545.76,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8bc229e639f5",
+  "verified": true
+}

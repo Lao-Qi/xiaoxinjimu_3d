@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:293",
+  "sourceId": "293",
+  "source": "buluke",
+  "name": "敲椰子",
+  "entry": "UploadFile/1/BooketFiled/2023154822269378371.ldr",
+  "fileCount": 116,
+  "raw": {
+    "bytes": 3764740,
+    "kb": 3676.5,
+    "mb": 3.59
+  },
+  "gzip": {
+    "bytes": 556127,
+    "kb": 543.09,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "45b049b10e3e",
+  "verified": true
+}

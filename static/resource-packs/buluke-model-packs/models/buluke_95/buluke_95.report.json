@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:95",
+  "sourceId": "95",
+  "source": "buluke",
+  "name": "吊塔",
+  "entry": "UploadFile/1/BooketFiled/2022755841229182650.ldr",
+  "fileCount": 193,
+  "raw": {
+    "bytes": 4220928,
+    "kb": 4122,
+    "mb": 4.03
+  },
+  "gzip": {
+    "bytes": 620315,
+    "kb": 605.78,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "16d506283dfe",
+  "verified": true
+}

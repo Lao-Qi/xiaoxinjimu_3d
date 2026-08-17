@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:219",
+  "sourceId": "219",
+  "source": "buluke",
+  "name": "吊桥",
+  "entry": "UploadFile/1/BooketFiled/202210292156900532286.ldr",
+  "fileCount": 107,
+  "raw": {
+    "bytes": 209755,
+    "kb": 204.84,
+    "mb": 0.2
+  },
+  "gzip": {
+    "bytes": 40219,
+    "kb": 39.28,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f3d7347decd7",
+  "verified": true
+}

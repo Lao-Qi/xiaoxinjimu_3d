@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:419",
+  "sourceId": "419",
+  "source": "buluke",
+  "name": "秋千2",
+  "entry": "UploadFile/1/BooketFiled/20233222532545460883.ldr",
+  "fileCount": 106,
+  "raw": {
+    "bytes": 250675,
+    "kb": 244.8,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 40529,
+    "kb": 39.58,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "89867af76ed0",
+  "verified": true
+}

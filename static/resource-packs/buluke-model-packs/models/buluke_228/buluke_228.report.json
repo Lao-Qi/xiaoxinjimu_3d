@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:228",
+  "sourceId": "228",
+  "source": "buluke",
+  "name": "起落桥",
+  "entry": "UploadFile/1/BooketFiled/202210293449267759128.ldr",
+  "fileCount": 95,
+  "raw": {
+    "bytes": 206799,
+    "kb": 201.95,
+    "mb": 0.2
+  },
+  "gzip": {
+    "bytes": 34545,
+    "kb": 33.74,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "0e69fcb611d9",
+  "verified": true
+}

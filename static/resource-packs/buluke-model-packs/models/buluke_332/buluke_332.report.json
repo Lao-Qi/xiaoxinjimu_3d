@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:332",
+  "sourceId": "332",
+  "source": "buluke",
+  "name": "模拟飞行器",
+  "entry": "UploadFile/1/BooketFiled/2023265255917389823.ldr",
+  "fileCount": 92,
+  "raw": {
+    "bytes": 159555,
+    "kb": 155.82,
+    "mb": 0.15
+  },
+  "gzip": {
+    "bytes": 27705,
+    "kb": 27.06,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "aba276470bb6",
+  "verified": true
+}

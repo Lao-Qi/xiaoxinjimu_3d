@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:289",
+  "sourceId": "289",
+  "source": "buluke",
+  "name": "电子锯",
+  "entry": "UploadFile/1/BooketFiled/2023154529811962549.ldr",
+  "fileCount": 114,
+  "raw": {
+    "bytes": 3704628,
+    "kb": 3617.8,
+    "mb": 3.53
+  },
+  "gzip": {
+    "bytes": 550599,
+    "kb": 537.69,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "720c69d08928",
+  "verified": true
+}

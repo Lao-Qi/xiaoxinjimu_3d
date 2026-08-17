@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:292",
+  "sourceId": "292",
+  "source": "buluke",
+  "name": "犁地机",
+  "entry": "UploadFile/1/BooketFiled/2023154756256283465.ldr",
+  "fileCount": 126,
+  "raw": {
+    "bytes": 320595,
+    "kb": 313.08,
+    "mb": 0.31
+  },
+  "gzip": {
+    "bytes": 46446,
+    "kb": 45.36,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f1b7b73bcf26",
+  "verified": true
+}

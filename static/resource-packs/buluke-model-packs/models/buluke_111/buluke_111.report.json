@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:111",
+  "sourceId": "111",
+  "source": "buluke",
+  "name": "指向小车",
+  "entry": "UploadFile/1/BooketFiled/202274557826489476.ldr",
+  "fileCount": 123,
+  "raw": {
+    "bytes": 286278,
+    "kb": 279.57,
+    "mb": 0.27
+  },
+  "gzip": {
+    "bytes": 44988,
+    "kb": 43.93,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f9be905429b9",
+  "verified": true
+}

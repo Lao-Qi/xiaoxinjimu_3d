@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:343",
+  "sourceId": "343",
+  "source": "buluke",
+  "name": "机器保姆",
+  "entry": "UploadFile/1/BooketFiled/20232658270969865.ldr",
+  "fileCount": 82,
+  "raw": {
+    "bytes": 133212,
+    "kb": 130.09,
+    "mb": 0.13
+  },
+  "gzip": {
+    "bytes": 23761,
+    "kb": 23.2,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "70bf8b5db107",
+  "verified": true
+}

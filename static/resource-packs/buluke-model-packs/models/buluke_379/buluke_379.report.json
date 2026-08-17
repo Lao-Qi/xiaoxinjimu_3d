@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:379",
+  "sourceId": "379",
+  "source": "buluke",
+  "name": "道闸",
+  "entry": "UploadFile/1/BooketFiled/20233133159710614497.ldr",
+  "fileCount": 129,
+  "raw": {
+    "bytes": 250312,
+    "kb": 244.45,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 41182,
+    "kb": 40.22,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "cb55b640f0fc",
+  "verified": true
+}

@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <!--
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    -->   
+    <title>小新积木3D教程</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link rel="shortcut icon" href="./files/haha.ico" />
+    <link rel="stylesheet" type="text/css" href="./files/main.css?version=1.0.1(2022-09-27)">
+  </head>
+  <body>
+    <div id="panel">
+      <div id="header">
+        <!--20211025<h4><a id="tBack"  href="index.php"><img src="./files/back.png" style="width:48px;height:48px;"/></a></h4>-->
+        <h4><a id="tBack"  href="javascript:history.back(-1)"><img src="./files/back.png" alt="上一页" style="width:48px;height:48px;"/></a></h4>
+
+        <div id="sections">
+          <span id="tBlockName" ></span>
+        </div>
+        <div id="expandButton"></div>
+      </div>
+      <div id="panelScrim"></div>
+
+      <div id="contentWrapper">
+        <div id="content" onscroll="contentS()"></div>
+      </div>
+    </div>
+    
+    <div id="partWrapper"  onscroll="contentP()"></div>
+    
+    <iframe id="viewer" name="viewer"></iframe>
+	<script src = "./js/local-shim.js"></script>
+	<script src = "./lib/cjm.js?version=1.0.1(2021-12-17)"></script>
+	<script src = "./lib/pojc.js?version=1.0.1(2022-09-18)"></script>
+    <script>
+      function getLinkInfo() {
+          var linkInfo = "";
+           
+			linkInfo = "Na3lNT5ey8uZ1LCh8EYcsZrTPcYAgyeUAuXhFj6sn1zjfSYxruPXNObiMiJul0pnRdTLTdZpjZ4mOKVpqyxfog==";
+	                return linkInfo;
+  	  } 
+    </script>
+    <script src = "./lib/scrollifneeded.js?version=1.0.9(2023-03-07)" ></script>
+    <script src = "./lib/modelsL.js?version=1.0.11(2023-03-07)" ></script>
+      <script src="/data-guard.js?v=9389850196f4"></script>
+  </body>
+</html>

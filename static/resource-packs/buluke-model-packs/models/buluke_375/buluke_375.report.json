@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:375",
+  "sourceId": "375",
+  "source": "buluke",
+  "name": "打鼓机",
+  "entry": "UploadFile/1/BooketFiled/20233133010589918327.ldr",
+  "fileCount": 121,
+  "raw": {
+    "bytes": 308179,
+    "kb": 300.96,
+    "mb": 0.29
+  },
+  "gzip": {
+    "bytes": 47381,
+    "kb": 46.27,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "d2c075ed6132",
+  "verified": true
+}

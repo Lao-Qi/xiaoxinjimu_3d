@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:312",
+  "sourceId": "312",
+  "source": "buluke",
+  "name": "信号塔",
+  "entry": "UploadFile/1/BooketFiled/2023223640838168118.ldr",
+  "fileCount": 140,
+  "raw": {
+    "bytes": 3879626,
+    "kb": 3788.7,
+    "mb": 3.7
+  },
+  "gzip": {
+    "bytes": 570493,
+    "kb": 557.12,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "055ca61077fe",
+  "verified": true
+}

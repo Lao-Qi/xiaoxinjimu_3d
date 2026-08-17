@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:507",
+  "sourceId": "507",
+  "source": "buluke",
+  "name": "陀螺发射器",
+  "entry": "UploadFile/1/BooketFiled/202354559739497055.ldr",
+  "fileCount": 139,
+  "raw": {
+    "bytes": 3736960,
+    "kb": 3649.38,
+    "mb": 3.56
+  },
+  "gzip": {
+    "bytes": 546677,
+    "kb": 533.86,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f9606ce32193",
+  "verified": true
+}

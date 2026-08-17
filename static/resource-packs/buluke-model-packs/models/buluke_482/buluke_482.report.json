@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:482",
+  "sourceId": "482",
+  "source": "buluke",
+  "name": "避震三轮车",
+  "entry": "UploadFile/1/BooketFiled/20235437393866880.ldr",
+  "fileCount": 144,
+  "raw": {
+    "bytes": 391204,
+    "kb": 382.04,
+    "mb": 0.37
+  },
+  "gzip": {
+    "bytes": 58915,
+    "kb": 57.53,
+    "mb": 0.06
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f96067511cce",
+  "verified": true
+}

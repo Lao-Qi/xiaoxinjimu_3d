@@ -1,0 +1,87 @@
+{
+  "enabled": true,
+  "format": "webp",
+  "quality": 18,
+  "maxWidth": 480,
+  "maxHeight": 480,
+  "keepOriginal": true,
+  "suffixMode": "append",
+  "rules": [
+    {
+      "name": "modelBigImages",
+      "pathPrefix": "UploadFile/1/ShopProImg/Images/B_",
+      "quality": 24,
+      "maxWidth": 750,
+      "maxHeight": 750
+    },
+    {
+      "name": "footechsGroupImages",
+      "pathPrefix": "footechs/pic/",
+      "quality": 12,
+      "maxWidth": 360,
+      "maxHeight": 360
+    },
+    {
+      "name": "bulukeCategoryImages",
+      "pathPrefix": "UploadFile/1/CateImg/",
+      "quality": 12,
+      "maxWidth": 360,
+      "maxHeight": 360
+    }
+  ],
+  "converted": 1158,
+  "failed": 0,
+  "skippedLarger": 0,
+  "originalBytes": 72628955,
+  "optimizedBytes": 6105032,
+  "savedBytes": 66523923,
+  "failures": [],
+  "invalidImages": [
+    {
+      "file": "admin_uploads/1784038145084-Codex额度.url.jpg",
+      "bytes": 168,
+      "replacement": "/footechs/files/logo-null.png"
+    },
+    {
+      "file": "footechs/pic/system/gzh.jpg",
+      "bytes": 9,
+      "replacement": "/footechs/files/logo-null.png"
+    }
+  ],
+  "ruleStats": {
+    "bulukeCategoryImages": {
+      "quality": 12,
+      "maxWidth": 360,
+      "maxHeight": 360,
+      "converted": 36,
+      "originalBytes": 12250060,
+      "optimizedBytes": 189546
+    },
+    "default": {
+      "quality": 18,
+      "maxWidth": 480,
+      "maxHeight": 480,
+      "converted": 371,
+      "originalBytes": 30047082,
+      "optimizedBytes": 968786
+    },
+    "modelBigImages": {
+      "quality": 24,
+      "maxWidth": 750,
+      "maxHeight": 750,
+      "converted": 335,
+      "originalBytes": 17803967,
+      "optimizedBytes": 3835288
+    },
+    "footechsGroupImages": {
+      "quality": 12,
+      "maxWidth": 360,
+      "maxHeight": 360,
+      "converted": 416,
+      "originalBytes": 12527669,
+      "optimizedBytes": 1111412
+    }
+  },
+  "rewrittenFiles": 403,
+  "rewrittenReferences": 6415
+}

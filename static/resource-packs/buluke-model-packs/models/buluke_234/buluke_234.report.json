@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:234",
+  "sourceId": "234",
+  "source": "buluke",
+  "name": "等边三角形",
+  "entry": "UploadFile/1/BooketFiled/20221029541390369759.ldr",
+  "fileCount": 32,
+  "raw": {
+    "bytes": 73222,
+    "kb": 71.51,
+    "mb": 0.07
+  },
+  "gzip": {
+    "bytes": 11706,
+    "kb": 11.43,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "109187f5b223",
+  "verified": true
+}

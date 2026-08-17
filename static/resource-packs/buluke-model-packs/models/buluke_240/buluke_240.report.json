@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:240",
+  "sourceId": "240",
+  "source": "buluke",
+  "name": "锄头",
+  "entry": "UploadFile/1/BooketFiled/20221029336980739135.ldr",
+  "fileCount": 42,
+  "raw": {
+    "bytes": 97369,
+    "kb": 95.09,
+    "mb": 0.09
+  },
+  "gzip": {
+    "bytes": 14024,
+    "kb": 13.7,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a56dabfb0d64",
+  "verified": true
+}

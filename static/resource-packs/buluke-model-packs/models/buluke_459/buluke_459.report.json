@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:459",
+  "sourceId": "459",
+  "source": "buluke",
+  "name": "马车",
+  "entry": "UploadFile/1/BooketFiled/2023413430325212970.ldr",
+  "fileCount": 171,
+  "raw": {
+    "bytes": 3894073,
+    "kb": 3802.81,
+    "mb": 3.71
+  },
+  "gzip": {
+    "bytes": 570405,
+    "kb": 557.04,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "3c8bf82d13f3",
+  "verified": true
+}

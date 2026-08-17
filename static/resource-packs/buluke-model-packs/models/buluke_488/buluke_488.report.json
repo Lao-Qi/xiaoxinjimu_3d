@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:488",
+  "sourceId": "488",
+  "source": "buluke",
+  "name": "电锯",
+  "entry": "UploadFile/1/BooketFiled/202354621824266797.ldr",
+  "fileCount": 173,
+  "raw": {
+    "bytes": 439852,
+    "kb": 429.54,
+    "mb": 0.42
+  },
+  "gzip": {
+    "bytes": 72170,
+    "kb": 70.48,
+    "mb": 0.07
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "106fa87f9466",
+  "verified": true
+}

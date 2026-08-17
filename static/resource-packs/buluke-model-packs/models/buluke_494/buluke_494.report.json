@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:494",
+  "sourceId": "494",
+  "source": "buluke",
+  "name": "火星探测车",
+  "entry": "UploadFile/1/BooketFiled/202354484856664301.ldr",
+  "fileCount": 188,
+  "raw": {
+    "bytes": 3969977,
+    "kb": 3876.93,
+    "mb": 3.79
+  },
+  "gzip": {
+    "bytes": 579697,
+    "kb": 566.11,
+    "mb": 0.55
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a38a3467cdab",
+  "verified": true
+}

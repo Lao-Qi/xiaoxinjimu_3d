@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:338",
+  "sourceId": "338",
+  "source": "buluke",
+  "name": "扳手",
+  "entry": "UploadFile/1/BooketFiled/2023265546770920087.ldr",
+  "fileCount": 45,
+  "raw": {
+    "bytes": 112606,
+    "kb": 109.97,
+    "mb": 0.11
+  },
+  "gzip": {
+    "bytes": 15199,
+    "kb": 14.84,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "44a2816d63fd",
+  "verified": true
+}

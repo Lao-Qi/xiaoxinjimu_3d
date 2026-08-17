@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:237",
+  "sourceId": "237",
+  "source": "buluke",
+  "name": "四边形",
+  "entry": "UploadFile/1/BooketFiled/20221029594593553638.ldr",
+  "fileCount": 26,
+  "raw": {
+    "bytes": 42535,
+    "kb": 41.54,
+    "mb": 0.04
+  },
+  "gzip": {
+    "bytes": 7744,
+    "kb": 7.56,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f3049ed01142",
+  "verified": true
+}

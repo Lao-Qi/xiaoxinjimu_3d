@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:241",
+  "sourceId": "241",
+  "source": "buluke",
+  "name": "手推车",
+  "entry": "UploadFile/1/BooketFiled/20221029431412226539.ldr",
+  "fileCount": 91,
+  "raw": {
+    "bytes": 279392,
+    "kb": 272.84,
+    "mb": 0.27
+  },
+  "gzip": {
+    "bytes": 41714,
+    "kb": 40.74,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "6aa08cf2b414",
+  "verified": true
+}

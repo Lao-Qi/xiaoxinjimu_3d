@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:501",
+  "sourceId": "501",
+  "source": "buluke",
+  "name": "平衡轮",
+  "entry": "UploadFile/1/BooketFiled/2023545153854121556.ldr",
+  "fileCount": 156,
+  "raw": {
+    "bytes": 4208622,
+    "kb": 4109.98,
+    "mb": 4.01
+  },
+  "gzip": {
+    "bytes": 615290,
+    "kb": 600.87,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "0eeddfa0ea5b",
+  "verified": true
+}

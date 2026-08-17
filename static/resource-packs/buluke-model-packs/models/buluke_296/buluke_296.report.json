@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:296",
+  "sourceId": "296",
+  "source": "buluke",
+  "name": "跷跷板",
+  "entry": "UploadFile/1/BooketFiled/202315501735267152.ldr",
+  "fileCount": 78,
+  "raw": {
+    "bytes": 140602,
+    "kb": 137.31,
+    "mb": 0.13
+  },
+  "gzip": {
+    "bytes": 22374,
+    "kb": 21.85,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "c248abe552c3",
+  "verified": true
+}

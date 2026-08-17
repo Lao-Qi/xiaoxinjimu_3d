@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:411",
+  "sourceId": "411",
+  "source": "buluke",
+  "name": "高低杠",
+  "entry": "UploadFile/1/BooketFiled/20233222129110304612.ldr",
+  "fileCount": 75,
+  "raw": {
+    "bytes": 153879,
+    "kb": 150.27,
+    "mb": 0.15
+  },
+  "gzip": {
+    "bytes": 26076,
+    "kb": 25.46,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "0a157cc2ed8f",
+  "verified": true
+}

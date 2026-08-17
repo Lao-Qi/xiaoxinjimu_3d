@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:317",
+  "sourceId": "317",
+  "source": "buluke",
+  "name": "摩托艇",
+  "entry": "UploadFile/1/BooketFiled/20232254134509303.ldr",
+  "fileCount": 88,
+  "raw": {
+    "bytes": 201449,
+    "kb": 196.73,
+    "mb": 0.19
+  },
+  "gzip": {
+    "bytes": 31645,
+    "kb": 30.9,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "9f3578b20aba",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:302",
+  "sourceId": "302",
+  "source": "buluke",
+  "name": "工具钳",
+  "entry": "UploadFile/1/BooketFiled/2023155252320928432.ldr",
+  "fileCount": 67,
+  "raw": {
+    "bytes": 149973,
+    "kb": 146.46,
+    "mb": 0.14
+  },
+  "gzip": {
+    "bytes": 22133,
+    "kb": 21.61,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "c306b90462bb",
+  "verified": true
+}

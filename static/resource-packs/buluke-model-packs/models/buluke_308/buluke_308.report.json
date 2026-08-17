@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:308",
+  "sourceId": "308",
+  "source": "buluke",
+  "name": "机械手",
+  "entry": "UploadFile/1/BooketFiled/202322352125793985.ldr",
+  "fileCount": 157,
+  "raw": {
+    "bytes": 4067675,
+    "kb": 3972.34,
+    "mb": 3.88
+  },
+  "gzip": {
+    "bytes": 591450,
+    "kb": 577.59,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "5286530e10e9",
+  "verified": true
+}

@@ -1,0 +1,85 @@
+{
+  "headers": [
+    {
+      "source": "/static/resource-packs/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/static/resource-packs/*/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/static/resource-packs/*/*/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/static/resource-packs/*/*/*/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/footechs/pic/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/footechs/pic/*/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/footechs/pic/*/*/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/footechs/pic/*/*/*/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    },
+    {
+      "source": "/admin_uploads/*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    }
+  ]
+}

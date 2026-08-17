@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:139",
+  "sourceId": "139",
+  "source": "buluke",
+  "name": "四足爬虫",
+  "entry": "UploadFile/1/BooketFiled/20227253544333811732.ldr",
+  "fileCount": 173,
+  "raw": {
+    "bytes": 4269467,
+    "kb": 4169.4,
+    "mb": 4.07
+  },
+  "gzip": {
+    "bytes": 628709,
+    "kb": 613.97,
+    "mb": 0.6
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "aa4bbcb21863",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:279",
+  "sourceId": "279",
+  "source": "buluke",
+  "name": "电动雨刮器",
+  "entry": "UploadFile/1/BooketFiled/20221224442786827748.ldr",
+  "fileCount": 133,
+  "raw": {
+    "bytes": 3880889,
+    "kb": 3789.93,
+    "mb": 3.7
+  },
+  "gzip": {
+    "bytes": 567567,
+    "kb": 554.26,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "c5576642d2c0",
+  "verified": true
+}

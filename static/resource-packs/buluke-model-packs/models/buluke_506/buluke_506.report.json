@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:506",
+  "sourceId": "506",
+  "source": "buluke",
+  "name": "双翼直升机",
+  "entry": "UploadFile/1/BooketFiled/2023545438140619291.ldr",
+  "fileCount": 222,
+  "raw": {
+    "bytes": 4041752,
+    "kb": 3947.02,
+    "mb": 3.85
+  },
+  "gzip": {
+    "bytes": 592881,
+    "kb": 578.99,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "cc6bad58c98b",
+  "verified": true
+}

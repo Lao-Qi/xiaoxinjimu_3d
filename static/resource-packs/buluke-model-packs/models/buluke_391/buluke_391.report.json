@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:391",
+  "sourceId": "391",
+  "source": "buluke",
+  "name": "青蛙",
+  "entry": "UploadFile/1/BooketFiled/20233134217325555705.ldr",
+  "fileCount": 119,
+  "raw": {
+    "bytes": 3647542,
+    "kb": 3562.05,
+    "mb": 3.48
+  },
+  "gzip": {
+    "bytes": 533066,
+    "kb": 520.57,
+    "mb": 0.51
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f7c1ff053fa2",
+  "verified": true
+}

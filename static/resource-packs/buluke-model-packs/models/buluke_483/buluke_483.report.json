@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:483",
+  "sourceId": "483",
+  "source": "buluke",
+  "name": "除草机",
+  "entry": "UploadFile/1/BooketFiled/20235444283235576.ldr",
+  "fileCount": 134,
+  "raw": {
+    "bytes": 285728,
+    "kb": 279.03,
+    "mb": 0.27
+  },
+  "gzip": {
+    "bytes": 47931,
+    "kb": 46.81,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "781b3078dc9f",
+  "verified": true
+}

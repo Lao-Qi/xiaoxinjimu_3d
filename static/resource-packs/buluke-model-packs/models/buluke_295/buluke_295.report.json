@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:295",
+  "sourceId": "295",
+  "source": "buluke",
+  "name": "尖头车",
+  "entry": "UploadFile/1/BooketFiled/2023154934247893677.ldr",
+  "fileCount": 136,
+  "raw": {
+    "bytes": 359335,
+    "kb": 350.91,
+    "mb": 0.34
+  },
+  "gzip": {
+    "bytes": 56116,
+    "kb": 54.8,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8a1af6ffb215",
+  "verified": true
+}

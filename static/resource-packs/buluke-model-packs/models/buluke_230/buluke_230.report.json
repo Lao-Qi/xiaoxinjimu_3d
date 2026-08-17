@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:230",
+  "sourceId": "230",
+  "source": "buluke",
+  "name": "压印机",
+  "entry": "UploadFile/1/BooketFiled/202210294650868586820.ldr",
+  "fileCount": 79,
+  "raw": {
+    "bytes": 161048,
+    "kb": 157.27,
+    "mb": 0.15
+  },
+  "gzip": {
+    "bytes": 28380,
+    "kb": 27.71,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "64110b506586",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:396",
+  "sourceId": "396",
+  "source": "buluke",
+  "name": "小狗",
+  "entry": "UploadFile/1/BooketFiled/20233134426764274742.ldr",
+  "fileCount": 228,
+  "raw": {
+    "bytes": 4427799,
+    "kb": 4324.02,
+    "mb": 4.22
+  },
+  "gzip": {
+    "bytes": 645317,
+    "kb": 630.19,
+    "mb": 0.62
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "5360bbfaea4c",
+  "verified": true
+}

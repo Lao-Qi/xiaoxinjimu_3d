@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:371",
+  "sourceId": "371",
+  "source": "buluke",
+  "name": "不倒翁",
+  "entry": "UploadFile/1/BooketFiled/20233132826817501873.ldr",
+  "fileCount": 97,
+  "raw": {
+    "bytes": 617058,
+    "kb": 602.6,
+    "mb": 0.59
+  },
+  "gzip": {
+    "bytes": 87960,
+    "kb": 85.9,
+    "mb": 0.08
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "40e5c712ca8d",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:316",
+  "sourceId": "316",
+  "source": "buluke",
+  "name": "打击球",
+  "entry": "UploadFile/1/BooketFiled/2023225210958928941.ldr",
+  "fileCount": 75,
+  "raw": {
+    "bytes": 145500,
+    "kb": 142.09,
+    "mb": 0.14
+  },
+  "gzip": {
+    "bytes": 24020,
+    "kb": 23.46,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8ae5ea0b522b",
+  "verified": true
+}

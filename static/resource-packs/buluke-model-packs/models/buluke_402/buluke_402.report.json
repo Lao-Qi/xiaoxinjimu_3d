@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:402",
+  "sourceId": "402",
+  "source": "buluke",
+  "name": "齿轮连杆2",
+  "entry": "UploadFile/1/BooketFiled/20233135117374756992.ldr",
+  "fileCount": 97,
+  "raw": {
+    "bytes": 246797,
+    "kb": 241.01,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 36660,
+    "kb": 35.8,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "776692ad4700",
+  "verified": true
+}

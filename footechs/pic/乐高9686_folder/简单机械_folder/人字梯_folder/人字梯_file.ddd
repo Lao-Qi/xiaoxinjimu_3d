@@ -1,0 +1,142 @@
+0 FILE ������.io
+0 Untitled Model
+0 Name: ������
+0 Author: 
+1 1 -13.7689 188.923 -60 0 0.766047 0.642786 0 0.642786 -0.766047 -1 0 0 w5481498112.dat
+1 1 82.3495 86.8187 -10 0.642786 0.766047 0 -0.766047 0.642786 0 0 0 1 w4724539019.dat
+1 1 82.3495 86.8187 -110 0.642786 0.766047 0 -0.766047 0.642786 0 0 0 1 w4724539019.dat
+1 1 37.654 127.6392 -60 0 0.766047 0.642786 0 0.642786 -0.766047 -1 0 0 w5481498112.dat
+1 1 89.0769 66.3555 -60 0 0.766047 0.642786 0 0.642786 -0.766047 -1 0 0 w5481498112.dat
+1 1 140.4997 5.0717 -60 0 0.766047 0.642786 0 0.642786 -0.766047 -1 0 0 w5481498112.dat
+0 ROTSTEP 0 -90 0 REL
+1 16 265.6939 109.9055 -60 0.64279 -0.766043 0 0.766043 0.64279 0 0 0 1 submodel group 1
+0 STEP
+1 226 180 -14 5.16 1 0 0 0 1 0 0 0 1 w665398289a.dat
+1 226 180 -14 -126.57 1 0 0 0 1 0 0 0 1 w665398289a.dat
+1 0 180 -14 -59.84 0 0 1 0 1 0 -1 0 0 w5810366876.dat
+0 STEP
+1 0 25.731 169.851 -120 1 0 0 0 0 1 0 -1 0 stringStuds-1.ldr
+0 STEP
+
+0 NOFILE
+0 FILE submodel group 1
+0 SubModel Group 1
+0 Name: SubModel Group 1
+0 Author: 
+1 1 -110 -32 0.65 0 0 1 0 1 0 -1 0 0 w549699017b.dat
+1 1 -10 -24 -29.35 1 0 0 0 1 0 0 0 1 w4724539019.dat
+1 1 -10 -24 30.65 1 0 0 0 1 0 0 0 1 w4724539019.dat
+1 1 -30 -32 0.65 0 0 1 0 1 0 -1 0 0 w549699017b.dat
+1 1 50 -32 0.65 0 0 1 0 1 0 -1 0 0 w549699017b.dat
+1 1 130 -32 0.65 0 0 1 0 1 0 -1 0 0 w549699017b.dat
+
+0 NOFILE
+0 FILE stringStuds-1.ldr
+0 
+0 Name: stringStuds-1.ldr
+0 Author: sftang
+0 !KEYWORDS flexible, string, rope
+0 !LDMOC CONTENT [type=path] [addFallBack=default] [looped=false] [displayKind=mm] [curveStep=0] [displayLenCor=8]
+
+0 !LDMOC PATH_POINT [type=bezier] [posOri=10 3 0 0 -1 0 0 0 1 -1 0 0] [prevCPDist=25] [nextCPDist=25] [cirR=25] [cirDir=xyCW] [prevYRoll=0] [nextYRoll=0]
+0 !LDMOC PATH_POINT [type=bezier] [posOri=303 -12 0 0 -0.93358 0.358368 0 0.358368 0.93358 -1 0 0] [prevCPDist=25] [nextCPDist=40.5] [cirR=20] [cirDir=xyCW] [prevYRoll=0] [nextYRoll=0]
+0 !LDMOC PATH_POINT [type=bezier] [posOri=318 -47 0 0 0.939693 0.34202 0 0.34202 -0.939693 -1 0 0] [prevCPDist=12] [nextCPDist=25] [cirR=20] [cirDir=xyCW] [prevYRoll=0] [nextYRoll=0]
+0 !LDMOC PATH_POINT [type=bezier] [posOri=10 -25 0 0 1 0 0 0 -1 -1 0 0] [prevCPDist=25] [nextCPDist=25] [cirR=25] [cirDir=xyCW] [prevYRoll=0] [nextYRoll=0]
+
+0 !LDMOC PATH_SKIN [donCol=0] [donOri=1 0 0 0 1 0 0 0 1] [donPart=ldcLQRopeSeg.dat] [donYSize=400%] [donCen=absCen] [donCenYOfs=0] [donFinScale=segMerge] [donPlace=refsStat] [donYAlign=0] [donInline=true] [segSize=75%] [segSizeTol=5%] [segsCnt=0] [segsGrp=0] [segsMaxMerge=0] [segsMrgAng=0] [segsMrgRollAng=0] [segsEdgeDelKind=keepFirstLeft]
+
+0 !LDMOC PATH_CAP [group=start] [color=16] [posOri=0 0 0 0 0 1 0 1 0 -1 0 0] [part=572a.dat] [extraLen=0mm] [inlineRef=false]
+0 !LDMOC PATH_CAP [group=start] [color=0] [posOri=7 3 0 0 1 0 1 0 0 0 0 -1] [part=ldcRopeEnd.dat] [extraLen=0mm] [inlineRef=true]
+0 !LDMOC PATH_CAP [group=end] [color=16] [posOri=0 -22 0 0 0 -1 0 -1 0 -1 0 0] [part=572a.dat] [extraLen=0mm] [inlineRef=false]
+0 !LDMOC PATH_CAP [group=end] [color=0] [posOri=7 -25 0 0 1 0 1 0 0 0 0 -1] [part=ldcRopeEnd.dat] [extraLen=0mm] [inlineRef=true]
+
+0 !LDMOC GENERATED [generator=LDCad 1.6d]
+0 //This is the fallback LDraw content for above PATH configuration.
+0 // Do not edit, any changes will be lost upon regeneration.
+0 // The path is approx 262.62 mm (656.56) and exists out of 41 segments.
+
+0 //Some general hints about the document.
+0 UNOFFICIAL PART
+0 BFC CERTIFY CCW
+
+0 //Some of this content has been generated from other LDraw files, many thanks to all involved.
+0 // Credits for "ldcRopeEnd.dat":
+0 //  Author: sftang
+
+0 //Start cap reference(s)
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 w495121308a.dat
+1 0 7 3 0 0 4 0 1.5 0 0 0 0 -1.5 w7446-6cyli.dat
+
+0 //End cap reference(s)
+1 16 0 -22 0 0 0 -1 0 -1 0 -1 0 0 w495121308a.dat
+1 0 7 -25 0 0 4 0 1.5 0 0 0 0 -1.5 w7446-6cyli.dat
+
+0 //Fixed color segments
+0 //  Skin meta #1 is using a static color.
+0 //  To ensure correct edge colors those segments are placed in (a) subpart(s).
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 stringStuds-1_subPart1.ldr
+
+0 NOFILE
+0 FILE stringStuds-1_subPart1.ldr
+0 
+0 Name: stringStuds-1_subPart1.ldr
+0 Author: sftang
+
+0 !LDMOC GENERATED [generator=LDCad 1.6d] [master=stringStuds-1.ldr]
+0 //This is additional fallback LDraw content for the "stringStuds-1.ldr" PATH configuration.
+0 // Do not edit, any changes will be lost upon regeneration.
+0 // The path is approx 262.62 mm (656.56) and exists out of 41 segments.
+
+0 //Some general hints about the document.
+0 UNOFFICIAL PART
+0 BFC CERTIFY CCW
+
+0 //Some of this content has been generated from other LDraw files, many thanks to all involved.
+0 // Credits for "ldcLQRopeSeg.dat":
+0 //  Author: sftang
+
+0 //Segments
+1 16 49.703217 2.256 0 0 -39.96661 0.028104 0 0.748936 1.499737 -1.5 0 0 w7446-6cyli.dat
+1 16 172.748521 -1.768391 0 0 -123.850718 0.048989 0 4.047038 1.4992 -1.5 0 0 w7446-6cyli.dat
+1 16 235.564485 -4.889352 0 0 -63.879062 0.074217 0 3.164486 1.498163 -1.5 0 0 w7446-6cyli.dat
+1 16 262.453288 -6.716519 0 0 -27.91802 0.101173 0 1.887333 1.496584 -1.5 0 0 w7446-6cyli.dat
+1 16 277.373038 -8.006994 0 0 -15.931226 0.128336 0 1.368048 1.4945 -1.5 0 0 w7446-6cyli.dat
+1 16 286.30807 -8.959986 0 0 -9.938705 0.15745 0 1.049025 1.491714 -1.5 0 0 w7446-6cyli.dat
+1 16 292.248886 -9.732867 0 0 -6.93916 0.190724 0 0.889531 1.487825 -1.5 0 0 w7446-6cyli.dat
+1 16 295.208271 -10.1935 0 0 -3.95275 0.22497 0 0.599617 1.483033 -1.5 0 0 w7446-6cyli.dat
+1 16 298.15715 -10.723124 0 0 -3.93773 0.259413 0 0.691418 1.477398 -1.5 0 0 w7446-6cyli.dat
+1 16 301.07911 -11.385992 0 0 -3.905047 0.321524 0 0.856961 1.465136 -1.5 0 0 w7446-6cyli.dat
+1 16 303.924118 -12.327782 0 0 -3.813642 0.450214 0 1.199961 1.430842 -1.5 0 0 w7446-6cyli.dat
+1 16 306.690626 -13.47892 0 0 -3.710583 0.558435 0 1.488404 1.392175 -1.5 0 0 w7446-6cyli.dat
+1 16 309.430857 -14.690486 0 0 -3.664532 0.599715 0 1.59843 1.374897 -1.5 0 0 w7446-6cyli.dat
+1 16 312.131949 -15.986959 0 0 -3.613212 0.642055 0 1.711279 1.355642 -1.5 0 0 w7446-6cyli.dat
+1 16 314.779687 -17.389433 0 0 -3.544891 0.693597 0 1.848654 1.330009 -1.5 0 0 w7446-6cyli.dat
+1 16 317.359368 -18.913586 0 0 -3.457404 0.753202 0 2.007519 1.297184 -1.5 0 0 w7446-6cyli.dat
+1 16 319.853306 -20.574406 0 0 -3.346997 0.820405 0 2.186638 1.255761 -1.5 0 0 w7446-6cyli.dat
+1 16 322.221977 -22.410287 0 0 -3.188027 0.905154 0 2.412521 1.196117 -1.5 0 0 w7446-6cyli.dat
+1 16 324.41198 -24.456899 0 0 -2.961214 1.007788 0 2.686072 1.111019 -1.5 0 0 w7446-6cyli.dat
+1 16 326.346353 -26.747518 0 0 -2.637032 1.127435 0 3.004968 0.989389 -1.5 0 0 w7446-6cyli.dat
+1 16 327.882339 -29.324752 0 0 -2.135777 1.268023 0 3.379679 0.801323 -1.5 0 0 w7446-6cyli.dat
+1 16 328.821187 -32.177887 0 0 -1.381827 1.407555 0 3.751577 0.518448 -1.5 0 0 w7446-6cyli.dat
+1 16 328.950498 -35.183234 0 0 -0.347675 1.494317 0 3.982825 0.130444 -1.5 0 0 w7446-6cyli.dat
+1 16 328.202474 -38.099079 0 0 0.806105 1.469193 0 3.915861 -0.302443 -1.5 0 0 w7446-6cyli.dat
+1 16 326.717732 -40.715365 0 0 1.816026 1.336321 0 3.561716 -0.681355 -1.5 0 0 w7446-6cyli.dat
+1 16 324.717292 -42.956718 0 0 2.550817 1.15502 0 3.078491 -0.957042 -1.5 0 0 w7446-6cyli.dat
+1 16 322.363223 -44.818592 0 0 3.059978 0.965363 0 2.572996 -1.148074 -1.5 0 0 w7446-6cyli.dat
+1 16 319.757128 -46.304569 0 0 3.420649 0.776466 0 2.069526 -1.283394 -1.5 0 0 w7446-6cyli.dat
+1 16 316.953148 -47.370312 0 0 3.699158 0.569005 0 1.516576 -1.387888 -1.5 0 0 w7446-6cyli.dat
+1 16 313.993372 -47.878992 0 0 3.917126 0.300129 0 0.799938 -1.469668 -1.5 0 0 w7446-6cyli.dat
+1 16 311.010524 -48.169805 0 0 3.972863 0.167848 0 0.447367 -1.490579 -1.5 0 0 w7446-6cyli.dat
+1 16 308.019246 -48.344284 0 0 3.989272 0.098898 0 0.263595 -1.496736 -1.5 0 0 w7446-6cyli.dat
+1 16 302.028403 -48.506168 0 0 6.99279 0.045025 0 0.209994 -1.499324 -1.5 0 0 w7446-6cyli.dat
+1 16 296.036518 -48.492092 0 0 6.995942 0.000231 0 0.001075 -1.5 -1.5 0 0 w7446-6cyli.dat
+1 16 287.049945 -48.291209 0 0 9.991677 -0.031737 0 -0.21145 -1.499664 -1.5 0 0 w7446-6cyli.dat
+1 16 272.081963 -47.651664 0 0 15.975754 -0.062984 0 -0.671404 -1.498677 -1.5 0 0 w7446-6cyli.dat
+1 16 245.166814 -45.975301 0 0 27.92827 -0.092688 0 -1.729049 -1.497134 -1.5 0 0 w7446-6cyli.dat
+1 16 185.435203 -41.109349 0 0 60.758964 -0.121547 0 -4.939618 -1.495067 -1.5 0 0 w7446-6cyli.dat
+1 16 18.363989 -25.401162 0 0 168.145449 -0.140354 0 -15.802564 -1.493419 -1.5 0 0 w7446-6cyli.dat
+1 16 12.43766 -25.054506 0 0 6.982735 -0.092127 0 -0.429677 -1.497168 -1.5 0 0 w7446-6cyli.dat
+1 16 9.471267 -24.984645 0 0 3.996287 -0.043542 0 -0.116054 -1.499368 -1.5 0 0 w7446-6cyli.dat
+0 NOFILE
+
+

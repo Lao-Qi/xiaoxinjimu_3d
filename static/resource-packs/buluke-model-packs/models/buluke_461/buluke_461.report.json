@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:461",
+  "sourceId": "461",
+  "source": "buluke",
+  "name": "起落架2",
+  "entry": "UploadFile/1/BooketFiled/20234112020661589072.ldr",
+  "fileCount": 114,
+  "raw": {
+    "bytes": 220292,
+    "kb": 215.13,
+    "mb": 0.21
+  },
+  "gzip": {
+    "bytes": 36178,
+    "kb": 35.33,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "fad2b83f553e",
+  "verified": true
+}

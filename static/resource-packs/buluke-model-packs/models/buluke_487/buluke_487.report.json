@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:487",
+  "sourceId": "487",
+  "source": "buluke",
+  "name": "电动风扇",
+  "entry": "UploadFile/1/BooketFiled/202354555355198720.ldr",
+  "fileCount": 138,
+  "raw": {
+    "bytes": 3751199,
+    "kb": 3663.28,
+    "mb": 3.58
+  },
+  "gzip": {
+    "bytes": 546308,
+    "kb": 533.5,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f7e7df76e611",
+  "verified": true
+}

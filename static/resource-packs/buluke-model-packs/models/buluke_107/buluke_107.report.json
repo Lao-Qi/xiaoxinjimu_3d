@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:107",
+  "sourceId": "107",
+  "source": "buluke",
+  "name": "风车",
+  "entry": "UploadFile/1/BooketFiled/2022745419434774434.ldr",
+  "fileCount": 127,
+  "raw": {
+    "bytes": 355782,
+    "kb": 347.44,
+    "mb": 0.34
+  },
+  "gzip": {
+    "bytes": 56632,
+    "kb": 55.3,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "509f87159b95",
+  "verified": true
+}

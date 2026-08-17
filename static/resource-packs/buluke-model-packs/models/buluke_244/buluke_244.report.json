@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:244",
+  "sourceId": "244",
+  "source": "buluke",
+  "name": "伸缩夹",
+  "entry": "UploadFile/1/BooketFiled/20221125538855726296.ldr",
+  "fileCount": 54,
+  "raw": {
+    "bytes": 92818,
+    "kb": 90.64,
+    "mb": 0.09
+  },
+  "gzip": {
+    "bytes": 15269,
+    "kb": 14.91,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "be19c6c27a51",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:314",
+  "sourceId": "314",
+  "source": "buluke",
+  "name": "同等齿轮",
+  "entry": "UploadFile/1/BooketFiled/202322507926900811.ldr",
+  "fileCount": 86,
+  "raw": {
+    "bytes": 202555,
+    "kb": 197.81,
+    "mb": 0.19
+  },
+  "gzip": {
+    "bytes": 32065,
+    "kb": 31.31,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e4b5d85a0e3d",
+  "verified": true
+}

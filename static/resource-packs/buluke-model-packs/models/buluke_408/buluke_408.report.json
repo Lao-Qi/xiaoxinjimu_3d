@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:408",
+  "sourceId": "408",
+  "source": "buluke",
+  "name": "间歇运动",
+  "entry": "UploadFile/1/BooketFiled/2023313540738969127.ldr",
+  "fileCount": 124,
+  "raw": {
+    "bytes": 3670960,
+    "kb": 3584.92,
+    "mb": 3.5
+  },
+  "gzip": {
+    "bytes": 538023,
+    "kb": 525.41,
+    "mb": 0.51
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1092d4a9ba37",
+  "verified": true
+}

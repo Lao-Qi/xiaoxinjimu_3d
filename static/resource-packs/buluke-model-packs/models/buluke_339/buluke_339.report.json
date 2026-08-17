@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:339",
+  "sourceId": "339",
+  "source": "buluke",
+  "name": "除草机器人",
+  "entry": "UploadFile/1/BooketFiled/2023265619254437603.ldr",
+  "fileCount": 75,
+  "raw": {
+    "bytes": 145835,
+    "kb": 142.42,
+    "mb": 0.14
+  },
+  "gzip": {
+    "bytes": 22752,
+    "kb": 22.22,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "20155f7cfcb4",
+  "verified": true
+}

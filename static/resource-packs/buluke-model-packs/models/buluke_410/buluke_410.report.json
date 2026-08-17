@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:410",
+  "sourceId": "410",
+  "source": "buluke",
+  "name": "独轮手推车",
+  "entry": "UploadFile/1/BooketFiled/20233222057739219802.ldr",
+  "fileCount": 84,
+  "raw": {
+    "bytes": 260876,
+    "kb": 254.76,
+    "mb": 0.25
+  },
+  "gzip": {
+    "bytes": 38712,
+    "kb": 37.8,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "52c2941d9ecc",
+  "verified": true
+}

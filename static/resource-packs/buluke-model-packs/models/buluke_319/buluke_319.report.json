@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:319",
+  "sourceId": "319",
+  "source": "buluke",
+  "name": "怪兽宝宝",
+  "entry": "UploadFile/1/BooketFiled/2023225456661426595.ldr",
+  "fileCount": 114,
+  "raw": {
+    "bytes": 254491,
+    "kb": 248.53,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 43765,
+    "kb": 42.74,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "08dc7327a95a",
+  "verified": true
+}

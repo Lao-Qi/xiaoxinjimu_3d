@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:435",
+  "sourceId": "435",
+  "source": "buluke",
+  "name": "往返小车",
+  "entry": "UploadFile/1/BooketFiled/20233223444916175516.ldr",
+  "fileCount": 131,
+  "raw": {
+    "bytes": 3778336,
+    "kb": 3689.78,
+    "mb": 3.6
+  },
+  "gzip": {
+    "bytes": 548544,
+    "kb": 535.69,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "698880a2cf96",
+  "verified": true
+}

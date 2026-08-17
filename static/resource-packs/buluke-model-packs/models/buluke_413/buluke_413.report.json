@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:413",
+  "sourceId": "413",
+  "source": "buluke",
+  "name": "河边水车",
+  "entry": "UploadFile/1/BooketFiled/20233222221667522222.ldr",
+  "fileCount": 161,
+  "raw": {
+    "bytes": 3762257,
+    "kb": 3674.08,
+    "mb": 3.59
+  },
+  "gzip": {
+    "bytes": 549796,
+    "kb": 536.91,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ebf6896750ec",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:229",
+  "sourceId": "229",
+  "source": "buluke",
+  "name": "手术椅",
+  "entry": "UploadFile/1/BooketFiled/202210293539407694039.ldr",
+  "fileCount": 132,
+  "raw": {
+    "bytes": 342477,
+    "kb": 334.45,
+    "mb": 0.33
+  },
+  "gzip": {
+    "bytes": 52909,
+    "kb": 51.67,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "9e6282e36b22",
+  "verified": true
+}

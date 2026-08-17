@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:99",
+  "sourceId": "99",
+  "source": "buluke",
+  "name": "F1-变速赛车",
+  "entry": "UploadFile/1/BooketFiled/202275039556241152.ldr",
+  "fileCount": 203,
+  "raw": {
+    "bytes": 4240771,
+    "kb": 4141.38,
+    "mb": 4.04
+  },
+  "gzip": {
+    "bytes": 621121,
+    "kb": 606.56,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "78f0130c58cd",
+  "verified": true
+}

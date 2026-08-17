@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:250",
+  "sourceId": "250",
+  "source": "buluke",
+  "name": "压路机",
+  "entry": "UploadFile/1/BooketFiled/2022112036849495562.ldr",
+  "fileCount": 142,
+  "raw": {
+    "bytes": 329690,
+    "kb": 321.96,
+    "mb": 0.31
+  },
+  "gzip": {
+    "bytes": 53659,
+    "kb": 52.4,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1f2873508fd5",
+  "verified": true
+}

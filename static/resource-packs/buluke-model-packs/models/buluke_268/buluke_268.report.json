@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:268",
+  "sourceId": "268",
+  "source": "buluke",
+  "name": "mini发动机",
+  "entry": "UploadFile/1/BooketFiled/20221223258913270426.ldr",
+  "fileCount": 123,
+  "raw": {
+    "bytes": 294911,
+    "kb": 288,
+    "mb": 0.28
+  },
+  "gzip": {
+    "bytes": 46864,
+    "kb": 45.77,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ef6789e124ca",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:283",
+  "sourceId": "283",
+  "source": "buluke",
+  "name": "扫地车",
+  "entry": "UploadFile/1/BooketFiled/20221224618498853532.ldr",
+  "fileCount": 179,
+  "raw": {
+    "bytes": 4381538,
+    "kb": 4278.85,
+    "mb": 4.18
+  },
+  "gzip": {
+    "bytes": 642728,
+    "kb": 627.66,
+    "mb": 0.61
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "94d544d8d1fe",
+  "verified": true
+}

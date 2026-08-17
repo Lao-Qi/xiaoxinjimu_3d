@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:303",
+  "sourceId": "303",
+  "source": "buluke",
+  "name": "双向门",
+  "entry": "UploadFile/1/BooketFiled/2023155314633140000.ldr",
+  "fileCount": 123,
+  "raw": {
+    "bytes": 251005,
+    "kb": 245.12,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 42638,
+    "kb": 41.64,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "52ea2019082d",
+  "verified": true
+}

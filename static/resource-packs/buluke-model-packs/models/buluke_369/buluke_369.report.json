@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:369",
+  "sourceId": "369",
+  "source": "buluke",
+  "name": "半框眼镜",
+  "entry": "UploadFile/1/BooketFiled/20233132728705380366.ldr",
+  "fileCount": 98,
+  "raw": {
+    "bytes": 183570,
+    "kb": 179.27,
+    "mb": 0.18
+  },
+  "gzip": {
+    "bytes": 31424,
+    "kb": 30.69,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ba25a0a3bf34",
+  "verified": true
+}

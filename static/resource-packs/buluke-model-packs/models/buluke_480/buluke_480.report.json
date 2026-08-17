@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:480",
+  "sourceId": "480",
+  "source": "buluke",
+  "name": "探测车",
+  "entry": "UploadFile/1/BooketFiled/20234184555562223579.ldr",
+  "fileCount": 129,
+  "raw": {
+    "bytes": 3768264,
+    "kb": 3679.95,
+    "mb": 3.59
+  },
+  "gzip": {
+    "bytes": 549385,
+    "kb": 536.51,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "cab80fcc7cee",
+  "verified": true
+}

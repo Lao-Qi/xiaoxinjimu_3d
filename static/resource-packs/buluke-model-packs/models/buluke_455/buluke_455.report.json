@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:455",
+  "sourceId": "455",
+  "source": "buluke",
+  "name": "空中跳绳",
+  "entry": "UploadFile/1/BooketFiled/20234111423941473901.ldr",
+  "fileCount": 129,
+  "raw": {
+    "bytes": 311179,
+    "kb": 303.89,
+    "mb": 0.3
+  },
+  "gzip": {
+    "bytes": 45089,
+    "kb": 44.03,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "76a0590019db",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:233",
+  "sourceId": "233",
+  "source": "buluke",
+  "name": "转向车",
+  "entry": "UploadFile/1/BooketFiled/202210295342950890503.ldr",
+  "fileCount": 129,
+  "raw": {
+    "bytes": 246620,
+    "kb": 240.84,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 41861,
+    "kb": 40.88,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e0e1ec9cedcc",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:224",
+  "sourceId": "224",
+  "source": "buluke",
+  "name": "飞机",
+  "entry": "UploadFile/1/BooketFiled/202210293021493243375.ldr",
+  "fileCount": 71,
+  "raw": {
+    "bytes": 135998,
+    "kb": 132.81,
+    "mb": 0.13
+  },
+  "gzip": {
+    "bytes": 23155,
+    "kb": 22.61,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a0bfaf5f6253",
+  "verified": true
+}

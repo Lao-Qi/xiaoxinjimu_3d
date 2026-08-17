@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:264",
+  "sourceId": "264",
+  "source": "buluke",
+  "name": "兔子车",
+  "entry": "UploadFile/1/BooketFiled/20221123267312928724.ldr",
+  "fileCount": 187,
+  "raw": {
+    "bytes": 4222058,
+    "kb": 4123.1,
+    "mb": 4.03
+  },
+  "gzip": {
+    "bytes": 621189,
+    "kb": 606.63,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "d383dc89faae",
+  "verified": true
+}

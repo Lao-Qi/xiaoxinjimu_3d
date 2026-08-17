@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:416",
+  "sourceId": "416",
+  "source": "buluke",
+  "name": "简易搅拌器",
+  "entry": "UploadFile/1/BooketFiled/2023322233540483908.ldr",
+  "fileCount": 120,
+  "raw": {
+    "bytes": 3737828,
+    "kb": 3650.22,
+    "mb": 3.56
+  },
+  "gzip": {
+    "bytes": 544018,
+    "kb": 531.27,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "442540f3d727",
+  "verified": true
+}

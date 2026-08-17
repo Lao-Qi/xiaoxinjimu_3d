@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:94",
+  "sourceId": "94",
+  "source": "buluke",
+  "name": "弹力小车",
+  "entry": "UploadFile/1/BooketFiled/202275582316798561.ldr",
+  "fileCount": 184,
+  "raw": {
+    "bytes": 4377415,
+    "kb": 4274.82,
+    "mb": 4.17
+  },
+  "gzip": {
+    "bytes": 644805,
+    "kb": 629.69,
+    "mb": 0.61
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "557ff4d6ea7f",
+  "verified": true
+}

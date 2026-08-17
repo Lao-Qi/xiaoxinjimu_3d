@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:235",
+  "sourceId": "235",
+  "source": "buluke",
+  "name": "等腰三角形",
+  "entry": "UploadFile/1/BooketFiled/202210295656502757560.ldr",
+  "fileCount": 33,
+  "raw": {
+    "bytes": 74389,
+    "kb": 72.65,
+    "mb": 0.07
+  },
+  "gzip": {
+    "bytes": 11919,
+    "kb": 11.64,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "07cc8910338b",
+  "verified": true
+}
