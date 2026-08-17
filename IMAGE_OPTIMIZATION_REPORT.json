@@ -29,12 +29,12 @@
       "maxHeight": 360
     }
   ],
-  "converted": 1160,
+  "converted": 1161,
   "failed": 0,
   "skippedLarger": 0,
-  "originalBytes": 72774742,
-  "optimizedBytes": 6118094,
-  "savedBytes": 66656648,
+  "originalBytes": 72778489,
+  "optimizedBytes": 6118724,
+  "savedBytes": 66659765,
   "failures": [],
   "invalidImages": [
     {
@@ -61,9 +61,9 @@
       "quality": 18,
       "maxWidth": 480,
       "maxHeight": 480,
-      "converted": 373,
-      "originalBytes": 30192869,
-      "optimizedBytes": 981848
+      "converted": 374,
+      "originalBytes": 30196616,
+      "optimizedBytes": 982478
     },
     "modelBigImages": {
       "quality": 24,
@@ -83,5 +83,5 @@
     }
   },
   "rewrittenFiles": 403,
-  "rewrittenReferences": 6427
+  "rewrittenReferences": 6430
 }
