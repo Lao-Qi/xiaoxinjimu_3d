@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:362",
+  "sourceId": "362",
+  "source": "buluke",
+  "name": "手杆称",
+  "entry": "UploadFile/1/BooketFiled/20232231744365543608.ldr",
+  "fileCount": 92,
+  "raw": {
+    "bytes": 297392,
+    "kb": 290.42,
+    "mb": 0.28
+  },
+  "gzip": {
+    "bytes": 40432,
+    "kb": 39.48,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "641b1f3f7677",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:449",
+  "sourceId": "449",
+  "source": "buluke",
+  "name": "电三轮",
+  "entry": "UploadFile/1/BooketFiled/2023411940963625758.ldr",
+  "fileCount": 181,
+  "raw": {
+    "bytes": 3974619,
+    "kb": 3881.46,
+    "mb": 3.79
+  },
+  "gzip": {
+    "bytes": 579624,
+    "kb": 566.04,
+    "mb": 0.55
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "2ee8bfe1d12d",
+  "verified": true
+}

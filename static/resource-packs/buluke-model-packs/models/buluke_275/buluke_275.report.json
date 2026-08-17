@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:275",
+  "sourceId": "275",
+  "source": "buluke",
+  "name": "手钻",
+  "entry": "UploadFile/1/BooketFiled/2022122375775944922.ldr",
+  "fileCount": 122,
+  "raw": {
+    "bytes": 329144,
+    "kb": 321.43,
+    "mb": 0.31
+  },
+  "gzip": {
+    "bytes": 53807,
+    "kb": 52.55,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "d849464e6273",
+  "verified": true
+}

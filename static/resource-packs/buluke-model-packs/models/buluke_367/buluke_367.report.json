@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:367",
+  "sourceId": "367",
+  "source": "buluke",
+  "name": "引体向上",
+  "entry": "UploadFile/1/BooketFiled/20232232141838708366.ldr",
+  "fileCount": 167,
+  "raw": {
+    "bytes": 4189229,
+    "kb": 4091.04,
+    "mb": 4
+  },
+  "gzip": {
+    "bytes": 620266,
+    "kb": 605.73,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "3542fc7fea67",
+  "verified": true
+}

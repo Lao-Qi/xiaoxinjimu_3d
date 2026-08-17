@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:374",
+  "sourceId": "374",
+  "source": "buluke",
+  "name": "存钱罐",
+  "entry": "UploadFile/1/BooketFiled/20233132946792778645.ldr",
+  "fileCount": 38,
+  "raw": {
+    "bytes": 63060,
+    "kb": 61.58,
+    "mb": 0.06
+  },
+  "gzip": {
+    "bytes": 10715,
+    "kb": 10.46,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "650600efffce",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:484",
+  "sourceId": "484",
+  "source": "buluke",
+  "name": "打鼓机器人",
+  "entry": "UploadFile/1/BooketFiled/202354431627413588.ldr",
+  "fileCount": 196,
+  "raw": {
+    "bytes": 480570,
+    "kb": 469.31,
+    "mb": 0.46
+  },
+  "gzip": {
+    "bytes": 76220,
+    "kb": 74.43,
+    "mb": 0.07
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a042bf4a117a",
+  "verified": true
+}

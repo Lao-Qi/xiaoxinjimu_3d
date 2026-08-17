@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:441",
+  "sourceId": "441",
+  "source": "buluke",
+  "name": "小桥",
+  "entry": "UploadFile/1/BooketFiled/202332238100443166.ldr",
+  "fileCount": 107,
+  "raw": {
+    "bytes": 264137,
+    "kb": 257.95,
+    "mb": 0.25
+  },
+  "gzip": {
+    "bytes": 40972,
+    "kb": 40.01,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "c6add5b1745d",
+  "verified": true
+}

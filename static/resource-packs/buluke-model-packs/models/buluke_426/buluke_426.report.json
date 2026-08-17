@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:426",
+  "sourceId": "426",
+  "source": "buluke",
+  "name": "天平",
+  "entry": "UploadFile/1/BooketFiled/202332230387225354.ldr",
+  "fileCount": 125,
+  "raw": {
+    "bytes": 361935,
+    "kb": 353.45,
+    "mb": 0.35
+  },
+  "gzip": {
+    "bytes": 50312,
+    "kb": 49.13,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "2ea72920244f",
+  "verified": true
+}

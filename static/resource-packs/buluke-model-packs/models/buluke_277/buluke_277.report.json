@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:277",
+  "sourceId": "277",
+  "source": "buluke",
+  "name": "传动机器",
+  "entry": "UploadFile/1/BooketFiled/20221224353608199954.ldr",
+  "fileCount": 164,
+  "raw": {
+    "bytes": 4055111,
+    "kb": 3960.07,
+    "mb": 3.87
+  },
+  "gzip": {
+    "bytes": 591480,
+    "kb": 577.62,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "4dec06e94a16",
+  "verified": true
+}

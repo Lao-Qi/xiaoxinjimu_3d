@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:284",
+  "sourceId": "284",
+  "source": "buluke",
+  "name": "旋转试验",
+  "entry": "UploadFile/1/BooketFiled/2022122465521277845.ldr",
+  "fileCount": 175,
+  "raw": {
+    "bytes": 4287498,
+    "kb": 4187.01,
+    "mb": 4.09
+  },
+  "gzip": {
+    "bytes": 625920,
+    "kb": 611.25,
+    "mb": 0.6
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "eb156e6167ee",
+  "verified": true
+}

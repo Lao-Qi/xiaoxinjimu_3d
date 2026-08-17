@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:502",
+  "sourceId": "502",
+  "source": "buluke",
+  "name": "伸缩门",
+  "entry": "UploadFile/1/BooketFiled/2023545222750472332.ldr",
+  "fileCount": 138,
+  "raw": {
+    "bytes": 3854818,
+    "kb": 3764.47,
+    "mb": 3.68
+  },
+  "gzip": {
+    "bytes": 559314,
+    "kb": 546.21,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b4eda04169e3",
+  "verified": true
+}

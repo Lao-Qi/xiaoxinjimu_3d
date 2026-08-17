@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:324",
+  "sourceId": "324",
+  "source": "buluke",
+  "name": "迷你小人",
+  "entry": "UploadFile/1/BooketFiled/202322575275964103.ldr",
+  "fileCount": 45,
+  "raw": {
+    "bytes": 68807,
+    "kb": 67.19,
+    "mb": 0.07
+  },
+  "gzip": {
+    "bytes": 12326,
+    "kb": 12.04,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "cba4d8da52e3",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:294",
+  "sourceId": "294",
+  "source": "buluke",
+  "name": "挖掘机",
+  "entry": "UploadFile/1/BooketFiled/202315491435731146.ldr",
+  "fileCount": 173,
+  "raw": {
+    "bytes": 3967009,
+    "kb": 3874.03,
+    "mb": 3.78
+  },
+  "gzip": {
+    "bytes": 589975,
+    "kb": 576.15,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "727a2a7b6c30",
+  "verified": true
+}

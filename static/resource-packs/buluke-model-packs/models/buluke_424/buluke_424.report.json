@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:424",
+  "sourceId": "424",
+  "source": "buluke",
+  "name": "甩干机",
+  "entry": "UploadFile/1/BooketFiled/20233222944972892017.ldr",
+  "fileCount": 125,
+  "raw": {
+    "bytes": 3702666,
+    "kb": 3615.88,
+    "mb": 3.53
+  },
+  "gzip": {
+    "bytes": 542018,
+    "kb": 529.31,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1a4030da2822",
+  "verified": true
+}

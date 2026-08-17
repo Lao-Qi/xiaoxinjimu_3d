@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:307",
+  "sourceId": "307",
+  "source": "buluke",
+  "name": "电子钻",
+  "entry": "UploadFile/1/BooketFiled/202322343078646345.ldr",
+  "fileCount": 124,
+  "raw": {
+    "bytes": 4015909,
+    "kb": 3921.79,
+    "mb": 3.83
+  },
+  "gzip": {
+    "bytes": 587068,
+    "kb": 573.31,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e8eb10ba4bf3",
+  "verified": true
+}

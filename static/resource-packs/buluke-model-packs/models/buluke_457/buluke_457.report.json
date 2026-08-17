@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:457",
+  "sourceId": "457",
+  "source": "buluke",
+  "name": "离心伞",
+  "entry": "UploadFile/1/BooketFiled/2023411172745105804.ldr",
+  "fileCount": 166,
+  "raw": {
+    "bytes": 3866940,
+    "kb": 3776.31,
+    "mb": 3.69
+  },
+  "gzip": {
+    "bytes": 562224,
+    "kb": 549.05,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a448406773af",
+  "verified": true
+}

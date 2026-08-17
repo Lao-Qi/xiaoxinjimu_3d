@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:418",
+  "sourceId": "418",
+  "source": "buluke",
+  "name": "跨桥",
+  "entry": "UploadFile/1/BooketFiled/20233222432442796735.ldr",
+  "fileCount": 91,
+  "raw": {
+    "bytes": 166935,
+    "kb": 163.02,
+    "mb": 0.16
+  },
+  "gzip": {
+    "bytes": 28479,
+    "kb": 27.81,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "dd40150eec0b",
+  "verified": true
+}

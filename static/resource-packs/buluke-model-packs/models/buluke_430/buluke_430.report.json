@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:430",
+  "sourceId": "430",
+  "source": "buluke",
+  "name": "万向轮结构6",
+  "entry": "UploadFile/1/BooketFiled/20233223215265100978.ldr",
+  "fileCount": 75,
+  "raw": {
+    "bytes": 231663,
+    "kb": 226.23,
+    "mb": 0.22
+  },
+  "gzip": {
+    "bytes": 37688,
+    "kb": 36.8,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f50c6ffd71a6",
+  "verified": true
+}

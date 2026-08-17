@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:220",
+  "sourceId": "220",
+  "source": "buluke",
+  "name": "风车舂米机",
+  "entry": "UploadFile/1/BooketFiled/202210292222134424627.ldr",
+  "fileCount": 118,
+  "raw": {
+    "bytes": 250599,
+    "kb": 244.73,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 40314,
+    "kb": 39.37,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "96ae4508471b",
+  "verified": true
+}

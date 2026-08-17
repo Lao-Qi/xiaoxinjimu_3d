@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:458",
+  "sourceId": "458",
+  "source": "buluke",
+  "name": "梁式抽油机",
+  "entry": "UploadFile/1/BooketFiled/20234111748719673462.ldr",
+  "fileCount": 160,
+  "raw": {
+    "bytes": 3809835,
+    "kb": 3720.54,
+    "mb": 3.63
+  },
+  "gzip": {
+    "bytes": 555813,
+    "kb": 542.79,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "42535dfabee8",
+  "verified": true
+}

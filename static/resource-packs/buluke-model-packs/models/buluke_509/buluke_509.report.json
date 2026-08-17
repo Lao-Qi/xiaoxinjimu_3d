@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:509",
+  "sourceId": "509",
+  "source": "buluke",
+  "name": "仰卧起坐",
+  "entry": "UploadFile/1/BooketFiled/202354567224584140.ldr",
+  "fileCount": 168,
+  "raw": {
+    "bytes": 3800068,
+    "kb": 3711,
+    "mb": 3.62
+  },
+  "gzip": {
+    "bytes": 558021,
+    "kb": 544.94,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8df2349c5c33",
+  "verified": true
+}

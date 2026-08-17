@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:404",
+  "sourceId": "404",
+  "source": "buluke",
+  "name": "公园跑步机",
+  "entry": "UploadFile/1/BooketFiled/20233135237582826718.ldr",
+  "fileCount": 121,
+  "raw": {
+    "bytes": 564969,
+    "kb": 551.73,
+    "mb": 0.54
+  },
+  "gzip": {
+    "bytes": 84483,
+    "kb": 82.5,
+    "mb": 0.08
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "141a6a9f59e8",
+  "verified": true
+}

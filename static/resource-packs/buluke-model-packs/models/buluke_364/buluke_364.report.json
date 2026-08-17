@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:364",
+  "sourceId": "364",
+  "source": "buluke",
+  "name": "水车",
+  "entry": "UploadFile/1/BooketFiled/2023223197821579837.ldr",
+  "fileCount": 178,
+  "raw": {
+    "bytes": 4376688,
+    "kb": 4274.11,
+    "mb": 4.17
+  },
+  "gzip": {
+    "bytes": 633006,
+    "kb": 618.17,
+    "mb": 0.6
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1591ff93a66f",
+  "verified": true
+}

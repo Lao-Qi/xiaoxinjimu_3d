@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:345",
+  "sourceId": "345",
+  "source": "buluke",
+  "name": "皮划艇",
+  "entry": "UploadFile/1/BooketFiled/2023265856182460241.ldr",
+  "fileCount": 123,
+  "raw": {
+    "bytes": 243506,
+    "kb": 237.8,
+    "mb": 0.23
+  },
+  "gzip": {
+    "bytes": 41747,
+    "kb": 40.77,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "77e8d7c3f197",
+  "verified": true
+}

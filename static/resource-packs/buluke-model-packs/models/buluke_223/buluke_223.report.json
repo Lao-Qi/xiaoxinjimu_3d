@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:223",
+  "sourceId": "223",
+  "source": "buluke",
+  "name": "打桩机",
+  "entry": "UploadFile/1/BooketFiled/202210292951953905434.ldr",
+  "fileCount": 77,
+  "raw": {
+    "bytes": 159723,
+    "kb": 155.98,
+    "mb": 0.15
+  },
+  "gzip": {
+    "bytes": 24282,
+    "kb": 23.71,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1f362e4a5c53",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:518",
+  "sourceId": "518",
+  "source": "buluke",
+  "name": "兵兵球发球机",
+  "entry": "UploadFile/1/BooketFiled/202473124242536193.ldr",
+  "fileCount": 207,
+  "raw": {
+    "bytes": 890662,
+    "kb": 869.79,
+    "mb": 0.85
+  },
+  "gzip": {
+    "bytes": 133347,
+    "kb": 130.22,
+    "mb": 0.13
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "6e01159d4b93",
+  "verified": true
+}

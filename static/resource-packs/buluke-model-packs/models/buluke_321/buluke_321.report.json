@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:321",
+  "sourceId": "321",
+  "source": "buluke",
+  "name": "外星飞船",
+  "entry": "UploadFile/1/BooketFiled/2023225548215691240.ldr",
+  "fileCount": 107,
+  "raw": {
+    "bytes": 191533,
+    "kb": 187.04,
+    "mb": 0.18
+  },
+  "gzip": {
+    "bytes": 34300,
+    "kb": 33.5,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "d0b85e0c59e6",
+  "verified": true
+}

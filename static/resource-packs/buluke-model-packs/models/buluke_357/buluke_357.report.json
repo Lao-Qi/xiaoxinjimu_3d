@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:357",
+  "sourceId": "357",
+  "source": "buluke",
+  "name": "脚踏车",
+  "entry": "UploadFile/1/BooketFiled/20232231120652110830.ldr",
+  "fileCount": 94,
+  "raw": {
+    "bytes": 203734,
+    "kb": 198.96,
+    "mb": 0.19
+  },
+  "gzip": {
+    "bytes": 30656,
+    "kb": 29.94,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f305c3183e99",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:301",
+  "sourceId": "301",
+  "source": "buluke",
+  "name": "钢叉",
+  "entry": "UploadFile/1/BooketFiled/2023155221858257458.ldr",
+  "fileCount": 77,
+  "raw": {
+    "bytes": 172914,
+    "kb": 168.86,
+    "mb": 0.16
+  },
+  "gzip": {
+    "bytes": 25055,
+    "kb": 24.47,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "7fce40c27e7e",
+  "verified": true
+}

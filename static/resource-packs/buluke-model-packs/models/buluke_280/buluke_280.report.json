@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:280",
+  "sourceId": "280",
+  "source": "buluke",
+  "name": "电子停车起落架",
+  "entry": "UploadFile/1/BooketFiled/20221224511902501296.ldr",
+  "fileCount": 158,
+  "raw": {
+    "bytes": 4417068,
+    "kb": 4313.54,
+    "mb": 4.21
+  },
+  "gzip": {
+    "bytes": 648140,
+    "kb": 632.95,
+    "mb": 0.62
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1a2910337950",
+  "verified": true
+}

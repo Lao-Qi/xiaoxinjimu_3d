@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:356",
+  "sourceId": "356",
+  "source": "buluke",
+  "name": "火车",
+  "entry": "UploadFile/1/BooketFiled/202322327286836006.ldr",
+  "fileCount": 158,
+  "raw": {
+    "bytes": 4215371,
+    "kb": 4116.57,
+    "mb": 4.02
+  },
+  "gzip": {
+    "bytes": 619959,
+    "kb": 605.43,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "795e81c13246",
+  "verified": true
+}

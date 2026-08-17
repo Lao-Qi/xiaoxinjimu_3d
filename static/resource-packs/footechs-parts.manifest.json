@@ -1,0 +1,2860 @@
+{
+  "v": 1,
+  "format": "ldraw-resource-pack",
+  "name": "footechs-parts",
+  "description": "Footechs LDraw part library used by mocmeta pages.",
+  "fileCount": 474,
+  "rawBytes": 2477092,
+  "gzipBytes": 369271,
+  "brotliBytes": 271683,
+  "hash": "3eb702b1ce57",
+  "pack": "footechs-parts.3eb702b1ce57.pack",
+  "gzip": "footechs-parts.3eb702b1ce57.pack.gz",
+  "brotli": "footechs-parts.3eb702b1ce57.pack.br",
+  "files": [
+    {
+      "path": "footechs/mocmeta_parts/p/1-4chrd-fef2a8407cce9.dat",
+      "offset": 0,
+      "size": 612,
+      "sha256": "f2073f97e6b210480c906edb7ae18267078fe88754e13ff7716f5ed7326bdb68"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4chrd.dat",
+      "offset": 612,
+      "size": 612,
+      "sha256": "f2073f97e6b210480c906edb7ae18267078fe88754e13ff7716f5ed7326bdb68"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4con10.dat",
+      "offset": 1224,
+      "size": 1169,
+      "sha256": "f0c64cfccae19d4375ee02146a78393417096dc0eec7c196c6bccf263800e5c2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4con2.dat",
+      "offset": 2393,
+      "size": 1248,
+      "sha256": "4dc72e87b18bfad93bbc5d1f878e262465c89360a5416526836d67ade468e56a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4con3.dat",
+      "offset": 3641,
+      "size": 1297,
+      "sha256": "2859d145f110c14c72789c0e800aeb3874a0caa7a7ed0f88fc38ce131785cf86"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4con4.dat",
+      "offset": 4938,
+      "size": 1348,
+      "sha256": "6a478bddde99f203a14bc932836bdf93c8bcd25cecf881ce15cf705b421891bf"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4cylh.dat",
+      "offset": 6286,
+      "size": 745,
+      "sha256": "62659202ff86c5d20fc209b0d703afc089cc04bf737ec26b66c644f5bbc475a0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4cyls2.dat",
+      "offset": 7031,
+      "size": 1177,
+      "sha256": "f318b7700e1d45b3cf38c4391ca44f95bc0a9c7dafc869c3c88377427e06f3bc"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-4edgh.dat",
+      "offset": 8208,
+      "size": 413,
+      "sha256": "5ed6865c8e9abb85b08632b637cd337cd727b05adfd63b096ec136d8be852dda"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-8chrd-0dcee4b718ae.dat",
+      "offset": 8621,
+      "size": 431,
+      "sha256": "9ff7d5377afe254e979184e892a2ce8a1d40fbddd90ef186797fe6642983284a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-8chrd.dat",
+      "offset": 9052,
+      "size": 431,
+      "sha256": "9ff7d5377afe254e979184e892a2ce8a1d40fbddd90ef186797fe6642983284a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/1-8sphe.dat",
+      "offset": 9483,
+      "size": 3986,
+      "sha256": "4e6bf54fdaa3a503a53308a6b599f0be2cda573b68a3c8e99ce6415be46b5f4f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/2-4chrd.dat",
+      "offset": 13469,
+      "size": 489,
+      "sha256": "6364aae5db1d350b42116d16bf477f8fa6fad92895f6b51a6653eb78a6934e27"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/2-4con10.dat",
+      "offset": 13958,
+      "size": 1289,
+      "sha256": "5d84d511ef18c264ab2e47702bcddd07929a19680009a40cb09a7c3748dab30a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/2-4con4.dat",
+      "offset": 15247,
+      "size": 1429,
+      "sha256": "0bb085ab6d3bb1625947061ba71971926fd2157017408096e7b18d946bac8b3f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/2-8sphe.dat",
+      "offset": 16676,
+      "size": 534,
+      "sha256": "3613781e9c2b0492d058fa54ea861cc01148887d04f8df953279f544f1174052"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/3-16chrd.dat",
+      "offset": 17210,
+      "size": 317,
+      "sha256": "7c732a3585b94c057d4274af230635d053c8ab2ecc2d9b01e91d03e66c859725"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/3-16cyls-2d2d4f73a403e8.dat",
+      "offset": 17527,
+      "size": 633,
+      "sha256": "e7ade2c9199fcd0531b6e0a2b4fe5787fb5cf4aa9e9f71ed08bc3a27742c4448"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/3-16cyls.dat",
+      "offset": 18160,
+      "size": 633,
+      "sha256": "e7ade2c9199fcd0531b6e0a2b4fe5787fb5cf4aa9e9f71ed08bc3a27742c4448"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/3-16cys2.dat",
+      "offset": 18793,
+      "size": 700,
+      "sha256": "e8ef41631601558f40c001288ec3c789548e02e5dd0293d0c690c1880d4d03a9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/3-8chrd.dat",
+      "offset": 19493,
+      "size": 762,
+      "sha256": "459018b8fed8061db492c6e373fe3c240407c4c6e19bd131d914a5b945c9b870"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/3626bp01.dat",
+      "offset": 20255,
+      "size": 1849,
+      "sha256": "62c69afdfdc398a98f16185983ed876f495a2a1f2f89a3b6da0d1f6383939949"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/4-4cyl1sph2.dat",
+      "offset": 22104,
+      "size": 1525,
+      "sha256": "035cf75ff59ca1b6a039d41ecbdb4404fe22ce9e26393bbff87c97dbbd7d81f2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/4-8sphe.dat",
+      "offset": 23629,
+      "size": 617,
+      "sha256": "93e2a1de51349b9c7ff9823e28f6b7a763805fbaa39549136c3fe2440e3d42db"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-12chrd.dat",
+      "offset": 24246,
+      "size": 388,
+      "sha256": "68d2c2d05e34c599d7555e8e5abab52378bdb914261cf8688c65f9ed9549ffae"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-12cyli.dat",
+      "offset": 24634,
+      "size": 760,
+      "sha256": "ec69a7b81478d2d262a9b8394fa68da6c3575f11b3ce67745c9a93ee22a4b44d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-12edge.dat",
+      "offset": 25394,
+      "size": 408,
+      "sha256": "fbc40d770d0b0c0d719b56b431c496185616467d148acd0698032b58848f49d1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-16cyli-63f7237e7db77.dat",
+      "offset": 25802,
+      "size": 737,
+      "sha256": "be43bb13d5a41b16f6d99e7b40c86819192e02ad1ee521f2f52a04011e6e3a64"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-16cyli.dat",
+      "offset": 26539,
+      "size": 737,
+      "sha256": "be43bb13d5a41b16f6d99e7b40c86819192e02ad1ee521f2f52a04011e6e3a64"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-16edge-db8515c91f67e.dat",
+      "offset": 27276,
+      "size": 385,
+      "sha256": "441264440c93c60af44a93b6cab0192afa052552791e43dbdcffec0d73648df4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-16edge.dat",
+      "offset": 27661,
+      "size": 385,
+      "sha256": "441264440c93c60af44a93b6cab0192afa052552791e43dbdcffec0d73648df4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-24cyli.dat",
+      "offset": 28046,
+      "size": 534,
+      "sha256": "f3ef46dd18844e0f2d7c4d130bc760a402e6120fa33835fe43ff51a1105b3de1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-24edge.dat",
+      "offset": 28580,
+      "size": 480,
+      "sha256": "2c9d185db4f7885622aaba90414abc5e1222233dfd773448ee43ac46a5de1def"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-3edge.dat",
+      "offset": 29060,
+      "size": 763,
+      "sha256": "a20aeadf7e5fefeee83f30b54634c6f02adb33247c04f3d3515b1d2128ce5982"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-48edge.dat",
+      "offset": 29823,
+      "size": 318,
+      "sha256": "a05ed43b08dbd279aed3f112ea10fd580cdcafbfc466925637ad12c47a695303"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-48rin9.dat",
+      "offset": 30141,
+      "size": 321,
+      "sha256": "207cf18430ab5f01033194e587e2468b1323e02170af120ea86f23bf5c822f16"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4aring.dat",
+      "offset": 30462,
+      "size": 536,
+      "sha256": "b333c4cee296a500150bb5de6f3202d4cbb098f1dba100e4eac49821266965eb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4chrd.dat",
+      "offset": 30998,
+      "size": 757,
+      "sha256": "ee7cef2fd8e2810bad4da27ba01f3406d62224dabd34c63e316ecdf1b5102acf"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4con11.dat",
+      "offset": 31755,
+      "size": 1931,
+      "sha256": "eb2a3637230247de7ad59f4a22670a2a08e7943c2a22b0c76ba404f4e6c4f36f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4con23.dat",
+      "offset": 33686,
+      "size": 2233,
+      "sha256": "e076202922752404264dccd49c4304d0927db1716d00ad14b9d3512dc3c3e7c2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4cyli.dat",
+      "offset": 35919,
+      "size": 2198,
+      "sha256": "8a836475aed6bbeca1bc581c89c6b811b6e877991647aba03ed6cdcc1e32501e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4cylo.dat",
+      "offset": 38117,
+      "size": 410,
+      "sha256": "c5898229326e095b5fdfae664e05997e43a0a0a3b866470dbcee7c7e33795959"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4edge-d72b780bdbbe98.dat",
+      "offset": 38527,
+      "size": 997,
+      "sha256": "6b22cb861b28943bd56e76b5a37428fad413980699b23b55797c283fbd249f3d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4edge.dat",
+      "offset": 39524,
+      "size": 997,
+      "sha256": "6b22cb861b28943bd56e76b5a37428fad413980699b23b55797c283fbd249f3d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4rin17.dat",
+      "offset": 40521,
+      "size": 1089,
+      "sha256": "ecc36666bbee86495c82bbd08c9178f3a344712b320ef1285ebbcf8685ef76a9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4rin18-79295c95d379a.dat",
+      "offset": 41610,
+      "size": 1197,
+      "sha256": "b45ebc41e4cb0a817874747bf996d2e45b5ef03af7a90bbce584369259f9a27d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4rin18.dat",
+      "offset": 42807,
+      "size": 1197,
+      "sha256": "b45ebc41e4cb0a817874747bf996d2e45b5ef03af7a90bbce584369259f9a27d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4ring8-deb65831aee9b.dat",
+      "offset": 44004,
+      "size": 1157,
+      "sha256": "306955658cf13c51b90971e0d183b34dba03e444863241106b848d0e21cedd0e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4ring8.dat",
+      "offset": 45161,
+      "size": 1157,
+      "sha256": "306955658cf13c51b90971e0d183b34dba03e444863241106b848d0e21cedd0e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-4ring9.dat",
+      "offset": 46318,
+      "size": 1358,
+      "sha256": "d21dbb1f0de52abbf7d9fa587d52b63fd79a92f9e3b4f836ca327bf534d31475"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-6cyli.dat",
+      "offset": 47676,
+      "size": 1738,
+      "sha256": "343b6c215390a9d8553954b3bd8958f005334e1ad8a7cb95938d1f75c7758806"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-6edge.dat",
+      "offset": 49414,
+      "size": 799,
+      "sha256": "65e2df8f3f13ec7d6386a6efc8245b0f05bf7da943a6b6607e3c28e13ec5cbe4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8chrd.dat",
+      "offset": 50213,
+      "size": 438,
+      "sha256": "fd3b62accb3e99b5549986dc888fed7f4ada91d276b6ec83e0c0808055c06a57"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8cyli.dat",
+      "offset": 50651,
+      "size": 1345,
+      "sha256": "7789bbcaeffd9ed22bb87ecbd616e370f420494ca21cae95d5658faee0c860eb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8edge-31e390afba226.dat",
+      "offset": 51996,
+      "size": 704,
+      "sha256": "34601a741dc57a8b1c23b3a039f23273fc7d9058570f34228ad6cc7f7dc33717"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8edge.dat",
+      "offset": 52700,
+      "size": 704,
+      "sha256": "34601a741dc57a8b1c23b3a039f23273fc7d9058570f34228ad6cc7f7dc33717"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8rin16.dat",
+      "offset": 53404,
+      "size": 708,
+      "sha256": "c325c5fc1266bc9e9ff5e7439cf2e1c501d06d75e4208084fda9a2cb6433c62a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8ring1.dat",
+      "offset": 54112,
+      "size": 644,
+      "sha256": "eec3326dec10b41c7fd9ab1873332c13d6a07729eefa9b6ebeb3ab37b26afb54"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8ring4.dat",
+      "offset": 54756,
+      "size": 634,
+      "sha256": "0b247c08b4ff90a9dc9cda3228ef1635789164e4f4e1b97bbdff8cbd2e2514ce"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/1-8ring8.dat",
+      "offset": 55390,
+      "size": 661,
+      "sha256": "00546a8e7c0b3ea97c17e077defeecb333cdb84e53e828651686840f4bfba5fe"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/2-4cyli-02eb6152ecd2c.dat",
+      "offset": 56051,
+      "size": 3448,
+      "sha256": "060c8afce3e04d357404c369aed594f047083704238381466914685aff619f61"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/2-4cyli.dat",
+      "offset": 59499,
+      "size": 3448,
+      "sha256": "060c8afce3e04d357404c369aed594f047083704238381466914685aff619f61"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/2-4edge-72a05a80cf69b.dat",
+      "offset": 62947,
+      "size": 615,
+      "sha256": "b56176b02986c7d7c19b9c01181a3f8d2b7995c7ffb29dd0757949d725eaaf6d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/2-4edge.dat",
+      "offset": 63562,
+      "size": 615,
+      "sha256": "b56176b02986c7d7c19b9c01181a3f8d2b7995c7ffb29dd0757949d725eaaf6d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/3-16chrd.dat",
+      "offset": 64177,
+      "size": 634,
+      "sha256": "daf36545ab85609c9b553e3d7361a73a78e917caa61d41599a9dec5599486b14"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/3-16cyli.dat",
+      "offset": 64811,
+      "size": 1744,
+      "sha256": "9804eaf601589ac0baf65bff97b4cfa18c09f2b9af32a640669f15a60e6701ac"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/3-16edge.dat",
+      "offset": 66555,
+      "size": 822,
+      "sha256": "cbf2d0a6c16640b1964383936f47b17a14aca390cfe47c8bf124a2f2141aa253"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4aring.dat",
+      "offset": 67377,
+      "size": 1340,
+      "sha256": "bf8577e59aa879ab06f222f18bb23809f387dbe35790282ffd25b868a9f02ae3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4con24.dat",
+      "offset": 68717,
+      "size": 6948,
+      "sha256": "49ed352d62e3555999f9e3f367e3050f3e1c233b4d362ee09f6be999aef794e1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4con5.dat",
+      "offset": 75665,
+      "size": 6448,
+      "sha256": "9cf2ed7411b88f7b078e4ad587ef9ae5e2520d10fd39a8929153f7c959cb3503"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4cyli.dat",
+      "offset": 82113,
+      "size": 678,
+      "sha256": "5fe36a34c77807373b213e86633fe790cadf827b072469f4056fb91ccc7e4bc3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4cylo.dat",
+      "offset": 82791,
+      "size": 405,
+      "sha256": "b67d712fd8b8b1094ca4b61d80fc5ad041e6cea996af954f8f4d0b9ab043953c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4edge.dat",
+      "offset": 83196,
+      "size": 706,
+      "sha256": "d7b741e4fc5d160ea44a87c47580ecbd8d7d0e3807a14281b715db042e3c63b5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4rin12.dat",
+      "offset": 83902,
+      "size": 3821,
+      "sha256": "46150866976802039bb04b9cc0b694f3a3027c59b421905700480de11c0179bc"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4rin22.dat",
+      "offset": 87723,
+      "size": 3719,
+      "sha256": "7e7dd625d0f2fa460f709d111a3945b5e02cc804c8b39417efb66162f37953a6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4ring3.dat",
+      "offset": 91442,
+      "size": 3723,
+      "sha256": "f309883b32dd4884bbd6daa5a93c8155b3d44c536acba31aee3d421fff7c4b21"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4ring4.dat",
+      "offset": 95165,
+      "size": 3581,
+      "sha256": "1933287c58fa6ac5968fd881d7ad4d1c95667635f0659a883e24321e2bd1f95f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4ring7.dat",
+      "offset": 98746,
+      "size": 3664,
+      "sha256": "06c022c668ea6f86aa11e8688f7f56790f13ab9e810ef06d73faebdb3a752aa2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/4-4ring9.dat",
+      "offset": 102410,
+      "size": 684,
+      "sha256": "4b402eae2347400ed69e4a41879bce67adf38c32053c5063a953058136ff23a1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/5-24cyli.dat",
+      "offset": 103094,
+      "size": 1630,
+      "sha256": "6c73dead7eb48aa2f9ff686aa727f542f2bdcab7791f7355004fdd8390a405e5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/5-24edge.dat",
+      "offset": 104724,
+      "size": 592,
+      "sha256": "7f2cee58eb2337ffdc438b661bb74bc87b646c09e292e2129becdf03eacca613"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/7-16cyli.dat",
+      "offset": 105316,
+      "size": 2730,
+      "sha256": "1e51023319097c72aebb8ed9ae7e30ac4eafda7927ea9701cab851a68a285bd7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/48/7-16edge.dat",
+      "offset": 108046,
+      "size": 1043,
+      "sha256": "a0cea19e3f8aea190f3d657d52f1e9a21e2917598b0981ab5c806125c0244578"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/5-16chrd.dat",
+      "offset": 109089,
+      "size": 367,
+      "sha256": "9661d305d93dd6217d6581e321aa07a8a4d1a7a667e09bfb09f230e4fa9b50e1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/8-8sphe.dat",
+      "offset": 109456,
+      "size": 871,
+      "sha256": "8dd65c43d15ab9fafde8e1a5dd47b015c24cb07fb93adc0c445310377343187a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/8/2-4cyli.dat",
+      "offset": 110327,
+      "size": 755,
+      "sha256": "c21045df406ee6018d752096d864cad889efee5694a96286c633431aacff0921"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/8/2-4cylo.dat",
+      "offset": 111082,
+      "size": 394,
+      "sha256": "cf7a9969c8d7396d17966b65c8ea48ea36445e98580dc76d18e5aa1fc5afd54f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/8/2-4edge.dat",
+      "offset": 111476,
+      "size": 404,
+      "sha256": "5366f072f32f6f3978f37c763091c2ca15689ab8684f72c310ab08c3965496e9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/8/2-4ndis.dat",
+      "offset": 111880,
+      "size": 447,
+      "sha256": "4f646d4ca8dd67205faf9b0e233c4921b85d3b30a9283090b0482397aad1a487"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl2hol2-f44016144186a8.dat",
+      "offset": 112327,
+      "size": 614,
+      "sha256": "08fdd78a46ae63d1576bbe4d6f8440471294d5138afaf410992f083cb1fedbe5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl2hol2.dat",
+      "offset": 112941,
+      "size": 614,
+      "sha256": "08fdd78a46ae63d1576bbe4d6f8440471294d5138afaf410992f083cb1fedbe5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl2hol3-148eb556363778.dat",
+      "offset": 113555,
+      "size": 737,
+      "sha256": "7b15ef18381acebfcc9e9c59f3ea873387b6c4a7b0faef3116017b6d9515ee96"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl2hol3.dat",
+      "offset": 114292,
+      "size": 737,
+      "sha256": "7b15ef18381acebfcc9e9c59f3ea873387b6c4a7b0faef3116017b6d9515ee96"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl2hole-77b5900ccc154.dat",
+      "offset": 115029,
+      "size": 5215,
+      "sha256": "3f8e4ad6d0520d3b3847d7c5ec2be4588ea23e9f602cc703c92b759db2e99fcb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl2hole.dat",
+      "offset": 120244,
+      "size": 5215,
+      "sha256": "3f8e4ad6d0520d3b3847d7c5ec2be4588ea23e9f602cc703c92b759db2e99fcb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl3hole-d1b5c4cc50132.dat",
+      "offset": 125459,
+      "size": 4672,
+      "sha256": "0e2b5ec898b9486ccd982041d3a864e74df09395f5fff0fd44f4c480002d0e54"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl3hole.dat",
+      "offset": 130131,
+      "size": 4672,
+      "sha256": "0e2b5ec898b9486ccd982041d3a864e74df09395f5fff0fd44f4c480002d0e54"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl4hol2.dat",
+      "offset": 134803,
+      "size": 465,
+      "sha256": "99530af7846dd27f71ac609505a21a284e57dd0935304c97630ff3c4aba9a98e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl4hol3.dat",
+      "offset": 135268,
+      "size": 540,
+      "sha256": "256518f913add117ccc33a39c2d522db9dd40831535013aed150d9aad01362ed"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl4hole.dat",
+      "offset": 135808,
+      "size": 820,
+      "sha256": "5c3dfe730638ae90316312d36894d6fee2caac0d731e736ea99fbdc23c8de94d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl5ho10-c1c670552c2aa.dat",
+      "offset": 136628,
+      "size": 1185,
+      "sha256": "b01d5b7986f8230650b8b078f37adaeddcd214ef01a0e520b95074199627d84b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl5ho10.dat",
+      "offset": 137813,
+      "size": 1185,
+      "sha256": "b01d5b7986f8230650b8b078f37adaeddcd214ef01a0e520b95074199627d84b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl5hol9-0ce0a4c47ca4f8.dat",
+      "offset": 138998,
+      "size": 689,
+      "sha256": "50104761b637b93d1b3993ddb44d6164c759e82baa41b526d6f9b4bea3316755"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axl5hol9.dat",
+      "offset": 139687,
+      "size": 689,
+      "sha256": "50104761b637b93d1b3993ddb44d6164c759e82baa41b526d6f9b4bea3316755"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axle-2a9f3e311d7318.dat",
+      "offset": 140376,
+      "size": 3518,
+      "sha256": "3f4769749c833049ee49ca05f4d3ce2cc493cf1eea79dc9bce9458402065b250"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axle.dat",
+      "offset": 143894,
+      "size": 3518,
+      "sha256": "3f4769749c833049ee49ca05f4d3ce2cc493cf1eea79dc9bce9458402065b250"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axleend.dat",
+      "offset": 147412,
+      "size": 786,
+      "sha256": "71212957e7c34f37d69aab414892d226ff4b2423a7ecaac1b75c67012fba1ba7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axleho10.dat",
+      "offset": 148198,
+      "size": 1365,
+      "sha256": "149a47e713623f53bc28023d0b6c96bbf5d41796f080139dfa062d00f63b849a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axleho11.dat",
+      "offset": 149563,
+      "size": 324,
+      "sha256": "8572365d0f33b9dd7f28da426a3d888a142a2883204af7c1067855c19bd9f292"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol2-1f1533077209d8.dat",
+      "offset": 149887,
+      "size": 673,
+      "sha256": "ac16d5ff288de5947ced09ad773a23159bf728d1557ed07b5e43ad281ba4a34b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol2.dat",
+      "offset": 150560,
+      "size": 673,
+      "sha256": "ac16d5ff288de5947ced09ad773a23159bf728d1557ed07b5e43ad281ba4a34b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol3.dat",
+      "offset": 151233,
+      "size": 1012,
+      "sha256": "5a377488d62c31b189406c559658f495f2ce858088e3a84a4f1da60786dd7f8a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol4-1fe8a56a64a6e8.dat",
+      "offset": 152245,
+      "size": 4110,
+      "sha256": "89a38bae1b5082b0abb93431eef2d6aa541a86bf46d3dd47f771254d887ac7eb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol4.dat",
+      "offset": 156355,
+      "size": 4110,
+      "sha256": "89a38bae1b5082b0abb93431eef2d6aa541a86bf46d3dd47f771254d887ac7eb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol5-6be11db1ae43f8.dat",
+      "offset": 160465,
+      "size": 3125,
+      "sha256": "5977860888c76d8170d9ec33c93f6c431133bfdc79435e7eac9c32bb15c0a83d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol5.dat",
+      "offset": 163590,
+      "size": 3125,
+      "sha256": "5977860888c76d8170d9ec33c93f6c431133bfdc79435e7eac9c32bb15c0a83d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol6-c9287ced27aab8.dat",
+      "offset": 166715,
+      "size": 1185,
+      "sha256": "0b96f23aee598eee48cfd2ac813a0042f82d3fbd0ea22abc9b6b39880050551d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol6.dat",
+      "offset": 167900,
+      "size": 1185,
+      "sha256": "0b96f23aee598eee48cfd2ac813a0042f82d3fbd0ea22abc9b6b39880050551d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol8.dat",
+      "offset": 169085,
+      "size": 1615,
+      "sha256": "d05138b9007cb84abbae9ab3db2cfcea7f3635d1ffd21578682373b368668519"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehol9.dat",
+      "offset": 170700,
+      "size": 706,
+      "sha256": "01fc413d20ca4ac9a06cf2c0706c833ffa7df11ef04bff12389461fa326399aa"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehole-ad0110af5d5c7.dat",
+      "offset": 171406,
+      "size": 3763,
+      "sha256": "9fa8960a467e0ef6c726a477904582913f4a6e3285b195456789e1c69afc7791"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/axlehole.dat",
+      "offset": 175169,
+      "size": 3763,
+      "sha256": "9fa8960a467e0ef6c726a477904582913f4a6e3285b195456789e1c69afc7791"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/beamhol2-47a594d2ee437.dat",
+      "offset": 178932,
+      "size": 831,
+      "sha256": "72bb7c60feeb5ea85e00b013dc0756bb2a61f393635d150a6c63b4ddfaf5e85f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/beamhol2.dat",
+      "offset": 179763,
+      "size": 831,
+      "sha256": "72bb7c60feeb5ea85e00b013dc0756bb2a61f393635d150a6c63b4ddfaf5e85f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/beamhole-7c248f77f3f66.dat",
+      "offset": 180594,
+      "size": 749,
+      "sha256": "b00ef061661cf381824bcd72d598fa171baefade634bcf810301f3526f8fe508"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/beamhole.dat",
+      "offset": 181343,
+      "size": 749,
+      "sha256": "b00ef061661cf381824bcd72d598fa171baefade634bcf810301f3526f8fe508"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/bush-9ab25a95fea7f.dat",
+      "offset": 182092,
+      "size": 516,
+      "sha256": "63e71b02300fc980dcfaef250e3a8fd85628ba9a57413593241b5d90e7ef6286"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/bush.dat",
+      "offset": 182608,
+      "size": 516,
+      "sha256": "63e71b02300fc980dcfaef250e3a8fd85628ba9a57413593241b5d90e7ef6286"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/bush0-f5a013bbf93fd8.dat",
+      "offset": 183124,
+      "size": 4539,
+      "sha256": "8f583cd857489e10cfc0876f1651d1fca180530395eef0c2822940972e19c047"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/bush0.dat",
+      "offset": 187663,
+      "size": 4539,
+      "sha256": "8f583cd857489e10cfc0876f1651d1fca180530395eef0c2822940972e19c047"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/bush1-c3aa50bb782a68.dat",
+      "offset": 192202,
+      "size": 2099,
+      "sha256": "7df95bbaaecf8dbe5c427b5f09980f919fc4f6aa55c4f9defef504aeb9714219"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/bush1.dat",
+      "offset": 194301,
+      "size": 2099,
+      "sha256": "7df95bbaaecf8dbe5c427b5f09980f919fc4f6aa55c4f9defef504aeb9714219"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric.dat",
+      "offset": 196400,
+      "size": 13452,
+      "sha256": "ad0623433b07e7f3c9f81b2ee2eb7eec44257716265d0f6c8449e1f047f8e3e3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric3.dat",
+      "offset": 209852,
+      "size": 20441,
+      "sha256": "6c57b11a17829ee5e161c6665619113fba8e3b50ad1b5a0765c0a285c83ecd0a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric4.dat",
+      "offset": 230293,
+      "size": 901,
+      "sha256": "ad6d6f7533d4b99742c1ae74a3bf63340f29f4e6ae0f88f7f4abbada835e66de"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric5-0165ce887a8ca8.dat",
+      "offset": 231194,
+      "size": 16679,
+      "sha256": "01605ecce1c918bf40e0cc5cd0d027bc0435685d401e2d45d537f69089664153"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric5.dat",
+      "offset": 247873,
+      "size": 16679,
+      "sha256": "01605ecce1c918bf40e0cc5cd0d027bc0435685d401e2d45d537f69089664153"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric6-c946ffe082be38.dat",
+      "offset": 264552,
+      "size": 18371,
+      "sha256": "a6ba0bd942c55f9f4c58a4806ecd885128e360ea93d8b5c081748393b7757992"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric6.dat",
+      "offset": 282923,
+      "size": 18371,
+      "sha256": "a6ba0bd942c55f9f4c58a4806ecd885128e360ea93d8b5c081748393b7757992"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric8-0427c916320448.dat",
+      "offset": 301294,
+      "size": 16759,
+      "sha256": "3fe58a47e504eea148b6413b8c952e8873df573c125d13b5b096d3e7e1c89f70"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric8.dat",
+      "offset": 318053,
+      "size": 16759,
+      "sha256": "3fe58a47e504eea148b6413b8c952e8873df573c125d13b5b096d3e7e1c89f70"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric9-c1c85e6776fa28.dat",
+      "offset": 334812,
+      "size": 15591,
+      "sha256": "67a8a7d2edebda0401b193b1eb9fb7e34ba05638e5d0ddc5c9fefb6fee472af1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/confric9.dat",
+      "offset": 350403,
+      "size": 15591,
+      "sha256": "67a8a7d2edebda0401b193b1eb9fb7e34ba05638e5d0ddc5c9fefb6fee472af1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect-480f5739d2c618.dat",
+      "offset": 365994,
+      "size": 7195,
+      "sha256": "fd9ebd1c49cc50ce78ad2627a5e71453c9aa80d08807147cb3af619da38234c0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect.dat",
+      "offset": 373189,
+      "size": 7195,
+      "sha256": "fd9ebd1c49cc50ce78ad2627a5e71453c9aa80d08807147cb3af619da38234c0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect2.dat",
+      "offset": 380384,
+      "size": 6298,
+      "sha256": "1e6efac74da507e96609166340bc4f2ba2b25757f7734f60a81d8d5ea7a5556c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect3-b289b68424d108.dat",
+      "offset": 386682,
+      "size": 6337,
+      "sha256": "8edbda19bc105097b3cb325d20dcff8448bf9154d9b32c95f13b6588fba42bf5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect3.dat",
+      "offset": 393019,
+      "size": 6337,
+      "sha256": "8edbda19bc105097b3cb325d20dcff8448bf9154d9b32c95f13b6588fba42bf5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect8-4e77992cd2349.dat",
+      "offset": 399356,
+      "size": 6100,
+      "sha256": "91c6b233dad893a227da61cbc59a0d7053bab5f6bb5a3b5c46a67099a2fd3fd9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connect8.dat",
+      "offset": 405456,
+      "size": 6100,
+      "sha256": "91c6b233dad893a227da61cbc59a0d7053bab5f6bb5a3b5c46a67099a2fd3fd9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connhole-a1b3554c2670d8.dat",
+      "offset": 411556,
+      "size": 563,
+      "sha256": "9b6dddc3863bb0000e6170a655ef9b2c61ba901e9ff842cb8079987c3b4389c6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/connhole.dat",
+      "offset": 412119,
+      "size": 563,
+      "sha256": "9b6dddc3863bb0000e6170a655ef9b2c61ba901e9ff842cb8079987c3b4389c6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/cylj4x8-2af797da17e2d8.dat",
+      "offset": 412682,
+      "size": 3272,
+      "sha256": "cb2a9276c55dad3cefe9797f667af19e19159d015048606234c7e38b1ef0e645"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/cylj4x8.dat",
+      "offset": 415954,
+      "size": 3272,
+      "sha256": "cb2a9276c55dad3cefe9797f667af19e19159d015048606234c7e38b1ef0e645"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/fric.dat",
+      "offset": 419226,
+      "size": 787,
+      "sha256": "89f6693c738cc3ae865e13b9ef3a76628d57bc86665be2fb8870b34e52c5410d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/knob1.dat",
+      "offset": 420013,
+      "size": 6110,
+      "sha256": "bbd5dc2690e7b75cd4a45464782414d6c44d2ae385e96a5855fdac9a328de59a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/npeghol2-0460e6a9f0fe08.dat",
+      "offset": 426123,
+      "size": 1491,
+      "sha256": "7b2dbc38c90abab2ba47e9ac65a4959460b61587d4c29e2402f8aae21be76a5d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/npeghol2.dat",
+      "offset": 427614,
+      "size": 1491,
+      "sha256": "7b2dbc38c90abab2ba47e9ac65a4959460b61587d4c29e2402f8aae21be76a5d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/npeghol4-b67b6d2dce6688.dat",
+      "offset": 429105,
+      "size": 2557,
+      "sha256": "63caaec670a258cab0c6fc753d14784e8853b9abdb7eb627001c3d065652b420"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/npeghol4.dat",
+      "offset": 431662,
+      "size": 2557,
+      "sha256": "63caaec670a258cab0c6fc753d14784e8853b9abdb7eb627001c3d065652b420"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/npeghole-f75200fdad5d98.dat",
+      "offset": 434219,
+      "size": 1064,
+      "sha256": "6931f3d4860850da3dfbb267d4b226f660a569849e9a02b38cbb9aff8e32445d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/npeghole.dat",
+      "offset": 435283,
+      "size": 1064,
+      "sha256": "6931f3d4860850da3dfbb267d4b226f660a569849e9a02b38cbb9aff8e32445d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/peghole-5a6d003f24046.dat",
+      "offset": 436347,
+      "size": 804,
+      "sha256": "89ced868313a5d416f77e5c3ee1440b54ef890d5696cc93797ff593a1fc59530"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/peghole.dat",
+      "offset": 437151,
+      "size": 804,
+      "sha256": "89ced868313a5d416f77e5c3ee1440b54ef890d5696cc93797ff593a1fc59530"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/peghole4.dat",
+      "offset": 437955,
+      "size": 974,
+      "sha256": "c5796f367d5aadb265ec0afecf5b206535496893659d7bdbbe8cec3fd04a19a0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/questionpattern.dat",
+      "offset": 438929,
+      "size": 12588,
+      "sha256": "78e8d98dc81142006128bd6ba61ce27b2495bd81803ff541216d94afe6561ad0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud10.dat",
+      "offset": 451517,
+      "size": 1759,
+      "sha256": "15726080c4a52e56eff7d98f00cb826905e514bb4cdad7947e891efecc014608"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud16.dat",
+      "offset": 453276,
+      "size": 3246,
+      "sha256": "26a2ea756fab257668841975ffd5592090887ffdae9d1c469ac6ba623adaf0c9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud18a.dat",
+      "offset": 456522,
+      "size": 30586,
+      "sha256": "9d4e5c85c57340d8c73d8da5e8b574e72ca33461220ed11e2a99b07bd9e6d027"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud3.dat",
+      "offset": 487108,
+      "size": 704,
+      "sha256": "d88046aa2418c8dca438b754f7fc32fa3d203b48abc5f7b73208df6c4c503e8e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud3a-208647d720072.dat",
+      "offset": 487812,
+      "size": 599,
+      "sha256": "52eb9b727207c91a5f8e11a6e557d431f68286988b29102473cdb0a0b05ef2d1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud3a.dat",
+      "offset": 488411,
+      "size": 599,
+      "sha256": "52eb9b727207c91a5f8e11a6e557d431f68286988b29102473cdb0a0b05ef2d1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud4.dat",
+      "offset": 489010,
+      "size": 923,
+      "sha256": "78448944606839cee3b928978487e1df5f09cfffd3a4d4766ee00b1f23d8bacb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/stud4a.dat",
+      "offset": 489933,
+      "size": 861,
+      "sha256": "b39852222f60e3c522f0ca4c934719838634089d049a28ade2695ff9ed53e26a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tootb28.dat",
+      "offset": 490794,
+      "size": 2221,
+      "sha256": "9cc8bea8bee454679013fd162f81348812ddc182e35afc3685a2c1080ebecf53"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tootb28s.dat",
+      "offset": 493015,
+      "size": 2483,
+      "sha256": "6764bb1691e723a23e7ea69f291d8cb70fba3ea01658e9c12929b34fca70fdb6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth16.dat",
+      "offset": 495498,
+      "size": 1157,
+      "sha256": "787ad702f367452093bf86b5d7396baeb59f6784605935770525ca252cf00ac7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth24.dat",
+      "offset": 496655,
+      "size": 1149,
+      "sha256": "9a641077a6e7848fbfa78cf555b316cb62247485515439659a1e00090dd86cb5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth24b.dat",
+      "offset": 497804,
+      "size": 2115,
+      "sha256": "f2233612a8eca2c5dd7286c7105a359db083dccdb8859cef8fd62039795ff985"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth40.dat",
+      "offset": 499919,
+      "size": 951,
+      "sha256": "d98cc7e5f4c53a106ca56aec2ac552f8e15df3378971aa0fac961f4e8d48f260"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth8-9a4332e51f2578.dat",
+      "offset": 500870,
+      "size": 1316,
+      "sha256": "44294411d278766e4957143ab289d079f98e3789b0bd75a5917931c7cc1a311d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth8.dat",
+      "offset": 502186,
+      "size": 1316,
+      "sha256": "44294411d278766e4957143ab289d079f98e3789b0bd75a5917931c7cc1a311d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/tooth8a.dat",
+      "offset": 503502,
+      "size": 1837,
+      "sha256": "66aec83bfea610dea5ab22c4a6901840384d6b8cd4c63f17aa6b29312ac5b811"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/toothb12.dat",
+      "offset": 505339,
+      "size": 2781,
+      "sha256": "207793855637db3a93064a0ddcb1b93b83c36695e84bfaf68a55942eb0de4baa"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/toothb20.dat",
+      "offset": 508120,
+      "size": 1697,
+      "sha256": "b75de7ff6bbbb2712c68b2dd911288c62ce39ca68906f6b8aa52fc756bb89990"
+    },
+    {
+      "path": "footechs/mocmeta_parts/p/toothr.dat",
+      "offset": 509817,
+      "size": 833,
+      "sha256": "d0bb93f6dcd131e53357b99895e05e7021e87fa781d1e989a355830adbf0199e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10089.dat",
+      "offset": 510650,
+      "size": 1804,
+      "sha256": "b901f54c3e93576ea722b3902a052e2045f87278ee90b58f795be99083a6c8f0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10089c01.dat",
+      "offset": 512454,
+      "size": 625,
+      "sha256": "7367e449ae1144cae5a2e7766eaaa4e8723b368bd4d38fcdf578e0a0ffad4b2d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10090.dat",
+      "offset": 513079,
+      "size": 1341,
+      "sha256": "60ca4bb06e1366b5460a7ea2ba3c692de9bd4206c8c2473ca30a6c35e4acd36c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10091.dat",
+      "offset": 514420,
+      "size": 4964,
+      "sha256": "ed1fcecd3ee56506cf6dd9212b61aec66d3969d5c99962fcb4314333782e5bff"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10092.dat",
+      "offset": 519384,
+      "size": 4579,
+      "sha256": "4c3557ccf379fef90c5de82398e804bc6447ad36994e42409471870ad3e1fe57"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10095.dat",
+      "offset": 523963,
+      "size": 903,
+      "sha256": "086f5bdc7abbaffcc406a774ef7b646aeb0afdef9f9dab1a1a795d65e289e653"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/10928.dat",
+      "offset": 524866,
+      "size": 1170,
+      "sha256": "aacb90e840ae7c7bdaf9d8c791e418e34e50b634a179661041891df892180c1b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/11214.dat",
+      "offset": 526036,
+      "size": 456,
+      "sha256": "16a66bad0318ddd92777765d8597f2a9cb17ec5005ab148cecf42e0796df1ec5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/11478.dat",
+      "offset": 526492,
+      "size": 1172,
+      "sha256": "1ee4a9ac45ca85c78ecec299d684a698a91d57d1f50e796847a7c0b3fbc716db"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/14769p01.dat",
+      "offset": 527664,
+      "size": 2008,
+      "sha256": "de40ed2b0c13d7971ba10cd6d9fc26fbddb0a42ea1c83c839b21f5c2767a87ae"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/15100.dat",
+      "offset": 529672,
+      "size": 1765,
+      "sha256": "32d2c61579ed93eff6dab6321117828a9d60366893aaeffe9d1d40af66f086ad"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/18651.dat",
+      "offset": 531437,
+      "size": 457,
+      "sha256": "29bb32c2bd8ab2a80d5faab320e8c7321de4faa6dccd46c173e9ddaafc8f3352"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/18674.dat",
+      "offset": 531894,
+      "size": 887,
+      "sha256": "8e5710a55c8783d6b7b0f5d103020859497efd0614d9831fd1b484cfce6f9d83"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/22961.dat",
+      "offset": 532781,
+      "size": 885,
+      "sha256": "5527b7edcc0f2a218b39b707614f7ebc2cd8f750085bb153d63033b4b5c362c2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2431.dat",
+      "offset": 533666,
+      "size": 347,
+      "sha256": "da7c68bd25327f8acfd04582534d3fe7ac2d046f9b75717de4859e195fcf2039"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2730.dat",
+      "offset": 534013,
+      "size": 8988,
+      "sha256": "861f2cf6ca5a7a54b445eb1526ed8fab02a7d96b319389e32edd75bc844c618e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2780-0f23d2dc4d59a8.dat",
+      "offset": 543001,
+      "size": 437,
+      "sha256": "86b29b8c25ff874bc0197d63e45ed84d1fdf0793864f281d5a1cf144b2c3a62f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2780.dat",
+      "offset": 543438,
+      "size": 437,
+      "sha256": "86b29b8c25ff874bc0197d63e45ed84d1fdf0793864f281d5a1cf144b2c3a62f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2815.dat",
+      "offset": 543875,
+      "size": 2057,
+      "sha256": "32ed194b6c51b99cf05bbd555cfa1e9b0f01296fc44deb83cbc4ac91b723aa08"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2905-0922d37e4a2af8.dat",
+      "offset": 545932,
+      "size": 11406,
+      "sha256": "177a577c321f1aa408869077755eb02f08fa84e18fc3f6d563dd9211a14a4af0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/2905.dat",
+      "offset": 557338,
+      "size": 11406,
+      "sha256": "177a577c321f1aa408869077755eb02f08fa84e18fc3f6d563dd9211a14a4af0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3001.dat",
+      "offset": 568744,
+      "size": 657,
+      "sha256": "135a42b12bb0af4535f94f045bb58908015ae551c1336a04e5b93f7290215037"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/30219.dat",
+      "offset": 569401,
+      "size": 13623,
+      "sha256": "e9ac51f332a329923ca082a19555b7912354f45e01276949372fcc7923ebd681"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3023.dat",
+      "offset": 583024,
+      "size": 854,
+      "sha256": "8cc66f9b11e25ecc7300246b068018e17bb316531c6280f5171ee83af789e47f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/30391.dat",
+      "offset": 583878,
+      "size": 1464,
+      "sha256": "75863aadb54a52e72e86a3bf5f2792f138a6e377713c1f27556b80fc0c5b09c7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3040b.dat",
+      "offset": 585342,
+      "size": 602,
+      "sha256": "bb74637d32ff38d865fbd9d7899e1d2c8400452b82d3e1454c2eff265d93c25b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/30648.dat",
+      "offset": 585944,
+      "size": 1709,
+      "sha256": "b321382bb82d57477664b1b25ae4aaa6b6f83a7e36cd5d496c7d399ae4d2830a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3068.dat",
+      "offset": 587653,
+      "size": 405,
+      "sha256": "427ad656d9fad6ca45d2db2e143f82ea98f26491bfe709e2be1191675aa4e01b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3068b.dat",
+      "offset": 588058,
+      "size": 592,
+      "sha256": "6de7a051a60e48efefaff8e48ec8056dba95a02ae7e4f092075536186898d555"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32001.dat",
+      "offset": 588650,
+      "size": 3152,
+      "sha256": "bf00c24476d9e24038d4cb4071ef3b20994f8e934342ddc610a565f6b6057f53"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32002-17a547d2d6ea2.dat",
+      "offset": 591802,
+      "size": 524,
+      "sha256": "524099028ae0e4c9e9af3714afc62c1a44f4fbad442223ebc51fef86a4bc6311"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32002.dat",
+      "offset": 592326,
+      "size": 524,
+      "sha256": "524099028ae0e4c9e9af3714afc62c1a44f4fbad442223ebc51fef86a4bc6311"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32009-1318fceee74468.dat",
+      "offset": 592850,
+      "size": 5248,
+      "sha256": "03f3869b65a513f32dfcdf369f966e3695e7777bb6a14e1c825b28d37e8c9c41"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32009.dat",
+      "offset": 598098,
+      "size": 5248,
+      "sha256": "03f3869b65a513f32dfcdf369f966e3695e7777bb6a14e1c825b28d37e8c9c41"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32012.dat",
+      "offset": 603346,
+      "size": 15538,
+      "sha256": "403471a4f1b4c8cfaed0c20c1c1953d05cd627431125d5d8350fb4c4f34546f7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32013.dat",
+      "offset": 618884,
+      "size": 1605,
+      "sha256": "b65586ea2e13187714245299c276445e051d29e2492512abff4e64c6c49142fd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32016.dat",
+      "offset": 620489,
+      "size": 8014,
+      "sha256": "60865a9d6604c228cd8844d94c2e872799dc52e11b0b806ef0f055a049477319"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32018.dat",
+      "offset": 628503,
+      "size": 12496,
+      "sha256": "d3d899903551fa1afbac67faaa6eaac4d87b3301abdc791edb70912a295ccd09"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32034-e144f78322846.dat",
+      "offset": 640999,
+      "size": 4928,
+      "sha256": "9c6919b3aa37ed73ed57413aca2a21a5e82e73be539db115cfa662ca6608cd67"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32034.dat",
+      "offset": 645927,
+      "size": 4928,
+      "sha256": "9c6919b3aa37ed73ed57413aca2a21a5e82e73be539db115cfa662ca6608cd67"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32039.dat",
+      "offset": 650855,
+      "size": 3939,
+      "sha256": "2f94a56ebf46466fde8b7effa8fc1dd1e69901798ea0342e0bd79dcb536a3d38"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32054-7f0b6a941283c8.dat",
+      "offset": 654794,
+      "size": 1673,
+      "sha256": "c6ac3cbc593da3a40f42a3697f8bbb1aa76b6f0314f61f8b77f681874adf4968"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32054.dat",
+      "offset": 656467,
+      "size": 1673,
+      "sha256": "c6ac3cbc593da3a40f42a3697f8bbb1aa76b6f0314f61f8b77f681874adf4968"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32062.dat",
+      "offset": 658140,
+      "size": 5197,
+      "sha256": "68a64b549dd9d2bdd835ed6a99ddf151561c4e4f5a3d003453db4ba84481ce26"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32064a.dat",
+      "offset": 663337,
+      "size": 4844,
+      "sha256": "319b42ebcb1b669b6b6ab52307cb2164905241d0a820506112e19c79aa2ad8b4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32064b.dat",
+      "offset": 668181,
+      "size": 2199,
+      "sha256": "e780be4cbdc6eb46d5cf87a0a012d9aee229e21e0c2d688d91079036d31bce6c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32068.dat",
+      "offset": 670380,
+      "size": 7992,
+      "sha256": "d52587fc61782cbab9370bbf8e8d636800e1f04caf7bce8554441311e96d3b7c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32069.dat",
+      "offset": 678372,
+      "size": 11559,
+      "sha256": "86e58a3ec37292901c36fec8325af784d6f8a47eb1816a4f30a9946c893c4e83"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32073-93abff20adc9c.dat",
+      "offset": 689931,
+      "size": 296,
+      "sha256": "5f223ace377d7e14e60dcf19342e5d91c0ea5681042b44bd7c55befd2b29ea90"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32073.dat",
+      "offset": 690227,
+      "size": 296,
+      "sha256": "5f223ace377d7e14e60dcf19342e5d91c0ea5681042b44bd7c55befd2b29ea90"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32123a-64a968c7d22c08.dat",
+      "offset": 690523,
+      "size": 1757,
+      "sha256": "5ca2495078c762b02a476951932730588a895837663470d12a5560ddabac3d0d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32123a.dat",
+      "offset": 692280,
+      "size": 1757,
+      "sha256": "5ca2495078c762b02a476951932730588a895837663470d12a5560ddabac3d0d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32140-29d2039fea949.dat",
+      "offset": 694037,
+      "size": 2418,
+      "sha256": "0633ac901c20798b2273d6d070bb669afbafdda08c2c77e2e4ce9e74a059c821"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32140.dat",
+      "offset": 696455,
+      "size": 2418,
+      "sha256": "0633ac901c20798b2273d6d070bb669afbafdda08c2c77e2e4ce9e74a059c821"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32184.dat",
+      "offset": 698873,
+      "size": 6050,
+      "sha256": "de68ed587ad5664bd9ea213d4e7e7e11c717bf519c219221f493e1b74cec459e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32198.dat",
+      "offset": 704923,
+      "size": 10592,
+      "sha256": "d339bd85f8e0bcfc87bab9489931def4b06fee7dfe516cb0a7bc7db5ddc4d29a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32209.dat",
+      "offset": 715515,
+      "size": 1587,
+      "sha256": "77b99bb1ec3fa657339614540c4d5b79d5e20bb989fdc30364a96798e56ade17"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32269.dat",
+      "offset": 717102,
+      "size": 18326,
+      "sha256": "275836298e3185d56475e852b7cebded4c4a2c337b345350c1a5cb10af8615d7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32270.dat",
+      "offset": 735428,
+      "size": 3449,
+      "sha256": "a8b91c94ba6233ce45519e9b36089c8b026411f20b138f3bd808a4479b51eadf"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32271.dat",
+      "offset": 738877,
+      "size": 3644,
+      "sha256": "74ad9054e6c615edada265d62e7bd5c5c2ced5188f4b258553d099b2173b2223"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32278-82cf799e95726.dat",
+      "offset": 742521,
+      "size": 2096,
+      "sha256": "18e5172ce1883a1d39acaa67fc6a141be6059b1ba0c164467f816c442d1b7145"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32278.dat",
+      "offset": 744617,
+      "size": 2096,
+      "sha256": "18e5172ce1883a1d39acaa67fc6a141be6059b1ba0c164467f816c442d1b7145"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32316.dat",
+      "offset": 746713,
+      "size": 1089,
+      "sha256": "f3b6e30294a4d195be889aaae884c3a36368a7c50027dd6fb806628c25c186f8"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32348.dat",
+      "offset": 747802,
+      "size": 3414,
+      "sha256": "c53b22c1b311b91510fe3a89bfb6854e02e4604cc3a7b14bb4f024f7667d7e18"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32498.dat",
+      "offset": 751216,
+      "size": 1790,
+      "sha256": "0a81a04f32b45550f0e5e222ed5d08019cadac4bf4410c208bf9aa92a9682e5d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32523.dat",
+      "offset": 753006,
+      "size": 432,
+      "sha256": "37d90eaee5ba21c0c20b25af1b299ae9a17ff945fdbcd3c3fe1d02039c22f3f7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32524.dat",
+      "offset": 753438,
+      "size": 1140,
+      "sha256": "02c2133f0a4469c98c6e2b8f6cbdc1c077ba4b730e39a9df183e73043f1b32a0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32525.dat",
+      "offset": 754578,
+      "size": 1589,
+      "sha256": "53a5e445838be1fa2c94081a22ad061944b8bfa0c2194ad99115dc94a16163ec"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32526.dat",
+      "offset": 756167,
+      "size": 2766,
+      "sha256": "7e213f71cc6146232ba5e059b6e16014aff235a5c75119ea3048d4109ae3646e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32556.dat",
+      "offset": 758933,
+      "size": 13503,
+      "sha256": "dd7bcbd40ffd01f3de30ff3fb8b6700c1ee952516a6bc56eb2d6e762361c643d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/32905.dat",
+      "offset": 772436,
+      "size": 581,
+      "sha256": "67f22fb44d4edc7bb92803d76856fb27f1b630c71ee20ce71284c47bdb51d9d1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3326.dat",
+      "offset": 773017,
+      "size": 310,
+      "sha256": "e725e975ed4ae1a8262238c4fa682c17bde8134c7e4e5710089868ce6e7a182b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3326b.dat",
+      "offset": 773327,
+      "size": 3054,
+      "sha256": "d4bb3180e5a80cb7d5b103d86e387160cc9717890b2b88981a044d7b2826d65b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/33299.dat",
+      "offset": 776381,
+      "size": 331,
+      "sha256": "99e34b78799f0859503a4a67715a3b399ecd52f7c1db4e64538eec268c6b3d19"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/33299a-05c60b107477d.dat",
+      "offset": 776712,
+      "size": 912,
+      "sha256": "8e4bec5996ad2fb1af8faa779df5fc071d31b9126885021081f05475ccb34966"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/33299a.dat",
+      "offset": 777624,
+      "size": 912,
+      "sha256": "8e4bec5996ad2fb1af8faa779df5fc071d31b9126885021081f05475ccb34966"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3626bp01.dat",
+      "offset": 778536,
+      "size": 1849,
+      "sha256": "62c69afdfdc398a98f16185983ed876f495a2a1f2f89a3b6da0d1f6383939949"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3626c.dat",
+      "offset": 780385,
+      "size": 543,
+      "sha256": "2cd77319343fc2b86bf01626de8ea769ea16c818728381e1ca425b841afba7ba"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3647-10a6d45cb8b4.dat",
+      "offset": 780928,
+      "size": 1507,
+      "sha256": "2bc8fb7ccc6fc8cdf9126f3e51e2e36260bf7c11a8e94aa325002b836cf0606d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3647.dat",
+      "offset": 782435,
+      "size": 1507,
+      "sha256": "2bc8fb7ccc6fc8cdf9126f3e51e2e36260bf7c11a8e94aa325002b836cf0606d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3648b.dat",
+      "offset": 783942,
+      "size": 1640,
+      "sha256": "2841c95d57f2edda8f463945dd5264630ce5db0bfbe804a555ae58fd7a7777b3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3649.dat",
+      "offset": 785582,
+      "size": 8664,
+      "sha256": "9cf5633a3b3acd835576bf5464d85bd5254ba01910c46284c18a6a54b2bb19ad"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3650c.dat",
+      "offset": 794246,
+      "size": 5034,
+      "sha256": "7ebf1a64ea2903e56bc428d2657702715ffbcc1531088bd8fcf73c789ed87e1a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3673.dat",
+      "offset": 799280,
+      "size": 491,
+      "sha256": "e93d70f6e6170890d4260c7ffb6534c6efc131f1420173157546f4f55d08ccd4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3700-1c52a64d1f9758.dat",
+      "offset": 799771,
+      "size": 2320,
+      "sha256": "9eb96e7a2543a784451d5c0e62db97c04e49882397435095e428f748d199f2c4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3700.dat",
+      "offset": 802091,
+      "size": 2320,
+      "sha256": "9eb96e7a2543a784451d5c0e62db97c04e49882397435095e428f748d199f2c4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3701.dat",
+      "offset": 804411,
+      "size": 4075,
+      "sha256": "65f0ea51a77ea194a4273eee9aa76c303e577e87d309bf96fd0a2be3a5bfe688"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3702.dat",
+      "offset": 808486,
+      "size": 7303,
+      "sha256": "d8b522b3e1e842095130e0a7335c108a3a1a5b358f206ba1cac8b635df1ecdeb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3703-20eb679ad2068.dat",
+      "offset": 815789,
+      "size": 14158,
+      "sha256": "b233dcb0495a89c7b3a681bb48b5f4fdfe71414373d35a98c739d9c1e9886847"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3703.dat",
+      "offset": 829947,
+      "size": 14158,
+      "sha256": "b233dcb0495a89c7b3a681bb48b5f4fdfe71414373d35a98c739d9c1e9886847"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3705-d26dc448282ba8.dat",
+      "offset": 844105,
+      "size": 455,
+      "sha256": "e9ac7b68391c5647f390ad117b2cb19c4248454e040f0e9658bfd062e83bbbc4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3705.dat",
+      "offset": 844560,
+      "size": 455,
+      "sha256": "e9ac7b68391c5647f390ad117b2cb19c4248454e040f0e9658bfd062e83bbbc4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3706.dat",
+      "offset": 845015,
+      "size": 456,
+      "sha256": "af4dd2170acf3ef5f5e9e8ae475b5bdf2063196b94d8b4be7c9bbde08685ae60"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3707-340c1e4a85446.dat",
+      "offset": 845471,
+      "size": 456,
+      "sha256": "e5d3336900d01ad5a268316190ce1a4a11ce4f95ff4c2524a7627278e1c32a94"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3707.dat",
+      "offset": 845927,
+      "size": 456,
+      "sha256": "e5d3336900d01ad5a268316190ce1a4a11ce4f95ff4c2524a7627278e1c32a94"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3708.dat",
+      "offset": 846383,
+      "size": 457,
+      "sha256": "88b51dc08fb8915f2594f7fb015e58aedcd0240acfb650ebc74704f70474fce7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3709b.dat",
+      "offset": 846840,
+      "size": 2350,
+      "sha256": "8eb09d7e11754b452fdfcf53dcade069f587e843c3de5bb03f1039e3846ac447"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3710.dat",
+      "offset": 849190,
+      "size": 959,
+      "sha256": "da9a3af25c366cee4d2c94930ec94a832d1753f4be91112dbeb672f3df20f864"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3711.dat",
+      "offset": 850149,
+      "size": 6513,
+      "sha256": "17fd525b6daea07b59cfc84c9461cddc2614f9154113f90ffccb16cc7a469864"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3712.dat",
+      "offset": 856662,
+      "size": 11285,
+      "sha256": "3ec546ea2efc349dd6f3c5c0b490adc196bf673307dcf6c950d580166ba5d7ce"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3712c01.dat",
+      "offset": 867947,
+      "size": 856,
+      "sha256": "18f51a66af497caf1d887f9b8ee259d7fc0223c59ed8c8ff5de094d9f203ed56"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3713-e090ac60a52d9.dat",
+      "offset": 868803,
+      "size": 950,
+      "sha256": "b591a0b3d96918f1fd2deb1c486763d5b965d75fd1ec8e5fe2932e44f5ea9c0b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3713.dat",
+      "offset": 869753,
+      "size": 950,
+      "sha256": "b591a0b3d96918f1fd2deb1c486763d5b965d75fd1ec8e5fe2932e44f5ea9c0b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3737-1407e5513db51.dat",
+      "offset": 870703,
+      "size": 457,
+      "sha256": "dfbf9d6f4fbbfd4d0b897dcbffcb89208d91a34ad7163693f192ba00077048f0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3737.dat",
+      "offset": 871160,
+      "size": 457,
+      "sha256": "dfbf9d6f4fbbfd4d0b897dcbffcb89208d91a34ad7163693f192ba00077048f0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3738.dat",
+      "offset": 871617,
+      "size": 4009,
+      "sha256": "e31363cf2948702b0db8bd2d5747cc3e1dd3315ee13a16cf9842d75c97036678"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3743.dat",
+      "offset": 875626,
+      "size": 1895,
+      "sha256": "5cfdab201829f43ba6b14bb0137bf8500af93821311b3103deb9d704821290d5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3749-34d953ed1b95b8.dat",
+      "offset": 877521,
+      "size": 780,
+      "sha256": "407355e96419708b254e55696796aad7f120ab3af28be3c52154e755ce8ae6f8"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3749.dat",
+      "offset": 878301,
+      "size": 780,
+      "sha256": "407355e96419708b254e55696796aad7f120ab3af28be3c52154e755ce8ae6f8"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3815.dat",
+      "offset": 879081,
+      "size": 881,
+      "sha256": "9b6480db9d3b42abbb2ebabec368adc8d1c19bd914084c78febc82efcdc029a1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3815c01.dat",
+      "offset": 879962,
+      "size": 829,
+      "sha256": "5b50f07eb66775ada6d2a66f85948ad481cdff6e853f99efb5c8b1d103ec6464"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3816.dat",
+      "offset": 880791,
+      "size": 1457,
+      "sha256": "7692d69b7c624e545137350da83ee8b87c575f820f63868fc559a5bfa2728fda"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3817.dat",
+      "offset": 882248,
+      "size": 1363,
+      "sha256": "fe3da78aaf97676dcb9d934bf3fed85cb75a125d8bb072bf66b56e13043ac2a6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3818.dat",
+      "offset": 883611,
+      "size": 1325,
+      "sha256": "c851c1799e69e316013a3533b24af4b6605ac4d348ba6879ceabf030172e0e6c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3819.dat",
+      "offset": 884936,
+      "size": 841,
+      "sha256": "8b0412bc9d8b197f93e31f92108db3ecb733d3bcc8cbfc18854d50e21dc47067"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3820.dat",
+      "offset": 885777,
+      "size": 16498,
+      "sha256": "7ffdc4ff4cfe01560654c2b41426208ea79f16f547b2a1be263f824b2cd44506"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3894-7a954d0fc9ca6.dat",
+      "offset": 902275,
+      "size": 5647,
+      "sha256": "8b7626c0d32eddee8f5c338ff63078b2b53bf4ea234e2f4049321ca97f946d45"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3894.dat",
+      "offset": 907922,
+      "size": 5647,
+      "sha256": "8b7626c0d32eddee8f5c338ff63078b2b53bf4ea234e2f4049321ca97f946d45"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3895.dat",
+      "offset": 913569,
+      "size": 10726,
+      "sha256": "a7a29c32159d0395dc1dd51f29fc9b78acc46e8df460bd56b6122d6dc93780d2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/3941.dat",
+      "offset": 924295,
+      "size": 703,
+      "sha256": "dc71bdf67956a98006053cc12a4cbc590b44ec67c72c4f057b9f425dc9a381a7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4019.dat",
+      "offset": 924998,
+      "size": 18882,
+      "sha256": "1104963a87e0cd269d5bed707ae06dd6cca656c687515c956a0ea0c4c30e27a8"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/40490-2ae032f2b3947.dat",
+      "offset": 943880,
+      "size": 1969,
+      "sha256": "c28f6b3bb850844cd311bdad7444b0d5bb7ec7b2c2615cdd76312cad5eda6da4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/40490.dat",
+      "offset": 945849,
+      "size": 1969,
+      "sha256": "c28f6b3bb850844cd311bdad7444b0d5bb7ec7b2c2615cdd76312cad5eda6da4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/41239.dat",
+      "offset": 947818,
+      "size": 1397,
+      "sha256": "5afa7e53676d85c43c70ac8474741cdb0debf4f8eac0b258d17f298094c3715c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/41669.dat",
+      "offset": 949215,
+      "size": 19317,
+      "sha256": "7a9b048a61c94dc7bd685e5a6f998ecf07e92ad3d028331662ed429afd4d4ae2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/41678.dat",
+      "offset": 968532,
+      "size": 7294,
+      "sha256": "a1693f5895adceeaf8c29dacbc2bffc86ace158be349a75c603993831d56f5e3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4185.dat",
+      "offset": 975826,
+      "size": 274,
+      "sha256": "c8243e22f20505fa276ecee611cc5a27f7198647f0692cb2acbd9678f8fb23bd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4185a.dat",
+      "offset": 976100,
+      "size": 2419,
+      "sha256": "02ee38b1619dd7899ce6533970f1ba691310f98303d99c1bb775cfa7ee6f8ff5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/42003-19ebafa2e6b67.dat",
+      "offset": 978519,
+      "size": 3898,
+      "sha256": "0c99bba67cacb482963828ce58d7d83249a120d0b72e371b02afc3f396662723"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/42003.dat",
+      "offset": 982417,
+      "size": 3898,
+      "sha256": "0c99bba67cacb482963828ce58d7d83249a120d0b72e371b02afc3f396662723"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/44294.dat",
+      "offset": 986315,
+      "size": 418,
+      "sha256": "16faf9a02c61f09575fa13fa2913d78107c1d1648d00377b2be720add092a2f3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/44309.dat",
+      "offset": 986733,
+      "size": 3542,
+      "sha256": "e8175245887a3b9b3405a0817d1a2a3b6a743bd4588e164542b16885e05492c6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4459.dat",
+      "offset": 990275,
+      "size": 546,
+      "sha256": "68611c89f7aa14c76eaf0176b3a629e98ab715784c521cc0d40ee04dfc98851b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/44728.dat",
+      "offset": 990821,
+      "size": 2245,
+      "sha256": "d9de03a0fe87f0902c4371a315b42cc3fd9a118e5f68969f8fe66a0afedddb75"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4485.dat",
+      "offset": 993066,
+      "size": 2056,
+      "sha256": "63be35fb130b0878204056ab8f596ae8a58de2253f128b64146a5deb81d99229"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4519-1acd691ccc028.dat",
+      "offset": 995122,
+      "size": 455,
+      "sha256": "88659efb82712afb190796168bd90e137219d780f4830833e47127e60afcc88b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4519.dat",
+      "offset": 995577,
+      "size": 455,
+      "sha256": "88659efb82712afb190796168bd90e137219d780f4830833e47127e60afcc88b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/47157.dat",
+      "offset": 996032,
+      "size": 584,
+      "sha256": "2734c0968d2490465095ebaf145d70f07c9afd8c544d08c579be88ca6bbb5acc"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/4716.dat",
+      "offset": 996616,
+      "size": 928,
+      "sha256": "428935a992292407385173a23d3c1611e4a01a7a936aa1af8603fd68cc07edda"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/476.dat",
+      "offset": 997544,
+      "size": 18336,
+      "sha256": "5ba18684932cdf6f20cbee5024bd3fe61f195057c2e7f6bcd989dd9dd7f9dcf1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/48989.dat",
+      "offset": 1015880,
+      "size": 6431,
+      "sha256": "8fba7e32c52464d1d78a744d6738613bec2c3d2a4679a83f7a3c573260ebc9b3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/50451.dat",
+      "offset": 1022311,
+      "size": 292,
+      "sha256": "e847423b0a1d0045fac37ecce543214236e699cdd02740a2a0232824306fb8a7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/55978.dat",
+      "offset": 1022603,
+      "size": 931,
+      "sha256": "ed04fefb38729a740df2f09e90f6de6b419919d3acb8ec979b6b5b47411cbdb9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/55982.dat",
+      "offset": 1023534,
+      "size": 2907,
+      "sha256": "5c1410b0d733d1fc2844a446688771657f2b8cd142cebbe9ebbb7ee520f4a9ec"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/56145.dat",
+      "offset": 1026441,
+      "size": 2392,
+      "sha256": "9af8941fd474d0ccab468b9c04d284a1f50114907ae768922172853e8edc3311"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/57046a.dat",
+      "offset": 1028833,
+      "size": 8593,
+      "sha256": "b910cdd06535883d35833f81be4cdb3438ff2b969e7983f97ec533692fbda886"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/57046d.dat",
+      "offset": 1037426,
+      "size": 4506,
+      "sha256": "c5d5fcc3e87370b62a988945ad7aa824283e8568f49fc3fc32cdd4406448c008"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/57046e.dat",
+      "offset": 1041932,
+      "size": 5253,
+      "sha256": "57850baf6152aac3317e413915064451783cee39a38850c61334b3674768ed72"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/57046f.dat",
+      "offset": 1047185,
+      "size": 5210,
+      "sha256": "85a712837564d3e38a4c1ff0e9d36884332959e7cd3635d8c0c9da15d509cc7f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/572a.dat",
+      "offset": 1052395,
+      "size": 665,
+      "sha256": "fe2a930155a95f51064233bd8f4414fce4fc33d2e7fb18a5141c83f7461b3cad"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/57518.dat",
+      "offset": 1053060,
+      "size": 1121,
+      "sha256": "8d1980f4a650af6df73648516c9bb87d2d29d648f1b540fbf0ac882b0ce2415b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/57519.dat",
+      "offset": 1054181,
+      "size": 2337,
+      "sha256": "e9e0b87253fa61e26bf7d201ba6c922e35c3228bf478129482e81f290e989f24"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/58119.dat",
+      "offset": 1056518,
+      "size": 451,
+      "sha256": "0708b4188f7bd58a0f3f072b1d4d0766701d66f9b78f3bb7d5f0435484889ec7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/58120.dat",
+      "offset": 1056969,
+      "size": 466,
+      "sha256": "679bb606cfed221a985d45867f5173115c9b15339148adf67e3dfe86f2af131e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/58124.dat",
+      "offset": 1057435,
+      "size": 3039,
+      "sha256": "3035e74d96b43434a8fb20b0942cfa456a1804ff19a4fcec6961e131918d3609"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/58124c01.dat",
+      "offset": 1060474,
+      "size": 416,
+      "sha256": "60bff30809c0eaabecaf091c73dbcffb7e7ce83cb90c0d785bee2242b7eff36d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/58125a.dat",
+      "offset": 1060890,
+      "size": 2948,
+      "sha256": "31768b5bf745f0a6d441cd7715246950fac406d55849d0b2c619bdae460e662a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/59142.dat",
+      "offset": 1063838,
+      "size": 10799,
+      "sha256": "2ce626d88bfe3c18d3c6d1cf9064aa362f30fb61d43251713e35800e03e85c2f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/59143.dat",
+      "offset": 1074637,
+      "size": 14771,
+      "sha256": "6fbf30c230253e4b04f7d69ec9fa07c8d496be7eb9f953e768e2d1f0dcebf6b4"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/59443-1cea1a8745656.dat",
+      "offset": 1089408,
+      "size": 4904,
+      "sha256": "c996ee102419b8d9e0f8ae5c641c1d84cd838d8e6cb0982257c21b46b3b81544"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/59443.dat",
+      "offset": 1094312,
+      "size": 4904,
+      "sha256": "c996ee102419b8d9e0f8ae5c641c1d84cd838d8e6cb0982257c21b46b3b81544"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/59494.dat",
+      "offset": 1099216,
+      "size": 11145,
+      "sha256": "700ded08a7a8cb7ec0141467f82c96fc0dd876bfd2d7f2735c76ee09d53e0cb6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/60474.dat",
+      "offset": 1110361,
+      "size": 1383,
+      "sha256": "fd9a874a4f287e30e471a7da4fbe296185ab0415b5ed122a0533cbb45a3c2291"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/60483.dat",
+      "offset": 1111744,
+      "size": 949,
+      "sha256": "d24cd3844734f8124e1cb078ea2d1c36f110df3b3cf0ba526e02b015b5383cad"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/60484.dat",
+      "offset": 1112693,
+      "size": 2024,
+      "sha256": "56048b1cbb3d710b225eecc64cb1b4ff494af84e097c27e46c8af7713edd642a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/60485.dat",
+      "offset": 1114717,
+      "size": 298,
+      "sha256": "fe2fb500784e3061d68f24ae7dfc6c609ee4951500d8065580883d931af8b508"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6093a.dat",
+      "offset": 1115015,
+      "size": 225910,
+      "sha256": "ec0cf6084a6d3514a042718dcd6017228c38b0eb46634d2796b134fe1ca20ddd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6111.dat",
+      "offset": 1340925,
+      "size": 1479,
+      "sha256": "37eca0f1434ad7e6244e6e9bba439122c6c1995f47e9f3bd7f76035524e64a68"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/61903.dat",
+      "offset": 1342404,
+      "size": 381,
+      "sha256": "508a7e9ba8e9eeaeea542450608e68b3867f1a462a7116c9c4896bbe1c325b42"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/62462-af400216e9b408.dat",
+      "offset": 1342785,
+      "size": 1689,
+      "sha256": "9d8d8dc82839dcda8e79ed93cd1949cdbcb250cabe6796b3fb40ad418166253b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/62462.dat",
+      "offset": 1344474,
+      "size": 1689,
+      "sha256": "9d8d8dc82839dcda8e79ed93cd1949cdbcb250cabe6796b3fb40ad418166253b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/62519.dat",
+      "offset": 1346163,
+      "size": 372,
+      "sha256": "69fa318bf4863925e142bed2f68b1c448c9f3f6b4ea3243d24ba30febb198004"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/62520.dat",
+      "offset": 1346535,
+      "size": 9761,
+      "sha256": "8e554af463630d3aee2a556d3f5aa35eec99a8a19c46cf651eaaddf4e6c69bda"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/62821.dat",
+      "offset": 1356296,
+      "size": 23109,
+      "sha256": "c993cdfbadf6d09f6554c49647b0dc5787a0ce17c738ea39e6d19e9362799a7b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/62821b.dat",
+      "offset": 1379405,
+      "size": 358182,
+      "sha256": "956678b8543aad4916b3c761232342c1dc9ec4babd51b5b137b6ded6772ebeca"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/64178.dat",
+      "offset": 1737587,
+      "size": 3089,
+      "sha256": "22f4378c817384c81f82db0063da901f8f464c0dec86df942c9e4ce79681a808"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/64179.dat",
+      "offset": 1740676,
+      "size": 3532,
+      "sha256": "f45a538325ddd6b6a2ddce59f54de8052107704b8b6f5af438dd74d4bd6779bf"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/64290.dat",
+      "offset": 1744208,
+      "size": 318,
+      "sha256": "5de3137020f0665270a13baf4c9cf5ef8ad68c492520432cc9f09238d47ba2a3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/64871.dat",
+      "offset": 1744526,
+      "size": 318,
+      "sha256": "8a0629c82115ed8368543b9371379627d14af8fced4c618173f7e256fd0613dd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6536.dat",
+      "offset": 1744844,
+      "size": 3599,
+      "sha256": "a0fe577dec4d8d9ff25085a389b45876dc78aabdef29953e43ae708cb483a766"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6558-ca126d5207d18.dat",
+      "offset": 1748443,
+      "size": 593,
+      "sha256": "d30b11d3de29ee8208f55b3c30708659bed462284913174932600b0d25b5cf1e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6558.dat",
+      "offset": 1749036,
+      "size": 593,
+      "sha256": "d30b11d3de29ee8208f55b3c30708659bed462284913174932600b0d25b5cf1e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6575-41bfec38404f98.dat",
+      "offset": 1749629,
+      "size": 19147,
+      "sha256": "fb898b8292c911186871e295fa792dc613955df13031da312be8967fc929431e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6575.dat",
+      "offset": 1768776,
+      "size": 19147,
+      "sha256": "fb898b8292c911186871e295fa792dc613955df13031da312be8967fc929431e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6587.dat",
+      "offset": 1787923,
+      "size": 729,
+      "sha256": "256f96013db48f42ab45e65e705ed6f636e86a2b45e289d9038d6bce99f66486"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6588.dat",
+      "offset": 1788652,
+      "size": 47069,
+      "sha256": "18a33db1383635aaf7937791be3d25e0a8ada9e9e7a74c70e0f47eb9eb19ae26"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6589.dat",
+      "offset": 1835721,
+      "size": 27367,
+      "sha256": "60cc9053ea024c3cc5284ea14c834600b4b12fdfc00797e46f3389c0299e0a5b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6628.dat",
+      "offset": 1863088,
+      "size": 1257,
+      "sha256": "d37d1ac52cbf762383cf57ace3814a8e4bdb316eb2d934d8e5177e6195cbb206"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6629.dat",
+      "offset": 1864345,
+      "size": 3584,
+      "sha256": "2691385aa5e11040be9e200df787eb0c8c8964009cf19bc14de6c4c8d7e0a801"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6630.dat",
+      "offset": 1867929,
+      "size": 9125,
+      "sha256": "77042b083303387fe340584ddaf001f60d9279495e029c56dc321cf401367011"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/6632.dat",
+      "offset": 1877054,
+      "size": 1202,
+      "sha256": "f0bbde8a1e38021ee80944802370626bc095c23bc2800983e2045f37b0946f86"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/73090a.dat",
+      "offset": 1878256,
+      "size": 1482,
+      "sha256": "16e90e868d4e0e8ef6b25dd95999512110d09c912479aca0c26036d9c4854c39"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/73090b.dat",
+      "offset": 1879738,
+      "size": 891,
+      "sha256": "eb05b8b873455ebe0e97f03a19c9db93733d08404b34fc96612b4f6a08eebb45"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/75535.dat",
+      "offset": 1880629,
+      "size": 1342,
+      "sha256": "421affbdc649ca428f46fb7f5e6b22c139518b1036071c97933dd59f35597d8c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/86035.dat",
+      "offset": 1881971,
+      "size": 12310,
+      "sha256": "6744d700a7c6afbb6db3de3eae1b174e2c7130bbc91a068add09d8ac92cb79b0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/87082.dat",
+      "offset": 1894281,
+      "size": 2989,
+      "sha256": "3fb28c921d3ac7df7889704d6fe40290ffdb1a9b1b3a82c035f0e8421a008fc2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/87083.dat",
+      "offset": 1897270,
+      "size": 387,
+      "sha256": "507303e4944ed4f61b25b9dbdd5470c50c764991d5d745dc837cc20b6cd15b9c"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/89.dat",
+      "offset": 1897657,
+      "size": 401,
+      "sha256": "efe4f90e12917b3c5fb02acc7fe235a9a8715d23d5a4c126dbe4f47a0ae8c68e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/918.dat",
+      "offset": 1898058,
+      "size": 323,
+      "sha256": "d2afc8d9e5c57a7e9fabc145e984f323489a27200517ce54101d3da7951dc02e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/919.dat",
+      "offset": 1898381,
+      "size": 3674,
+      "sha256": "6afd9a10dd1b6d56da1ca2bbdde24b7aad87103405bdf3a53d2dbb7db9572296"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/920.dat",
+      "offset": 1902055,
+      "size": 3242,
+      "sha256": "fe7f45c49a47ce61536042e172da8d79f23871ac3dc39d0cca61146fad91a981"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/92402.dat",
+      "offset": 1905297,
+      "size": 1341,
+      "sha256": "5d44aaa5ac05ce909677533d3f8be8812ff93dbfe164d504b2169387406afed7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/9244.dat",
+      "offset": 1906638,
+      "size": 768,
+      "sha256": "c46a65b515ef2583c0faf1b1bbe4630839e66f1c1f0f9ae0bb1dd616b7744f03"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/94925.dat",
+      "offset": 1907406,
+      "size": 15838,
+      "sha256": "1531070908d7dbf536cb6e270ceed2ac7942ac083170b1e525f22f61976cd8af"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/973.dat",
+      "offset": 1923244,
+      "size": 1158,
+      "sha256": "c8b249228f6994e45a151990c61fe56f3064804de9d54a0c12a1f73bf66c3b89"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/973p2d.dat",
+      "offset": 1924402,
+      "size": 8495,
+      "sha256": "9ead2b8e1b2017c0fe256c71be6a5c119fda4a3c699681d8f7f0e8ae1ec39472"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/973p8y.dat",
+      "offset": 1932897,
+      "size": 65833,
+      "sha256": "cf4f5d8fa4dd0104983bc9523d95be7fb2be68825ddbd64a9f15cad56abab05b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/99499.dat",
+      "offset": 1998730,
+      "size": 490,
+      "sha256": "1d2ce40db2bd98b849371d77d46db06e825335e108c0f4a67aee3871b99f75a6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/99773.dat",
+      "offset": 1999220,
+      "size": 9123,
+      "sha256": "f21c6486a1e79bb34fb827b0aad92cc3fbd02a9e51db5ecaf23133039a4501e9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/10089s01.dat",
+      "offset": 2008343,
+      "size": 13617,
+      "sha256": "a7b937349b9d35188cf53447d8c6e69048fd886e31fb638829f9f78748bc7c59"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/10090s01.dat",
+      "offset": 2021960,
+      "size": 18265,
+      "sha256": "b664cf20eb569581b64bc95490df82fcf08b5a4af11ade97a0cd35da0dd79d02"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/12787s01.dat",
+      "offset": 2040225,
+      "size": 717,
+      "sha256": "a7ecb298b9973a79ba1dd2cf085eea9be479bccc37c469d7477497ee09a30f17"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/14769s01.dat",
+      "offset": 2040942,
+      "size": 573,
+      "sha256": "05e694a2a1d9392a3bc90e98c561e547f8941d133329c21c3a09556d81b13d49"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/15535s02.dat",
+      "offset": 2041515,
+      "size": 4436,
+      "sha256": "146e7a319de48e9d5e03218272c3bddd7347f765abb44f4460284515a4824dff"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/2431s01.dat",
+      "offset": 2045951,
+      "size": 852,
+      "sha256": "d6a095da8a1f1d64a106e53cdc5575f3bcbef2805b73df042f4087a766bf9dc0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/2815s01.dat",
+      "offset": 2046803,
+      "size": 2627,
+      "sha256": "f6102bc5e1c61ea0abbd4ac5aaf1686081767ad616da14129ccb19cb8f6ae461"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3001s01.dat",
+      "offset": 2049430,
+      "size": 1435,
+      "sha256": "829e41f5071796489be6f8b214c8e7424e0ce6e4ff3a7fca7adfe92371f71eec"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/30391s01.dat",
+      "offset": 2050865,
+      "size": 1101,
+      "sha256": "470a40ef8f8c3ec70a0c41a868c462cd43e75176f6be8bdeef6c2cf5e01f0506"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/30391s02.dat",
+      "offset": 2051966,
+      "size": 1749,
+      "sha256": "0db49dff3f83b02d33f498f1abd70cf9a67542a6d2ff67b14aeea2745fa64753"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3040s01.dat",
+      "offset": 2053715,
+      "size": 2349,
+      "sha256": "87eb79019e5a2c071a1dd1d973ec95840ce9b5202eeadc1651406a38508dbe1b"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/30648s01.dat",
+      "offset": 2056064,
+      "size": 4044,
+      "sha256": "273d1f4d45b041212504ca97f2d5840ea09b861215c813d6062e282a818c974d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3068bs01.dat",
+      "offset": 2060108,
+      "size": 983,
+      "sha256": "17a5fde8baf143db552438768c8babbc6bc9963022a92095975fbcd9eb86988e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/32013s01-92178941a4773.dat",
+      "offset": 2061091,
+      "size": 4631,
+      "sha256": "1b8aff42b22906db32a7e45e18758d809d642580b8500da8e667fd0247721b93"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/32013s01.dat",
+      "offset": 2065722,
+      "size": 4631,
+      "sha256": "1b8aff42b22906db32a7e45e18758d809d642580b8500da8e667fd0247721b93"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/32498s01.dat",
+      "offset": 2070353,
+      "size": 6446,
+      "sha256": "21228e3745dc7c3b8ac3b5451b965d4739b733b30cdcb5894ec1325e303524bd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/32498s02.dat",
+      "offset": 2076799,
+      "size": 2810,
+      "sha256": "1fb8623359a1b3d4197187d3183339f48a868e0cbc7005ba890974418b4a0e19"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/32523s01.dat",
+      "offset": 2079609,
+      "size": 810,
+      "sha256": "8b938fb5cccc538ecb7aae7cd534f79bb9220fc322242e61de5596e5cd184843"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/33299s01-c6ac4d1e32767.dat",
+      "offset": 2080419,
+      "size": 11352,
+      "sha256": "81ffb89f8609cf56130831921b5b8650ab740a307643999bf2e3d3c7915ec55a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/33299s01.dat",
+      "offset": 2091771,
+      "size": 11352,
+      "sha256": "81ffb89f8609cf56130831921b5b8650ab740a307643999bf2e3d3c7915ec55a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3626ap01s01.dat",
+      "offset": 2103123,
+      "size": 1540,
+      "sha256": "66ecef98ef7cc3dd31cdd1350ecd0ffa32795ad6586b99fbf542a937ca2f6710"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3626bs02.dat",
+      "offset": 2104663,
+      "size": 5053,
+      "sha256": "ba76781406c502526f47a935969d9894a6fc5e893290ce6bc8029fca1de6461d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3626cs01.dat",
+      "offset": 2109716,
+      "size": 614,
+      "sha256": "12fed2c1978330608abe96d0203151cfc058510f645968d446a17aa89bb3ade2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3626cs02.dat",
+      "offset": 2110330,
+      "size": 574,
+      "sha256": "fd1f76063fd46e97a2275ca08bc2e3f3c6011ce06ab10cef9a4ef413614ccc19"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3648s01.dat",
+      "offset": 2110904,
+      "size": 7689,
+      "sha256": "610fa96504f58c16ba96057cfbdfcd6b17f2c4a908ae5b7d4a68cf3d6b6e242e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3648s02.dat",
+      "offset": 2118593,
+      "size": 2578,
+      "sha256": "1bb6fba4dee814448f4b33397301ab4a5179c9bafe0c7680bc16a025142e7cb1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3648s03.dat",
+      "offset": 2121171,
+      "size": 2256,
+      "sha256": "7a964d907d1baa3fbf3c6a5440dc6baa8e2c384545de66e6391e90d65b122dde"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3649s01.dat",
+      "offset": 2123427,
+      "size": 3423,
+      "sha256": "6cb168e31d6f3af2e12b3c1401f441b45d617f26da092d3fd36564c6c5445502"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3649s02.dat",
+      "offset": 2126850,
+      "size": 5743,
+      "sha256": "470961a072d48743cd599e30cc86bad3ad83417320ba41e34848d939ee4cd376"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3650s01.dat",
+      "offset": 2132593,
+      "size": 15450,
+      "sha256": "e17fe3637b14af5706303ac4587ea997f6257568b2e597d28c7a3b9a39f669f3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3815s01.dat",
+      "offset": 2148043,
+      "size": 7885,
+      "sha256": "ec26c9a0d333c1f08496dfa0862ae3dc63150b81359a0d31b9fb8785c08355cd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3816s01.dat",
+      "offset": 2155928,
+      "size": 1485,
+      "sha256": "06731f027274c4948dd783d89012488bf25cd9cd60f535b67d28be1ed87dca7e"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3816s02.dat",
+      "offset": 2157413,
+      "size": 13096,
+      "sha256": "5b31721fb0c35f6cfe6f9c9d0c4ac40d28a8badc71b57cce8cc0369535a4bf39"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3817s01.dat",
+      "offset": 2170509,
+      "size": 1418,
+      "sha256": "fdf6e67d671367d20b996b34557cb5af9e100890226ee7b8d0e03235ab2c5c9a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3818s01.dat",
+      "offset": 2171927,
+      "size": 7238,
+      "sha256": "e353f7135cb903d31c5a39da766db80b066a2a7648b13a971f3ad4d8a76e66b8"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3818s02.dat",
+      "offset": 2179165,
+      "size": 472,
+      "sha256": "7e8e4f2e232f2aa241dc2735e1e21c9134f579f1b733f1678bf3cdfab2a014f6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3818s03.dat",
+      "offset": 2179637,
+      "size": 5745,
+      "sha256": "7676d8b0e85f2633c2db402fecc943c5613497d602899eb08d45863e19c8011d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3818s04.dat",
+      "offset": 2185382,
+      "size": 5476,
+      "sha256": "af34433a36fe18fd1968019198ba96007e6ffaf960cb99de08f5953f7ee4d4f7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/3941s01.dat",
+      "offset": 2190858,
+      "size": 4761,
+      "sha256": "cbf4befddc3ffb4e5af34560eb6e48f3cc970806baac7e255587838c82ee10cd"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/4185as01.dat",
+      "offset": 2195619,
+      "size": 6546,
+      "sha256": "e45a619df3788c9152603c4963b3f68a3046687aaf166df394796a03c59d1fe3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/44309s01.dat",
+      "offset": 2202165,
+      "size": 4929,
+      "sha256": "e3e0077b105193864115e913a3fe8c6d16a25072160a80e5fbdbc3b31de6472f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/4716s01.dat",
+      "offset": 2207094,
+      "size": 1769,
+      "sha256": "e723877556efba3f5649c49fa021e1e8dc61b124aa8992e83f9dc0f76c48e1e9"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/4716s02.dat",
+      "offset": 2208863,
+      "size": 4124,
+      "sha256": "24aef97613424c0dd179c53433a9c1d3530f0b73d474c7c00f8e0f9e6ad1cba7"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/4716s03.dat",
+      "offset": 2212987,
+      "size": 3039,
+      "sha256": "632a9db2fa25f009a7318bcb6a6aea5152ecf6a9ffb9231d1c28f31e2f8849c3"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/4716s04.dat",
+      "offset": 2216026,
+      "size": 966,
+      "sha256": "8a34314c811400179e4527b27755a53067438a9fb4fba8c0efb6c0188a17e3f6"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/54087s00.dat",
+      "offset": 2216992,
+      "size": 5718,
+      "sha256": "8589e7ce86fe66af80d572b4a8b887e88d49c2edf4e58d1827f32b4ea852d31a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/54087s02.dat",
+      "offset": 2222710,
+      "size": 10691,
+      "sha256": "8e223c249ae45693285d98de31b16c80e22f7cb3f0e324f5da2794345bccbd75"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/54087s03.dat",
+      "offset": 2233401,
+      "size": 11877,
+      "sha256": "b9dfefea8a16716b1c992e11e39b8b5008151d2b85ea073111b4ed6ff33bf1fe"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/54087s09.dat",
+      "offset": 2245278,
+      "size": 22794,
+      "sha256": "304ebf1fead64874561112fcd444e71d908247ae3ba65648cdff5d588c39bebe"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/55978s01.dat",
+      "offset": 2268072,
+      "size": 18693,
+      "sha256": "1b0a341b5a02aae466aa23d2eb240b46edefd1092ff0116f9b1bd9649849bd65"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/55981s01.dat",
+      "offset": 2286765,
+      "size": 2945,
+      "sha256": "53462e693368d46020f6d3dbb5f22c88fa228bb688caaacfe685aa5548d72b17"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/55981s02.dat",
+      "offset": 2289710,
+      "size": 2197,
+      "sha256": "b3a436049565dfe7dc0a12d029db2638d004ea7036510954b721bf4f933917b5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/56145s01.dat",
+      "offset": 2291907,
+      "size": 11784,
+      "sha256": "9737a8ea09f64685b23e772f73e62afae7290a2d0bf5dd11936e8f5bfbf46409"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/56145s02.dat",
+      "offset": 2303691,
+      "size": 10274,
+      "sha256": "6fd94784e7a0f4cbc5c11b4af3131998953295a0596e17043c149971041fe8cf"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/57518s01.dat",
+      "offset": 2313965,
+      "size": 22005,
+      "sha256": "f203a5eafa8d9a3ed62400f415c735211956fdc0ae5ce8a545c3a178710fc8a1"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/57519s01.dat",
+      "offset": 2335970,
+      "size": 9530,
+      "sha256": "7e1279dc1499ed0589157cb6b15d55f33b89aab0e85f8da3ef55d64ccdc4439d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/57519s02.dat",
+      "offset": 2345500,
+      "size": 4875,
+      "sha256": "977b6b0b945888d862c8cf2a001b54907c69346094799f85f6ae1fb005f3ecda"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/58124s01.dat",
+      "offset": 2350375,
+      "size": 2439,
+      "sha256": "54d1c7bdd0706402abf661d1d94b325af8159e9e6607a3b72329000a003f92f0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/58124s03.dat",
+      "offset": 2352814,
+      "size": 1789,
+      "sha256": "390754638e35834a7768e11fae673d1b12089d0a009e12b47310dde599a34121"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/60474s01.dat",
+      "offset": 2354603,
+      "size": 4942,
+      "sha256": "f1545639acbf8d3e92bf4a6cb3ed44dd4257514d33e2920f2da254bb5bd9dccb"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/64178s01.dat",
+      "offset": 2359545,
+      "size": 17481,
+      "sha256": "25e94a6f40ce3cc9d3831c149488ca2bd4258d525f58da637a01297462538e3f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/64179s01.dat",
+      "offset": 2377026,
+      "size": 19686,
+      "sha256": "784e8bbd42b0c2cefe4e8d06011d49d7296a8d84bd59cd11ecac835b74c7bcf8"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/918s01.dat",
+      "offset": 2396712,
+      "size": 5839,
+      "sha256": "c6e136a682b9589950a4106772ee33c5de9d91400466a0859be2d89c80e6af23"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/919s01.dat",
+      "offset": 2402551,
+      "size": 8384,
+      "sha256": "1f347316e6e928b012b58a602b8248a41b3bd2706ec723d23156b28dad81f00a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/919s02.dat",
+      "offset": 2410935,
+      "size": 3477,
+      "sha256": "bb397b46ca9cfbd453084f19b37149213ff8c4896afae103d9e64120623f79c2"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/919s03.dat",
+      "offset": 2414412,
+      "size": 989,
+      "sha256": "8279addf1ac1a9f08fbaa0b6ee88f3fc9686250c69c34f40ed4d08edab535305"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/919s04.dat",
+      "offset": 2415401,
+      "size": 1025,
+      "sha256": "8f68c740bf8c4f7b29f3dbf1a97069bdda3500ab2ada58ca43908356a8fddf53"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/92402s01.dat",
+      "offset": 2416426,
+      "size": 1665,
+      "sha256": "68521eca171ba093466d53a188bef6a7e8d3ce6ce47fc8cd5e45d67b7f3f828d"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/92402s02.dat",
+      "offset": 2418091,
+      "size": 2104,
+      "sha256": "43c6eb4fafb902efc3149131f131ddc97caf61d3bb78cad2c96c7dbc69716f00"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/s/973s01.dat",
+      "offset": 2420195,
+      "size": 5644,
+      "sha256": "92c99dec55e5a71e7bab51c56d25db94483bf21a3aae7e245ca138aebef126f0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t01o0625.dat",
+      "offset": 2425839,
+      "size": 18009,
+      "sha256": "0503eb7f46a8e115869aefe23720c236b70590409675438cc0df16d13685fa78"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t04i1429.dat",
+      "offset": 2443848,
+      "size": 4922,
+      "sha256": "e0b03aa00104ee931968d5bec739981f78613ce8273fdbbc7095b1eaae38460f"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t04i2500-a2047c8f2f2f.dat",
+      "offset": 2448770,
+      "size": 5048,
+      "sha256": "21c174f22fcc56b9cb84a0bb8832100c4ba70ca1dc21598bcb0ffecfc8357397"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t04i2500.dat",
+      "offset": 2453818,
+      "size": 5048,
+      "sha256": "21c174f22fcc56b9cb84a0bb8832100c4ba70ca1dc21598bcb0ffecfc8357397"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t04o1429.dat",
+      "offset": 2458866,
+      "size": 5251,
+      "sha256": "210f40826886d2befc05a784c993db496c56aecb291cb6716c15caa43ce6d669"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t04o1905.dat",
+      "offset": 2464117,
+      "size": 5036,
+      "sha256": "33828d26417de2a7cbb99c243717548a58b2c23b6b5a7c9f1b5e9c8c3058977a"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t04o6250.dat",
+      "offset": 2469153,
+      "size": 5173,
+      "sha256": "603fa6b8d09ad2ff8e9854ad64923ab291dd0bffff1bdea83e2c5ff61f914bd0"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/t16o1429.dat",
+      "offset": 2474326,
+      "size": 1877,
+      "sha256": "1790a40b65212049fbd0326d870bd26e38dccc01fdd9a74c5757f33c4f4c28d5"
+    },
+    {
+      "path": "footechs/mocmeta_parts/parts/u9190.dat",
+      "offset": 2476203,
+      "size": 889,
+      "sha256": "2273d9aecda3c2ff77817034ebc5115944ddf5d0f1018929e8c028f5b88dc11b"
+    }
+  ]
+}

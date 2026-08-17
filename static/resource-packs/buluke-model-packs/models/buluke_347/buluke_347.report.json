@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:347",
+  "sourceId": "347",
+  "source": "buluke",
+  "name": "小绵羊",
+  "entry": "UploadFile/1/BooketFiled/2023265958532388392.ldr",
+  "fileCount": 71,
+  "raw": {
+    "bytes": 107141,
+    "kb": 104.63,
+    "mb": 0.1
+  },
+  "gzip": {
+    "bytes": 19523,
+    "kb": 19.07,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "5d09babd080d",
+  "verified": true
+}

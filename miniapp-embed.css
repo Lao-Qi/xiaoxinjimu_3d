@@ -1,0 +1,308 @@
+html.miniapp-embed,
+html.miniapp-embed body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #fff;
+  overscroll-behavior: none;
+}
+
+html.miniapp-embed body {
+  background-color: #fff !important;
+  padding-top: env(safe-area-inset-top);
+}
+
+html.miniapp-embed * {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html.miniapp-embed #app {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+
+html.miniapp-embed .miniapp-hidden {
+  display: none !important;
+}
+
+html:not(.miniapp-embed) .miniapp-loading {
+  display: none !important;
+}
+
+html.miniapp-embed .miniapp-loading {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(241, 241, 241, 0.96);
+  color: #2b3542;
+  font: 500 15px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  pointer-events: none;
+  transition: opacity 0.18s ease, visibility 0.18s ease;
+}
+
+html.miniapp-embed .miniapp-loading.is-leaving {
+  opacity: 0;
+  visibility: hidden;
+}
+
+html.miniapp-embed .miniapp-loading-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 8px 24px rgba(18, 32, 48, 0.08);
+}
+
+html.miniapp-embed .miniapp-loading-spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid rgba(30, 145, 220, 0.18);
+  border-top-color: #1e91dc;
+  border-radius: 50%;
+  animation: miniapp-loading-spin 0.72s linear infinite;
+}
+
+@keyframes miniapp-loading-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+html.miniapp-embed .miniapp-bottom-safe {
+  padding-bottom: calc(12px + env(safe-area-inset-bottom)) !important;
+}
+
+/* Buluke viewer */
+html.miniapp-embed.miniapp-buluke .nav {
+  display: none !important;
+}
+
+html.miniapp-embed.miniapp-buluke .page {
+  height: 100vh !important;
+  min-height: 0 !important;
+  overflow: hidden !important;
+  background: #fff !important;
+  background-image: none !important;
+}
+
+html.miniapp-embed.miniapp-buluke .bg {
+  display: none !important;
+}
+
+html.miniapp-embed.miniapp-buluke #viewScreenShotCon,
+html.miniapp-embed.miniapp-buluke #viewScreenShotCon_con {
+  display: none !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+html.miniapp-embed.miniapp-buluke .btn {
+  position: fixed !important;
+  right: 14px !important;
+  bottom: calc(128px + env(safe-area-inset-bottom)) !important;
+  top: auto !important;
+  transform: none !important;
+}
+
+html.miniapp-embed.miniapp-buluke .btn .btnli {
+  width: 80rem !important;
+  height: auto !important;
+  margin-top: 15rem !important;
+  color: #33536f !important;
+}
+
+html.miniapp-embed.miniapp-buluke .btn .btnli img,
+html.miniapp-embed.miniapp-buluke .btn .btnli .icntip {
+  width: 80rem !important;
+  height: 80rem !important;
+  padding: 16rem !important;
+  border-radius: 50% !important;
+  background: linear-gradient(135deg, #f47d45, #f6ad3f) !important;
+  box-shadow: 0 8rem 18rem rgba(236, 103, 58, 0.24), inset 0 0 0 2rem rgba(255, 255, 255, 0.32) !important;
+  box-sizing: border-box !important;
+  filter: none !important;
+  object-fit: contain !important;
+}
+
+html.miniapp-embed.miniapp-buluke .btn .btnli .msg {
+  display: block !important;
+  width: 100% !important;
+  font-size: 20rem !important;
+  line-height: 42rem !important;
+  text-align: center !important;
+  color: #33536f !important;
+}
+
+html.miniapp-embed.miniapp-buluke .miniapp-side-nav-button .icn_list {
+  display: block !important;
+  width: 80rem !important;
+  height: 80rem !important;
+  position: relative !important;
+  border-radius: 50% !important;
+  background: linear-gradient(135deg, #f47d45, #f6ad3f) !important;
+  box-shadow: 0 8rem 18rem rgba(236, 103, 58, 0.24), inset 0 0 0 2rem rgba(255, 255, 255, 0.32) !important;
+  box-sizing: border-box !important;
+  filter: none !important;
+  overflow: hidden !important;
+}
+
+html.miniapp-embed.miniapp-buluke .miniapp-side-nav-button .icn_list::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 18rem !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  -webkit-mask-image: var(--miniapp-icon-mask) !important;
+  mask-image: var(--miniapp-icon-mask) !important;
+  -webkit-mask-repeat: no-repeat !important;
+  mask-repeat: no-repeat !important;
+  -webkit-mask-position: center !important;
+  mask-position: center !important;
+  -webkit-mask-size: contain !important;
+  mask-size: contain !important;
+}
+
+html.miniapp-embed.miniapp-buluke .miniapp-side-nav-button .icn_list.toggle_selected {
+  background: linear-gradient(135deg, #f26a35, #f4a333) !important;
+  box-shadow: 0 9rem 20rem rgba(236, 103, 58, 0.3), inset 0 0 0 3rem rgba(255, 255, 255, 0.38) !important;
+}
+
+html.miniapp-embed.miniapp-buluke #bottom_btn,
+html.miniapp-embed.miniapp-buluke .bottom_btn,
+html.miniapp-embed.miniapp-buluke .buttom_btn {
+  position: fixed !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  height: auto !important;
+  background: rgba(255, 255, 255, 0.98) !important;
+  box-shadow: 0 -1px 10px rgba(123, 56, 32, 0.06);
+  box-sizing: border-box !important;
+  padding-bottom: calc(10px + env(safe-area-inset-bottom)) !important;
+}
+
+html.miniapp-embed.miniapp-buluke #bottom_btn .top_btn_slider,
+html.miniapp-embed.miniapp-buluke #bottom_btn .buttom_slider,
+html.miniapp-embed.miniapp-buluke .bottom_btn .top_btn_slider,
+html.miniapp-embed.miniapp-buluke .bottom_btn .buttom_slider,
+html.miniapp-embed.miniapp-buluke .buttom_btn .top_btn_slider,
+html.miniapp-embed.miniapp-buluke .buttom_btn .buttom_slider {
+  display: block !important;
+  width: 100% !important;
+  padding: 0 20px !important;
+  background: transparent !important;
+  box-sizing: border-box !important;
+}
+
+html.miniapp-embed.miniapp-buluke #bottom_btn #range,
+html.miniapp-embed.miniapp-buluke .bottom_btn #range,
+html.miniapp-embed.miniapp-buluke .buttom_btn #range {
+  display: block !important;
+  width: 100% !important;
+  height: 42px !important;
+  position: relative !important;
+}
+
+html.miniapp-embed.miniapp-buluke #bottom_btn #range .bar,
+html.miniapp-embed.miniapp-buluke .bottom_btn #range .bar,
+html.miniapp-embed.miniapp-buluke .buttom_btn #range .bar {
+  display: block !important;
+  height: 8px !important;
+  position: absolute !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  margin: auto !important;
+  border-radius: 999px !important;
+  background: #e4e7ed !important;
+}
+
+html.miniapp-embed.miniapp-buluke #bottom_btn #range .progress,
+html.miniapp-embed.miniapp-buluke .bottom_btn #range .progress,
+html.miniapp-embed.miniapp-buluke .buttom_btn #range .progress {
+  display: block !important;
+  height: 8px !important;
+  border-radius: 999px !important;
+  background: #f47d45 !important;
+}
+
+html.miniapp-embed.miniapp-buluke #bottom_btn #range .dot,
+html.miniapp-embed.miniapp-buluke .bottom_btn #range .dot,
+html.miniapp-embed.miniapp-buluke .buttom_btn #range .dot {
+  display: block !important;
+  width: 18px !important;
+  height: 18px !important;
+  position: absolute !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  margin: auto 0 !important;
+  border: 1px solid #f47d45 !important;
+  border-radius: 50% !important;
+  background: #fff !important;
+  box-sizing: border-box !important;
+}
+
+html.miniapp-embed.miniapp-buluke .steps {
+  position: relative !important;
+  left: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  z-index: auto !important;
+  min-height: 58px !important;
+  height: auto !important;
+  padding-top: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  box-sizing: border-box !important;
+}
+
+html.miniapp-embed.miniapp-buluke .steps .count {
+  margin-left: 16px !important;
+  font-size: 16px !important;
+}
+
+html.miniapp-embed.miniapp-buluke .steps .step_btn {
+  width: 104px !important;
+  height: 36px !important;
+  line-height: 36px !important;
+  border-radius: 18px !important;
+  font-size: 15px !important;
+  color: #fff !important;
+  background-image: linear-gradient(135deg, #f47d45, #f6ad3f) !important;
+  box-shadow: 0 6px 14px rgba(236, 103, 58, 0.2) !important;
+}
+
+html.miniapp-embed.miniapp-buluke .steps .input {
+  width: 52px !important;
+  margin: 0 18px !important;
+  font-size: 18px !important;
+}
+
+html.miniapp-embed.miniapp-buluke #container,
+html.miniapp-embed.miniapp-buluke #main_canvas_holder {
+  height: calc(100vh - 104px - env(safe-area-inset-bottom)) !important;
+  min-height: 0 !important;
+  background: #fff !important;
+}
+
+html.miniapp-embed.miniapp-buluke #instructions_decorations,
+html.miniapp-embed.miniapp-buluke #instructions_plilist {
+  top: 0 !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  transform: none !important;
+}
+
+
+@supports not (padding-bottom: env(safe-area-inset-bottom)) {
+  html.miniapp-embed .miniapp-bottom-safe {
+    padding-bottom: 18px !important;
+  }
+}

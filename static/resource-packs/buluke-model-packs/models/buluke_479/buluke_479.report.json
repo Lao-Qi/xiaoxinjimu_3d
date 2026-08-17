@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:479",
+  "sourceId": "479",
+  "source": "buluke",
+  "name": "坦克",
+  "entry": "UploadFile/1/BooketFiled/202353112482810784.ldr",
+  "fileCount": 161,
+  "raw": {
+    "bytes": 3859130,
+    "kb": 3768.68,
+    "mb": 3.68
+  },
+  "gzip": {
+    "bytes": 561137,
+    "kb": 547.99,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "bcc05f6ba809",
+  "verified": true
+}

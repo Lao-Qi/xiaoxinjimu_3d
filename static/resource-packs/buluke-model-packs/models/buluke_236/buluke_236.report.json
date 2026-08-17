@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:236",
+  "sourceId": "236",
+  "source": "buluke",
+  "name": "六角形",
+  "entry": "UploadFile/1/BooketFiled/202210295832794748992.ldr",
+  "fileCount": 27,
+  "raw": {
+    "bytes": 43592,
+    "kb": 42.57,
+    "mb": 0.04
+  },
+  "gzip": {
+    "bytes": 8044,
+    "kb": 7.86,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e7a2942f8612",
+  "verified": true
+}

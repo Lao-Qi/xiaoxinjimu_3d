@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:497",
+  "sourceId": "497",
+  "source": "buluke",
+  "name": "举重小人",
+  "entry": "UploadFile/1/BooketFiled/20235449383711612.ldr",
+  "fileCount": 129,
+  "raw": {
+    "bytes": 347659,
+    "kb": 339.51,
+    "mb": 0.33
+  },
+  "gzip": {
+    "bytes": 53274,
+    "kb": 52.03,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "25a8fad088c7",
+  "verified": true
+}

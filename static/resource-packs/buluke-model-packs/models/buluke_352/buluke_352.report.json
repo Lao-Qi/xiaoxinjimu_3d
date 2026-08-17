@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:352",
+  "sourceId": "352",
+  "source": "buluke",
+  "name": "飞龙",
+  "entry": "UploadFile/1/BooketFiled/20232232326143795569.ldr",
+  "fileCount": 183,
+  "raw": {
+    "bytes": 4334255,
+    "kb": 4232.67,
+    "mb": 4.13
+  },
+  "gzip": {
+    "bytes": 637479,
+    "kb": 622.54,
+    "mb": 0.61
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a8f9b18fac1b",
+  "verified": true
+}

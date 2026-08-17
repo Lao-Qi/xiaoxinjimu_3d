@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:493",
+  "sourceId": "493",
+  "source": "buluke",
+  "name": "火星采矿车",
+  "entry": "UploadFile/1/BooketFiled/202354455579724823.ldr",
+  "fileCount": 200,
+  "raw": {
+    "bytes": 3972344,
+    "kb": 3879.24,
+    "mb": 3.79
+  },
+  "gzip": {
+    "bytes": 582400,
+    "kb": 568.75,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "9fba6f877448",
+  "verified": true
+}

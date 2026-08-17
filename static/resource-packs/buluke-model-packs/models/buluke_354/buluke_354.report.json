@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:354",
+  "sourceId": "354",
+  "source": "buluke",
+  "name": "负重训练",
+  "entry": "UploadFile/1/BooketFiled/2023471444648694449.ldr",
+  "fileCount": 163,
+  "raw": {
+    "bytes": 4435267,
+    "kb": 4331.32,
+    "mb": 4.23
+  },
+  "gzip": {
+    "bytes": 647217,
+    "kb": 632.05,
+    "mb": 0.62
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "4846389b071e",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:337",
+  "sourceId": "337",
+  "source": "buluke",
+  "name": "长条车",
+  "entry": "UploadFile/1/BooketFiled/2023265510256125592.ldr",
+  "fileCount": 99,
+  "raw": {
+    "bytes": 222878,
+    "kb": 217.65,
+    "mb": 0.21
+  },
+  "gzip": {
+    "bytes": 33697,
+    "kb": 32.91,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f683a1e4663b",
+  "verified": true
+}

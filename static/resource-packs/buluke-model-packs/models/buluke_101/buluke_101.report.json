@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:101",
+  "sourceId": "101",
+  "source": "buluke",
+  "name": "四驱车",
+  "entry": "UploadFile/1/BooketFiled/2023992841305590493.ldr",
+  "fileCount": 201,
+  "raw": {
+    "bytes": 4304530,
+    "kb": 4203.64,
+    "mb": 4.11
+  },
+  "gzip": {
+    "bytes": 630483,
+    "kb": 615.71,
+    "mb": 0.6
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a64e08a0e2f5",
+  "verified": true
+}

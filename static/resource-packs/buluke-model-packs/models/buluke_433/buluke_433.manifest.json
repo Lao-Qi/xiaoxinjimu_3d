@@ -1,0 +1,430 @@
+{
+  "v": 1,
+  "format": "ldraw-resource-pack",
+  "modelId": "buluke:433",
+  "sourceId": "433",
+  "source": "buluke",
+  "name": "万向轮结构9",
+  "fileCount": 69,
+  "rawBytes": 94056,
+  "gzipBytes": 17876,
+  "hash": "0e0d26c71be7",
+  "pack": "buluke_433.0e0d26c71be7.pack",
+  "gzip": "buluke_433.0e0d26c71be7.pack.gz",
+  "files": [
+    {
+      "path": "static/ldraw_parts/1-4cyli.dat",
+      "offset": 0,
+      "size": 1056,
+      "sha256": "5e8053b8ed19ced455c2dc447b227fb0fc2f52bbfd55971415972c41d24bf24a"
+    },
+    {
+      "path": "static/ldraw_parts/1-4cylo.dat",
+      "offset": 1056,
+      "size": 400,
+      "sha256": "8c197c14d4cfd18d803209b935495203f639326d4be75b9d5bbcdb635ec87fef"
+    },
+    {
+      "path": "static/ldraw_parts/1-4edge.dat",
+      "offset": 1456,
+      "size": 557,
+      "sha256": "8e71397d7f574f562fbec40e05d4f2f6d59480dd5ce5abf00c2295ef68f3707c"
+    },
+    {
+      "path": "static/ldraw_parts/1-4ndis.dat",
+      "offset": 2013,
+      "size": 704,
+      "sha256": "3899412efaeab592b677100813c48ba65997378a4c357ba07082be30d93c7842"
+    },
+    {
+      "path": "static/ldraw_parts/1-8chrd.dat",
+      "offset": 2717,
+      "size": 445,
+      "sha256": "5a684eee496f444752adf4ed2ab0fef0cee847066b404e8dc976170e72a9d37a"
+    },
+    {
+      "path": "static/ldraw_parts/1-8cyli.dat",
+      "offset": 3162,
+      "size": 818,
+      "sha256": "27bd2bc43d20b63084e74d3924b721de5d45c21ff3c7d0eac4c25fea4822ed14"
+    },
+    {
+      "path": "static/ldraw_parts/1-8cylo.dat",
+      "offset": 3980,
+      "size": 393,
+      "sha256": "56335ae7dab86896e9fd85adca2a0308254b2b21bfdd1d77273fa219dbd51746"
+    },
+    {
+      "path": "static/ldraw_parts/1-8edge.dat",
+      "offset": 4373,
+      "size": 492,
+      "sha256": "3a2a7f74d06759685a036a8a27c2cbeecb97a3ba93060b2db40a8b5f80e4ec15"
+    },
+    {
+      "path": "static/ldraw_parts/1-8ndis.dat",
+      "offset": 4865,
+      "size": 627,
+      "sha256": "a92de7a46c6dcb96a23c61c9452527d183bb294e0271cb8ea6b364d1676bb101"
+    },
+    {
+      "path": "static/ldraw_parts/1-8ring3.dat",
+      "offset": 5492,
+      "size": 622,
+      "sha256": "1a92b9a58081b96de659a22e1b51c7a8f5dd4b79972394b7d7949245edefaa83"
+    },
+    {
+      "path": "static/ldraw_parts/2-4cyli.dat",
+      "offset": 6114,
+      "size": 1555,
+      "sha256": "23ed5b9a54f6f5a2abb79952ac605993ee567bbe5d5738f9bdc87503bd2f2be2"
+    },
+    {
+      "path": "static/ldraw_parts/2-4cylo.dat",
+      "offset": 7669,
+      "size": 399,
+      "sha256": "f68766ac03c28204320ae288bc10450627c09baaf14e003eceeda5a8e203f22f"
+    },
+    {
+      "path": "static/ldraw_parts/2-4edge.dat",
+      "offset": 8068,
+      "size": 695,
+      "sha256": "235f27e79a49f4ecf110f8f59a1ac1892e32962179587bff02da4d1a1672926d"
+    },
+    {
+      "path": "static/ldraw_parts/2-4ndis.dat",
+      "offset": 8763,
+      "size": 886,
+      "sha256": "6bf1f7db160c69de020d6dd8492d627503e70541b72a909576079bb161fcdc83"
+    },
+    {
+      "path": "static/ldraw_parts/2-4ring3.dat",
+      "offset": 9649,
+      "size": 1171,
+      "sha256": "83daf728f0285b7471139e3fd5335603e548300307c0bb8615a4d3f76ca8dde0"
+    },
+    {
+      "path": "static/ldraw_parts/3-16cyli.dat",
+      "offset": 10820,
+      "size": 954,
+      "sha256": "29c3ce3458b40e16cfd48818e07d027b97efded81cd489681616ad8e4cd6a8a5"
+    },
+    {
+      "path": "static/ldraw_parts/3-16cylo.dat",
+      "offset": 11774,
+      "size": 398,
+      "sha256": "7945683e7376f07e4e17a2b04541882c149ed748e7bf44b1bfb99acd0430f2b5"
+    },
+    {
+      "path": "static/ldraw_parts/3-16cyls.dat",
+      "offset": 12172,
+      "size": 650,
+      "sha256": "713fdd3b1dc5e419776f7015acdc9b485050d0195b30644e4307aebcb497c8ef"
+    },
+    {
+      "path": "static/ldraw_parts/3-16edge.dat",
+      "offset": 12822,
+      "size": 598,
+      "sha256": "7ba33a572e064826d2fba4e23e77f73e4c68a559951f4ad5dc76bb85c006afba"
+    },
+    {
+      "path": "static/ldraw_parts/3-16ndis.dat",
+      "offset": 13420,
+      "size": 413,
+      "sha256": "1bc0b12049bd1eb4e095ef3caf7c79cd95eb4a421f19ae47c43557f9ee2fa603"
+    },
+    {
+      "path": "static/ldraw_parts/3-16rin4.dat",
+      "offset": 13833,
+      "size": 483,
+      "sha256": "d5003f8234aaaa27eb59a45fc66e48e924741d11e69481ea6c117734718481fb"
+    },
+    {
+      "path": "static/ldraw_parts/3-16ring12.dat",
+      "offset": 14316,
+      "size": 582,
+      "sha256": "e0a55190f753b767aebe195d12eadb28a5edaa0ce2eae696b506aa5c42413b08"
+    },
+    {
+      "path": "static/ldraw_parts/3-8cyli.dat",
+      "offset": 14898,
+      "size": 1315,
+      "sha256": "191357d368711ed5504af52c4ac31080ef88fe308fa43535b58413ee91c43ffe"
+    },
+    {
+      "path": "static/ldraw_parts/3-8edge.dat",
+      "offset": 16213,
+      "size": 627,
+      "sha256": "dddbe9453ab240f3238ed0e57a0d8b3e87db86deee0c3bdd84e92fd82afdc6ab"
+    },
+    {
+      "path": "static/ldraw_parts/3-8rin12.dat",
+      "offset": 16840,
+      "size": 887,
+      "sha256": "af1f8309c73ce57e940c00be5b41551e86c329c8e9badd0354034a44e02eea89"
+    },
+    {
+      "path": "static/ldraw_parts/3-8ring2.dat",
+      "offset": 17727,
+      "size": 785,
+      "sha256": "b58a1a0fa869ad8bf34ad657e58785fb276b2d8fc6d5980eb73a7e6c64514a85"
+    },
+    {
+      "path": "static/ldraw_parts/32013.dat",
+      "offset": 18512,
+      "size": 1639,
+      "sha256": "93a6b425871fa585945ad37b79925dacb5e96dad7fd42ef6e19866e5fd922f94"
+    },
+    {
+      "path": "static/ldraw_parts/32523.dat",
+      "offset": 20151,
+      "size": 1003,
+      "sha256": "3bc4ab2972bab501a6364ba6c79f1383275ef01a10cd948d3c510b41126f7ab5"
+    },
+    {
+      "path": "static/ldraw_parts/3673.dat",
+      "offset": 21154,
+      "size": 505,
+      "sha256": "668700b307bc51ecd107cf0516450391b6733ec197b019cd332e0dac76de4ca3"
+    },
+    {
+      "path": "static/ldraw_parts/3749.dat",
+      "offset": 21659,
+      "size": 799,
+      "sha256": "dcd79f6840c0fd957cfe3dd73eb79ae7b1855b812b366d38f59fd18c5ab706ee"
+    },
+    {
+      "path": "static/ldraw_parts/4-4cyli.dat",
+      "offset": 22458,
+      "size": 2699,
+      "sha256": "6d5c1ce5a53103c124d5ff00564da37c9ca1ff30803c564533c67728db86658e"
+    },
+    {
+      "path": "static/ldraw_parts/4-4cylo.dat",
+      "offset": 25157,
+      "size": 395,
+      "sha256": "61a119ff47a0e47fda2d24f93cb0296a8d834bf1af43cfe1887ef754cfc88290"
+    },
+    {
+      "path": "static/ldraw_parts/4-4disc.dat",
+      "offset": 25552,
+      "size": 1165,
+      "sha256": "f309e628f06a3a422234c393cd69db8fcd376f84d36ef46da5710f352efa8f68"
+    },
+    {
+      "path": "static/ldraw_parts/4-4edge.dat",
+      "offset": 26717,
+      "size": 1096,
+      "sha256": "4a18d6a625c45bac4434b8ce24398716f7a014517b72253395bbeb0db893030b"
+    },
+    {
+      "path": "static/ldraw_parts/4-4ring3.dat",
+      "offset": 27813,
+      "size": 1640,
+      "sha256": "f29e976bb5ed7a26b057010ac8a41605138bfe9a0bafd76a30231d3da691bb44"
+    },
+    {
+      "path": "static/ldraw_parts/4-4ring8.dat",
+      "offset": 29453,
+      "size": 1511,
+      "sha256": "9701c3b35792f1f8d3fac6f9d0351260aea293ff60761c5d485175fba2b8d038"
+    },
+    {
+      "path": "static/ldraw_parts/4185.dat",
+      "offset": 30964,
+      "size": 284,
+      "sha256": "7e48246e26dc40eb294298fc14c713c2b2212c834e0540809952efdba3cd9713"
+    },
+    {
+      "path": "static/ldraw_parts/4185a.dat",
+      "offset": 31248,
+      "size": 2475,
+      "sha256": "2cc4b793f870b5354305b550a92d9a8f7a6638e58f710e3a1f0aff5a37784d37"
+    },
+    {
+      "path": "static/ldraw_parts/4519.dat",
+      "offset": 33723,
+      "size": 470,
+      "sha256": "b6a36ebb363cccb9f49fa8a3f2f7c959147e376297c5f416b19d0a4ba284a492"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-16cyli.dat",
+      "offset": 34193,
+      "size": 759,
+      "sha256": "2b7802ac358c62c55a39f60fd89b809d5861ee633f1e906f934d88424656d07f"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-16edge.dat",
+      "offset": 34952,
+      "size": 401,
+      "sha256": "593088b0c96867e43f478176a71e404c4c32127af079105ffd9245de4fba3fd9"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-4aring.dat",
+      "offset": 35353,
+      "size": 549,
+      "sha256": "3fc13c62cc812dbba73180d2e717d4b7b847e7b52070e55a4aa097f9b30ff4c2"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-4con11.dat",
+      "offset": 35902,
+      "size": 1967,
+      "sha256": "8200f2079b86dd65230c28689aa42d501c850d2279e52d388188e299809ef16a"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-4cyli.dat",
+      "offset": 37869,
+      "size": 2241,
+      "sha256": "19215af8bac62d25845f3e8225b76f3ffce55e96f6772127ae016ddde3ae6dbc"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-4cylo.dat",
+      "offset": 40110,
+      "size": 422,
+      "sha256": "7f18c7319dd59329e462c569833bf226a3af2f864b0e72ad821b16c260c172b8"
+    },
+    {
+      "path": "static/ldraw_parts/48/1-4edge.dat",
+      "offset": 40532,
+      "size": 1024,
+      "sha256": "ee048a1d298e06bed0316cfb41c5b2363c90e6868bdaf4369d0f49746ea1cc37"
+    },
+    {
+      "path": "static/ldraw_parts/48/4-4cyli.dat",
+      "offset": 41556,
+      "size": 695,
+      "sha256": "517eefc9d8867c33088409a8e9418e7f23a3859e58f89ac3ce6e9b13ef1bd2bd"
+    },
+    {
+      "path": "static/ldraw_parts/48/4-4cylo.dat",
+      "offset": 42251,
+      "size": 417,
+      "sha256": "eca42dd44eb4b379db82f069244806bfeb06be898e2e83bc00016a04b31f83e3"
+    },
+    {
+      "path": "static/ldraw_parts/48/4-4edge.dat",
+      "offset": 42668,
+      "size": 724,
+      "sha256": "5f635ab1a365c0c7938488799de0f0450d5aad338f21c70ff7a090012bdb20b8"
+    },
+    {
+      "path": "static/ldraw_parts/5-8cyli.dat",
+      "offset": 43392,
+      "size": 1754,
+      "sha256": "263398feea94e320981df1fe37c2d651a87cc573699af3ce09219e7b5b77a580"
+    },
+    {
+      "path": "static/ldraw_parts/62462.dat",
+      "offset": 45146,
+      "size": 1730,
+      "sha256": "e002cc3948de92333d73d8b0681872fb45241e83ba6e508b7e03855e979d70db"
+    },
+    {
+      "path": "static/ldraw_parts/axl2hol2.dat",
+      "offset": 46876,
+      "size": 636,
+      "sha256": "da6b5a361f25516bba162f637dfaebdbfca59482a9e4a80f3baca1a676fb4265"
+    },
+    {
+      "path": "static/ldraw_parts/axl2hol3.dat",
+      "offset": 47512,
+      "size": 759,
+      "sha256": "65b40d46d916456f9ed506ce823f810f68e1bfcf5c8f58eea8f575b64704ece0"
+    },
+    {
+      "path": "static/ldraw_parts/axl2hole.dat",
+      "offset": 48271,
+      "size": 5351,
+      "sha256": "1ea791f0acf5f7f0f8cf4a1f30daf8609168c10ba6f2ac0d73d6bf09f09f9e01"
+    },
+    {
+      "path": "static/ldraw_parts/axle.dat",
+      "offset": 53622,
+      "size": 3693,
+      "sha256": "b535bcb831b104b3a2d98f3286f0388df4f5fe450ed0c9d3d43c869319409d41"
+    },
+    {
+      "path": "static/ldraw_parts/axlehol5.dat",
+      "offset": 57315,
+      "size": 4443,
+      "sha256": "5c2ef8cea3cd5becfc99637203598dcac17fa72048974abfbeef1a7b48b04158"
+    },
+    {
+      "path": "static/ldraw_parts/beamhole.dat",
+      "offset": 61758,
+      "size": 769,
+      "sha256": "800e5a89f0ae74f3bed0138bec3c6e7cd0bcf418c271852bff7156a44e259f24"
+    },
+    {
+      "path": "static/ldraw_parts/connect.dat",
+      "offset": 62527,
+      "size": 7339,
+      "sha256": "ddada5ccff0ad165730584a3ac1b461b4e4973b26af822921fe165bc5055f5c1"
+    },
+    {
+      "path": "static/ldraw_parts/connect8.dat",
+      "offset": 69866,
+      "size": 6214,
+      "sha256": "6a26a2af825bc7ce6192c999e3fada45ee6c5e5a8595c4112b925734949ec4c1"
+    },
+    {
+      "path": "static/ldraw_parts/connhole.dat",
+      "offset": 76080,
+      "size": 580,
+      "sha256": "c1ec6037c72ffb689923f1a4dec35f7b560d1158814711b2b83f3ca1d81dea0f"
+    },
+    {
+      "path": "static/ldraw_parts/npeghol2.dat",
+      "offset": 76660,
+      "size": 1522,
+      "sha256": "f64408b545375ca22dc6031790c9eb49c023eb6a9e2dc4cb2f3fcd4d62607390"
+    },
+    {
+      "path": "static/ldraw_parts/peghole.dat",
+      "offset": 78182,
+      "size": 826,
+      "sha256": "70ed57db1b65c1f95d914166821a68132b9873dcd2491c876d8a5d164ac9d5b7"
+    },
+    {
+      "path": "static/ldraw_parts/rect.dat",
+      "offset": 79008,
+      "size": 666,
+      "sha256": "bedffdd89efd4d8fc61b3daf209d377c1d1bad6581b7f52406e62723350035e7"
+    },
+    {
+      "path": "static/ldraw_parts/rect1.dat",
+      "offset": 79674,
+      "size": 568,
+      "sha256": "8a72a5a0f604599bbf9c88b9d54797422b8b32fec2d18483b203488003e2a0c4"
+    },
+    {
+      "path": "static/ldraw_parts/rect2p.dat",
+      "offset": 80242,
+      "size": 606,
+      "sha256": "28c69e11789ca24514220d8038fa928c9d99296f24d3c2fb361bdce7426427af"
+    },
+    {
+      "path": "static/ldraw_parts/rect3.dat",
+      "offset": 80848,
+      "size": 617,
+      "sha256": "ca212e1b9ead8f20180d1e8d5b82d44b64535c5a3563557b101029533bb33dbc"
+    },
+    {
+      "path": "static/ldraw_parts/s/32013s01.dat",
+      "offset": 81465,
+      "size": 4724,
+      "sha256": "629c06d6b7f3ecdef926d08a424a6939ac89d5cffb8b18e7239cc096bd7c3a1e"
+    },
+    {
+      "path": "static/ldraw_parts/s/4185as01.dat",
+      "offset": 86189,
+      "size": 6674,
+      "sha256": "bef7b1d05ad91c7c9ed58b28a9f4fe27b2954f549ae8b977cd6316906b711ea0"
+    },
+    {
+      "path": "UploadFile/1/BooketFiled/20233223354589516425.ldr",
+      "offset": 92863,
+      "size": 1193,
+      "sha256": "38b0400d1fff866feedb46e272ace36ffcc64e16646864cf1f7c909ba5b07ca7"
+    }
+  ]
+}

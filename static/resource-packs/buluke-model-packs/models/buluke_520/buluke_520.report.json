@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:520",
+  "sourceId": "520",
+  "source": "buluke",
+  "name": "摩天轮1",
+  "entry": "UploadFile/1/BooketFiled/20247312815225806117.ldr",
+  "fileCount": 192,
+  "raw": {
+    "bytes": 716303,
+    "kb": 699.51,
+    "mb": 0.68
+  },
+  "gzip": {
+    "bytes": 114046,
+    "kb": 111.37,
+    "mb": 0.11
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e15d2fa3d13b",
+  "verified": true
+}

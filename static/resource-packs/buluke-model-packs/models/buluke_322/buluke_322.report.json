@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:322",
+  "sourceId": "322",
+  "source": "buluke",
+  "name": "直升机",
+  "entry": "UploadFile/1/BooketFiled/202322569928868174.ldr",
+  "fileCount": 62,
+  "raw": {
+    "bytes": 88031,
+    "kb": 85.97,
+    "mb": 0.08
+  },
+  "gzip": {
+    "bytes": 15481,
+    "kb": 15.12,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a738ded0826e",
+  "verified": true
+}

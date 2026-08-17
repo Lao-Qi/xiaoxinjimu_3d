@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:465",
+  "sourceId": "465",
+  "source": "buluke",
+  "name": "十字旋转门",
+  "entry": "UploadFile/1/BooketFiled/20234112311761736037.ldr",
+  "fileCount": 133,
+  "raw": {
+    "bytes": 666015,
+    "kb": 650.41,
+    "mb": 0.64
+  },
+  "gzip": {
+    "bytes": 96491,
+    "kb": 94.23,
+    "mb": 0.09
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "15a49ecee0fc",
+  "verified": true
+}

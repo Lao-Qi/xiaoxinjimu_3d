@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:254",
+  "sourceId": "254",
+  "source": "buluke",
+  "name": "跳绳",
+  "entry": "UploadFile/1/BooketFiled/202211231655619580527.ldr",
+  "fileCount": 136,
+  "raw": {
+    "bytes": 288817,
+    "kb": 282.05,
+    "mb": 0.28
+  },
+  "gzip": {
+    "bytes": 45708,
+    "kb": 44.64,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "6893c97b69df",
+  "verified": true
+}

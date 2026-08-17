@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:255",
+  "sourceId": "255",
+  "source": "buluke",
+  "name": "旋转木马",
+  "entry": "UploadFile/1/BooketFiled/202211231739107452401.ldr",
+  "fileCount": 128,
+  "raw": {
+    "bytes": 327812,
+    "kb": 320.13,
+    "mb": 0.31
+  },
+  "gzip": {
+    "bytes": 51445,
+    "kb": 50.24,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "3f84fb2aa333",
+  "verified": true
+}

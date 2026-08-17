@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:138",
+  "sourceId": "138",
+  "source": "buluke",
+  "name": "电动摇摆机",
+  "entry": "UploadFile/1/BooketFiled/20227253525130221573.ldr",
+  "fileCount": 126,
+  "raw": {
+    "bytes": 4070780,
+    "kb": 3975.37,
+    "mb": 3.88
+  },
+  "gzip": {
+    "bytes": 595879,
+    "kb": 581.91,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1e9ab5fa5df8",
+  "verified": true
+}

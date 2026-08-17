@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:489",
+  "sourceId": "489",
+  "source": "buluke",
+  "name": "高尔夫小人",
+  "entry": "UploadFile/1/BooketFiled/20235474714576533.ldr",
+  "fileCount": 123,
+  "raw": {
+    "bytes": 301210,
+    "kb": 294.15,
+    "mb": 0.29
+  },
+  "gzip": {
+    "bytes": 46927,
+    "kb": 45.83,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "381092b8bbfa",
+  "verified": true
+}

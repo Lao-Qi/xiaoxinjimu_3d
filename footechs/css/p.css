@@ -1,0 +1,83 @@
+.background {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    z-index: 9;
+}
+.holder {
+    display: none;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 10;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+#preview_parent {
+  background-color: white;
+  position: relative;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+#preview {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#preview_info {
+    display: block;
+    /*background-color: black;
+    opacity: 0.8;*/
+    background-color: white;  
+    color: black;
+    z-index: 90;
+    /*padding: 0.2em;*/
+    text-align: center;
+    /*top: 1em;*/
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 160px;
+    top: calc(100% - 160px);
+    opacity: 0.8;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 100%;
+}
+#preview_info a {
+    color: white;
+}
+.preview_info_line {
+	height: 2em;
+	padding-top: 1em;
+    display: block;
+    /*margin: 0.3em;*/
+}
+#preview_info_name, #preview_info_color_ldraw, #preview_info_color_lego, #preview_info_color_bricklink, #preview_info_id_bricklink {
+    display: inline;
+}
+
+@media screen and (max-width: 760px) {
+.holder {
+    /*top: 1.8em;*/
+}
+	#preview_info {
+    	height: 30vw;
+    	top: calc(100% - 30vw);
+	}
+}
+@media screen and (max-height: 380px) {
+	#preview_info {
+    	height: 30vh;
+    	top: calc(100% - 30vh);
+	}
+}

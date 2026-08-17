@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:515",
+  "sourceId": "515",
+  "source": "buluke",
+  "name": "钉耙",
+  "entry": "UploadFile/1/BooketFiled/20235491294195767.ldr",
+  "fileCount": 59,
+  "raw": {
+    "bytes": 133240,
+    "kb": 130.12,
+    "mb": 0.13
+  },
+  "gzip": {
+    "bytes": 19370,
+    "kb": 18.92,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "240a4e0d8c8f",
+  "verified": true
+}

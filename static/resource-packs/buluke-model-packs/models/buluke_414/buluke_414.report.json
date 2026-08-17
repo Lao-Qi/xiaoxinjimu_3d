@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:414",
+  "sourceId": "414",
+  "source": "buluke",
+  "name": "夹子3",
+  "entry": "UploadFile/1/BooketFiled/20233222244988323254.ldr",
+  "fileCount": 54,
+  "raw": {
+    "bytes": 89243,
+    "kb": 87.15,
+    "mb": 0.09
+  },
+  "gzip": {
+    "bytes": 15246,
+    "kb": 14.89,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f57b25d5dae3",
+  "verified": true
+}

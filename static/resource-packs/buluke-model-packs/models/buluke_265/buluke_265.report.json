@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:265",
+  "sourceId": "265",
+  "source": "buluke",
+  "name": "推雪车",
+  "entry": "UploadFile/1/BooketFiled/202211232643515601440.ldr",
+  "fileCount": 158,
+  "raw": {
+    "bytes": 4114120,
+    "kb": 4017.7,
+    "mb": 3.92
+  },
+  "gzip": {
+    "bytes": 602421,
+    "kb": 588.3,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "025289602a90",
+  "verified": true
+}

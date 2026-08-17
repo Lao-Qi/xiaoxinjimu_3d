@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:486",
+  "sourceId": "486",
+  "source": "buluke",
+  "name": "电磁炮车",
+  "entry": "UploadFile/1/BooketFiled/202354528303164995.ldr",
+  "fileCount": 144,
+  "raw": {
+    "bytes": 3784785,
+    "kb": 3696.08,
+    "mb": 3.61
+  },
+  "gzip": {
+    "bytes": 551209,
+    "kb": 538.29,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ca1d7639f697",
+  "verified": true
+}

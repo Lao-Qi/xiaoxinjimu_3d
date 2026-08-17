@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:336",
+  "sourceId": "336",
+  "source": "buluke",
+  "name": "游标卡尺",
+  "entry": "UploadFile/1/BooketFiled/2023265441891289131.ldr",
+  "fileCount": 105,
+  "raw": {
+    "bytes": 223633,
+    "kb": 218.39,
+    "mb": 0.21
+  },
+  "gzip": {
+    "bytes": 35240,
+    "kb": 34.41,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "681f1c1a1a89",
+  "verified": true
+}

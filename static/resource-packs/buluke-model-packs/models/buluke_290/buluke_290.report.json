@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:290",
+  "sourceId": "290",
+  "source": "buluke",
+  "name": "电子烧烤架",
+  "entry": "UploadFile/1/BooketFiled/2023154556811527415.ldr",
+  "fileCount": 140,
+  "raw": {
+    "bytes": 3888955,
+    "kb": 3797.81,
+    "mb": 3.71
+  },
+  "gzip": {
+    "bytes": 571294,
+    "kb": 557.9,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f31d3bf436ab",
+  "verified": true
+}

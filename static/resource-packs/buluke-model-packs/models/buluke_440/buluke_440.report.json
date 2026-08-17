@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:440",
+  "sourceId": "440",
+  "source": "buluke",
+  "name": "小篮子",
+  "entry": "UploadFile/1/BooketFiled/20233223745969510530.ldr",
+  "fileCount": 70,
+  "raw": {
+    "bytes": 151650,
+    "kb": 148.1,
+    "mb": 0.14
+  },
+  "gzip": {
+    "bytes": 25698,
+    "kb": 25.1,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "086f09be26aa",
+  "verified": true
+}

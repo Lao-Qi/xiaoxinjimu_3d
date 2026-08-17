@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:327",
+  "sourceId": "327",
+  "source": "buluke",
+  "name": "小狗脚踏板车",
+  "entry": "UploadFile/1/BooketFiled/2023225815627354517.ldr",
+  "fileCount": 104,
+  "raw": {
+    "bytes": 189597,
+    "kb": 185.15,
+    "mb": 0.18
+  },
+  "gzip": {
+    "bytes": 32482,
+    "kb": 31.72,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b777dd6d791c",
+  "verified": true
+}

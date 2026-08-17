@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:96",
+  "sourceId": "96",
+  "source": "buluke",
+  "name": "机械狗",
+  "entry": "UploadFile/1/BooketFiled/2022755915541164475.ldr",
+  "fileCount": 234,
+  "raw": {
+    "bytes": 4479276,
+    "kb": 4374.29,
+    "mb": 4.27
+  },
+  "gzip": {
+    "bytes": 660299,
+    "kb": 644.82,
+    "mb": 0.63
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "82d6e71db2d5",
+  "verified": true
+}

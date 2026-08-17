@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:409",
+  "sourceId": "409",
+  "source": "buluke",
+  "name": "扁担舞2",
+  "entry": "UploadFile/1/BooketFiled/2023322203167104620.ldr",
+  "fileCount": 158,
+  "raw": {
+    "bytes": 3818540,
+    "kb": 3729.04,
+    "mb": 3.64
+  },
+  "gzip": {
+    "bytes": 559928,
+    "kb": 546.8,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "147065475424",
+  "verified": true
+}

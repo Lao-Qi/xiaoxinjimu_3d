@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:422",
+  "sourceId": "422",
+  "source": "buluke",
+  "name": "手机支架1",
+  "entry": "UploadFile/1/BooketFiled/20233222841688932416.ldr",
+  "fileCount": 98,
+  "raw": {
+    "bytes": 224992,
+    "kb": 219.72,
+    "mb": 0.21
+  },
+  "gzip": {
+    "bytes": 34137,
+    "kb": 33.34,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8ae8d69befd7",
+  "verified": true
+}

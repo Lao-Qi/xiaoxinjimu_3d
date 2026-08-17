@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:335",
+  "sourceId": "335",
+  "source": "buluke",
+  "name": "雪地摩托",
+  "entry": "UploadFile/1/BooketFiled/2023265417532359467.ldr",
+  "fileCount": 87,
+  "raw": {
+    "bytes": 202566,
+    "kb": 197.82,
+    "mb": 0.19
+  },
+  "gzip": {
+    "bytes": 29581,
+    "kb": 28.89,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e9a5dcf0ba29",
+  "verified": true
+}

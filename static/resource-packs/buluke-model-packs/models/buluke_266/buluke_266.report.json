@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:266",
+  "sourceId": "266",
+  "source": "buluke",
+  "name": "印纸机",
+  "entry": "UploadFile/1/BooketFiled/202211233012907458373.ldr",
+  "fileCount": 112,
+  "raw": {
+    "bytes": 241250,
+    "kb": 235.6,
+    "mb": 0.23
+  },
+  "gzip": {
+    "bytes": 40400,
+    "kb": 39.45,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "917ead017f37",
+  "verified": true
+}

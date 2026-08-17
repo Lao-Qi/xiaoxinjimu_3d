@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:232",
+  "sourceId": "232",
+  "source": "buluke",
+  "name": "雨刮器",
+  "entry": "UploadFile/1/BooketFiled/202210295121620275255.ldr",
+  "fileCount": 88,
+  "raw": {
+    "bytes": 172059,
+    "kb": 168.03,
+    "mb": 0.16
+  },
+  "gzip": {
+    "bytes": 27792,
+    "kb": 27.14,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "14e87f789356",
+  "verified": true
+}

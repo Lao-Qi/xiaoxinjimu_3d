@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:358",
+  "sourceId": "358",
+  "source": "buluke",
+  "name": "举重机器人",
+  "entry": "UploadFile/1/BooketFiled/20232231148620368579.ldr",
+  "fileCount": 171,
+  "raw": {
+    "bytes": 4038501,
+    "kb": 3943.85,
+    "mb": 3.85
+  },
+  "gzip": {
+    "bytes": 594609,
+    "kb": 580.67,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "9f1751827191",
+  "verified": true
+}

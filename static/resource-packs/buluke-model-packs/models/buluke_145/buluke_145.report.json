@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:145",
+  "sourceId": "145",
+  "source": "buluke",
+  "name": "电动风力车",
+  "entry": "UploadFile/1/BooketFiled/20227253716672200442.ldr",
+  "fileCount": 164,
+  "raw": {
+    "bytes": 4103030,
+    "kb": 4006.87,
+    "mb": 3.91
+  },
+  "gzip": {
+    "bytes": 602885,
+    "kb": 588.75,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f1d3c62e7a0d",
+  "verified": true
+}

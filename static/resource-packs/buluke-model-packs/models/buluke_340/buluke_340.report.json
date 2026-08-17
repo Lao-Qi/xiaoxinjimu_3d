@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:340",
+  "sourceId": "340",
+  "source": "buluke",
+  "name": "大型路灯",
+  "entry": "UploadFile/1/BooketFiled/2023265644272430097.ldr",
+  "fileCount": 104,
+  "raw": {
+    "bytes": 241440,
+    "kb": 235.78,
+    "mb": 0.23
+  },
+  "gzip": {
+    "bytes": 35809,
+    "kb": 34.97,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8d61f5f89397",
+  "verified": true
+}

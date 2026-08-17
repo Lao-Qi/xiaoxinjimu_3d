@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:406",
+  "sourceId": "406",
+  "source": "buluke",
+  "name": "桁架结构2",
+  "entry": "UploadFile/1/BooketFiled/20233135322619550534.ldr",
+  "fileCount": 65,
+  "raw": {
+    "bytes": 119507,
+    "kb": 116.71,
+    "mb": 0.11
+  },
+  "gzip": {
+    "bytes": 21007,
+    "kb": 20.51,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "82719e6ce532",
+  "verified": true
+}

@@ -1,0 +1,73 @@
+name: Deploy to Tencent COS
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-cos-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Sync static site
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      COS_REMOTE_PATH: ${{ vars.COS_REMOTE_PATH }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare upload directory
+        run: |
+          set -euo pipefail
+          DIST="$RUNNER_TEMP/cos-dist"
+          mkdir -p "$DIST"
+          rsync -a --delete \
+            --exclude='.git/' \
+            --exclude='.github/' \
+            --exclude='.xiaoxin-publish-hash.json' \
+            ./ "$DIST/"
+          echo "COS_DIST=$DIST" >> "$GITHUB_ENV"
+
+      - name: Install COSCMD
+        run: |
+          python -m pip install --upgrade pip
+          pip install coscmd
+
+      - name: Configure COSCMD
+        env:
+          TENCENT_CLOUD_SECRET_ID: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
+          TENCENT_CLOUD_SECRET_KEY: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+          COS_BUCKET: ${{ secrets.COS_BUCKET }}
+          COS_REGION: ${{ secrets.COS_REGION }}
+        run: |
+          set -euo pipefail
+          test -n "$TENCENT_CLOUD_SECRET_ID"
+          test -n "$TENCENT_CLOUD_SECRET_KEY"
+          test -n "$COS_BUCKET"
+          test -n "$COS_REGION"
+          coscmd config \
+            -a "$TENCENT_CLOUD_SECRET_ID" \
+            -s "$TENCENT_CLOUD_SECRET_KEY" \
+            -b "$COS_BUCKET" \
+            -r "$COS_REGION"
+
+      - name: Check COS access
+        run: |
+          set -euo pipefail
+          REMOTE_PATH="${COS_REMOTE_PATH:-/}"
+          coscmd list "$REMOTE_PATH" >/dev/null
+
+      - name: Sync to COS
+        run: |
+          set -euo pipefail
+          REMOTE_PATH="${COS_REMOTE_PATH:-/}"
+          coscmd upload -rsy --delete "$COS_DIST/" "$REMOTE_PATH"

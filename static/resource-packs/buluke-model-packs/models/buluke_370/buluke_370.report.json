@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:370",
+  "sourceId": "370",
+  "source": "buluke",
+  "name": "变速箱",
+  "entry": "UploadFile/1/BooketFiled/20233132758209872457.ldr",
+  "fileCount": 74,
+  "raw": {
+    "bytes": 193510,
+    "kb": 188.97,
+    "mb": 0.18
+  },
+  "gzip": {
+    "bytes": 33679,
+    "kb": 32.89,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "db4ce00243bd",
+  "verified": true
+}

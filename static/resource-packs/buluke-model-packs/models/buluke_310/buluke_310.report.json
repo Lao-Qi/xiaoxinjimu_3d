@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:310",
+  "sourceId": "310",
+  "source": "buluke",
+  "name": "磨光机",
+  "entry": "UploadFile/1/BooketFiled/2023223550679810281.ldr",
+  "fileCount": 118,
+  "raw": {
+    "bytes": 4129989,
+    "kb": 4033.19,
+    "mb": 3.94
+  },
+  "gzip": {
+    "bytes": 604562,
+    "kb": 590.39,
+    "mb": 0.58
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ce390d099159",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:377",
+  "sourceId": "377",
+  "source": "buluke",
+  "name": "单摆周期试验",
+  "entry": "UploadFile/1/BooketFiled/2023313318722315500.ldr",
+  "fileCount": 102,
+  "raw": {
+    "bytes": 239546,
+    "kb": 233.93,
+    "mb": 0.23
+  },
+  "gzip": {
+    "bytes": 38115,
+    "kb": 37.22,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "8de5310932b1",
+  "verified": true
+}

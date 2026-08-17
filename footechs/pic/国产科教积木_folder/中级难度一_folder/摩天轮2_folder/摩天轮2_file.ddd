@@ -1,0 +1,153 @@
+0 FILE ?????2.ldr
+0 Untitled Model
+0 Name: ?????2
+
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+1 71 -60 -40 -80 1 0 0 0 0 -1 0 1 0 w5065435227.dat
+1 0 50 -20 -40 1 0 0 0 1 0 0 0 1 w4913758051.dat
+1 0 50 -20 -120 1 0 0 0 1 0 0 0 1 w4913758051.dat
+0 STEP
+1 16 70 -11 -80 1 0 0 0 1 0 0 0 1 submodel #12.ldr
+0 STEP
+1 16 90 -11 -100 1 0 0 0 1 0 0 0 1 submodel #2.ldr
+0 STEP
+1 16 99.885 -91 -140 1 0 0 0 1 0 0 0 1 submodel #13.ldr
+0 STEP
+1 16 140.09 -231.0001 -140.0001 1 0 0 0 1 0 0 0 1 submodel #5.ldr
+0 STEP
+1 16 179.79 -371.0001 -140.0001 1 0 0 0 1 0 0 0 1 submodel #6.ldr
+0 STEP
+1 16 160.09 -420.0002 -140 1 0 0 0 1 0 0 0 1 submodel #7.ldr
+0 STEP
+1 16 190.09 -426.0001 -140 1 0 0 0 1 0 0 0 1 submodel #8.ldr
+0 STEP
+1 16 180.09 -140.0001 -140.0001 1 0 0 0 1 0 0 0 1 submodel #9.ldr
+0 STEP
+1 16 200.38 -280.0001 -280.0001 1 0 0 0 1 0 0 0 1 submodel #10.ldr
+0 STEP
+1 16 200.38 -280.0001 -0.0001 1 0 0 0 1 0 0 0 1 submodel #11.ldr
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 1
+0 STUDIOSTEPDESC 2
+0 STUDIOSTEPDESC 2-1
+0 STUDIOSTEPDESC 1
+
+0 FILE submodel #2.ldr
+0 Author:
+0 Name: Submodel #2.ldr
+1 1 -10 -9 -40 0 1 0 0 0 1 1 0 0 w5726798117.dat
+1 19 0 -169 -40 -1 0 0 0 1 0 0 0 -1 w4437049067.dat
+1 0 0 -129 -40 1 0 0 0 1 0 0 0 1 w4913758051.dat
+1 0 0 -89 -40 1 0 0 0 1 0 0 0 1 w4913758051.dat
+
+0 FILE submodel #3.ldr
+0 Author:
+0 Name: Submodel #3.ldr
+1 71 0 -35.0924 0 1 0 0 0 0.996195 0.087155 0 -0.087155 0.996195 w4072976327.dat
+1 72 20 -35.0924 0 0 0 1 -0.087155 0.996195 0 -0.996195 -0.087155 0 w522259465b.dat
+
+0 FILE submodel #4.ldr
+0 Author:
+0 Name: Submodel #4.ldr
+1 0 0 -30 0 1 0 0 0 1 0 0 0 1 w4527699010.dat
+1 71 -74.65 -30 0 0 0 1 0 1 0 -1 0 0 w587846253a.dat
+1 71 -64.97 -30 0 0 0 1 0 1 0 -1 0 0 w587846253a.dat
+
+0 FILE submodel #5.ldr
+0 Author:
+0 Name: Submodel #5.ldr
+1 15 10 -149 0 0 -1 0 0 0 1 -1 0 0 w5190398805.dat
+1 71 -10 -149 0 0 1 0 0 0 -1 -1 0 0 w647299877a.dat
+0 STEP
+
+0 FILE submodel #6.ldr
+0 Author:
+0 Name: Submodel #6.ldr
+1 15 -9.41 -9 0 0 1 0 1 0 0 0 0 -1 w5190398805.dat
+1 71 10 -9 0 0 -1 0 1 0 0 0 0 1 w647299877a.dat
+
+0 FILE submodel #7.ldr
+0 Author:
+0 Name: Submodel #7.ldr
+1 1 10 -60 -10 0 0 1 1 0 0 0 1 0 w4152769576.dat
+1 71 0 -99.9999 0 1 0 0 0 1 0 0 0 1 w4026839409.dat
+0 ROTSTEP 0 -90 0 REL
+
+0 FILE submodel #8.ldr
+0 Author:
+0 Name: Submodel #8.ldr
+1 1 0 -14 0 1 0 0 0 1 0 0 0 1 w4150604335.dat
+1 1 0 -24 0 0 0 1 0 1 0 -1 0 0 w4391479012.dat
+1 1 20 -24 0 0 0 1 0 1 0 -1 0 0 w4664479011.dat
+0 ROTSTEP 0 -90 0 REL
+
+0 FILE submodel #9.ldr
+0 Author:
+0 Name: Submodel #9.ldr
+1 1 -10 -60 -10 0 0 1 1 0 0 0 1 0 w4152769576.dat
+1 71 -20 -100 0 1 0 0 0 1 0 0 0 1 w4026839409.dat
+0 ROTSTEP 0 -90 0 REL
+1 1 10 -30 0 0 0 1 0 1 0 -1 0 0 w4391479012.dat
+1 1 30 -30 0 0 0 1 0 1 0 -1 0 0 w4664479011.dat
+1 1 10 -20 0 1 0 0 0 1 0 0 0 1 w4150604335.dat
+0 ROTSTEP 0 0 0 REL
+
+0 FILE submodel #10.ldr
+0 Author:
+0 Name: Submodel #10.ldr
+1 1 -10 -60 -10 0 0 1 1 0 0 0 1 0 w4152769576.dat
+1 71 -20 -100 0 1 0 0 0 1 0 0 0 1 w4026839409.dat
+0 ROTSTEP 0 -90 0 REL
+1 1 10 -20 0 1 0 0 0 1 0 0 0 1 w4150604335.dat
+1 1 10 -30 0 0 0 1 0 1 0 -1 0 0 w4391479012.dat
+1 1 30 -30 0 0 0 1 0 1 0 -1 0 0 w4664479011.dat
+0 STEP
+
+0 FILE submodel #11.ldr
+0 Author:
+0 Name: Submodel #11.ldr
+1 1 -10 -60 -10 0 0 1 1 0 0 0 1 0 w4152769576.dat
+1 71 -20 -100 0 1 0 0 0 1 0 0 0 1 w4026839409.dat
+0 ROTSTEP 0 -90 0 REL
+1 1 30 -30 0 0 0 1 0 1 0 -1 0 0 w4664479011.dat
+1 1 10 -30 0 0 0 1 0 1 0 -1 0 0 w4391479012.dat
+1 1 10 -20 0 1 0 0 0 1 0 0 0 1 w4150604335.dat
+0 STEP
+
+0 FILE submodel #12.ldr
+0 Author:
+0 Name: Submodel #12.ldr
+1 15 -10 -9 0 0 1 0 1 0 0 0 0 -1 w5581698924.dat
+1 0 0 -9 -20 1 0 0 0 1 0 0 0 1 w4913758051.dat
+1 0 0 -9 0 1 0 0 0 1 0 0 0 1 w4913758051.dat
+1 19 0 -9 20 1 0 0 0 1 0 0 0 1 w4437049067.dat
+
+0 FILE submodel #13.ldr
+0 Author:
+0 Name: Submodel #13.ldr
+1 71 -9.885 -129 0 0 0 -1 0 1 0 1 0 0 w5617435281.dat
+1 0 -9.885 -149 0 1 0 0 0 1 0 0 0 1 w4913758051.dat
+1 71 -1.495 -129 0.0001 1 0 0 0 1 0 0 0 1 w4072976327.dat
+1 0 -9.885 -109 0 1 0 0 0 1 0 0 0 1 w4913758051.dat
+0 STEP
+1 15 0.115 -149 0 0 -1 0 0 0 1 -1 0 0 w5190398805.dat
+1 72 18.505 -129 0.0001 0 0 1 0 1 0 -1 0 0 w4752739460.dat
+0 STEP
+1 16 -0.025 -133.9076 0 1 0 0 0 1 0 0 0 1 submodel #3.ldr
+0 ROTSTEP 0 -90 0 REL
+1 14 -15.145 -169 0 0 0 1 -0.087155 0.996195 0 -0.996195 -0.087155 0 w668398289a.dat
+1 14 -24.885 -169 0 0 0 1 -0.087155 0.996195 0 -0.996195 -0.087155 0 w668398289a.dat
+0 STEP
+1 16 49.885 -259.0001 -0.0001 1 0 0 0 1 0 0 0 1 submodel #4.ldr
+0 ROTSTEP 0 0 0 REL
+1 14 15.175 -289.0001 -0.0001 0 0 1 0 1 0 -1 0 0 w668398289a.dat
+0 STEP
+
+
+

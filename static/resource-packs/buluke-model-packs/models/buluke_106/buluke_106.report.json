@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:106",
+  "sourceId": "106",
+  "source": "buluke",
+  "name": "钓鱼竿",
+  "entry": "UploadFile/1/BooketFiled/202274547981471023.ldr",
+  "fileCount": 178,
+  "raw": {
+    "bytes": 450920,
+    "kb": 440.35,
+    "mb": 0.43
+  },
+  "gzip": {
+    "bytes": 72284,
+    "kb": 70.59,
+    "mb": 0.07
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "7a9a574fbe00",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:262",
+  "sourceId": "262",
+  "source": "buluke",
+  "name": "石油开采机",
+  "entry": "UploadFile/1/BooketFiled/202211232453603633287.ldr",
+  "fileCount": 159,
+  "raw": {
+    "bytes": 3855185,
+    "kb": 3764.83,
+    "mb": 3.68
+  },
+  "gzip": {
+    "bytes": 567541,
+    "kb": 554.24,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "baede05a5158",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:496",
+  "sourceId": "496",
+  "source": "buluke",
+  "name": "机械爪",
+  "entry": "UploadFile/1/BooketFiled/202354496108259746.ldr",
+  "fileCount": 158,
+  "raw": {
+    "bytes": 3790087,
+    "kb": 3701.26,
+    "mb": 3.61
+  },
+  "gzip": {
+    "bytes": 553986,
+    "kb": 541,
+    "mb": 0.53
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "9ca766911e90",
+  "verified": true
+}

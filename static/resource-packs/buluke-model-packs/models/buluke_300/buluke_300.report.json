@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:300",
+  "sourceId": "300",
+  "source": "buluke",
+  "name": "防保叉",
+  "entry": "UploadFile/1/BooketFiled/2023155158155770140.ldr",
+  "fileCount": 67,
+  "raw": {
+    "bytes": 117059,
+    "kb": 114.32,
+    "mb": 0.11
+  },
+  "gzip": {
+    "bytes": 20048,
+    "kb": 19.58,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "eff3cf7e06c6",
+  "verified": true
+}

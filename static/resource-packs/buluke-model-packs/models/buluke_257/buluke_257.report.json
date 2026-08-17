@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:257",
+  "sourceId": "257",
+  "source": "buluke",
+  "name": "电动直升机",
+  "entry": "UploadFile/1/BooketFiled/202211231943122364413.ldr",
+  "fileCount": 128,
+  "raw": {
+    "bytes": 4178404,
+    "kb": 4080.47,
+    "mb": 3.98
+  },
+  "gzip": {
+    "bytes": 615400,
+    "kb": 600.98,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "4f71606f9477",
+  "verified": true
+}

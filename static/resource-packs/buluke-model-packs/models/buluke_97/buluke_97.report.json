@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:97",
+  "sourceId": "97",
+  "source": "buluke",
+  "name": "机械昆虫",
+  "entry": "UploadFile/1/BooketFiled/2022755946159989272.ldr",
+  "fileCount": 186,
+  "raw": {
+    "bytes": 4323350,
+    "kb": 4222.02,
+    "mb": 4.12
+  },
+  "gzip": {
+    "bytes": 631110,
+    "kb": 616.32,
+    "mb": 0.6
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "cb87636cd1cd",
+  "verified": true
+}

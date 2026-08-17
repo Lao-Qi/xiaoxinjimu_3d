@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:256",
+  "sourceId": "256",
+  "source": "buluke",
+  "name": "电动小车",
+  "entry": "UploadFile/1/BooketFiled/202211231852235136411.ldr",
+  "fileCount": 141,
+  "raw": {
+    "bytes": 4057687,
+    "kb": 3962.58,
+    "mb": 3.87
+  },
+  "gzip": {
+    "bytes": 594820,
+    "kb": 580.88,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "772c7d5f31b4",
+  "verified": true
+}

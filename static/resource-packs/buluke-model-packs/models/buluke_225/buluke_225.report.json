@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:225",
+  "sourceId": "225",
+  "source": "buluke",
+  "name": "挤压器",
+  "entry": "UploadFile/1/BooketFiled/202210293124951504232.ldr",
+  "fileCount": 106,
+  "raw": {
+    "bytes": 239656,
+    "kb": 234.04,
+    "mb": 0.23
+  },
+  "gzip": {
+    "bytes": 39627,
+    "kb": 38.7,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "748cac6d2f45",
+  "verified": true
+}

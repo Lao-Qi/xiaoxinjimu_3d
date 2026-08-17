@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:258",
+  "sourceId": "258",
+  "source": "buluke",
+  "name": "电子起落桥",
+  "entry": "UploadFile/1/BooketFiled/20221123213129489050.ldr",
+  "fileCount": 164,
+  "raw": {
+    "bytes": 4254899,
+    "kb": 4155.17,
+    "mb": 4.06
+  },
+  "gzip": {
+    "bytes": 623033,
+    "kb": 608.43,
+    "mb": 0.59
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "f82f3a88f06f",
+  "verified": true
+}

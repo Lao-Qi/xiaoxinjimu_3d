@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:288",
+  "sourceId": "288",
+  "source": "buluke",
+  "name": "电动舂米机",
+  "entry": "UploadFile/1/BooketFiled/202315455755747927.ldr",
+  "fileCount": 164,
+  "raw": {
+    "bytes": 3987334,
+    "kb": 3893.88,
+    "mb": 3.8
+  },
+  "gzip": {
+    "bytes": 582996,
+    "kb": 569.33,
+    "mb": 0.56
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "6aeaf7426838",
+  "verified": true
+}

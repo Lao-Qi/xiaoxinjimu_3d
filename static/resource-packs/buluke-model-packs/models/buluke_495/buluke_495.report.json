@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:495",
+  "sourceId": "495",
+  "source": "buluke",
+  "name": "霍布森方向节",
+  "entry": "UploadFile/1/BooketFiled/2023544839278596049.ldr",
+  "fileCount": 186,
+  "raw": {
+    "bytes": 449978,
+    "kb": 439.43,
+    "mb": 0.43
+  },
+  "gzip": {
+    "bytes": 68148,
+    "kb": 66.55,
+    "mb": 0.06
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "7aadb6c34228",
+  "verified": true
+}

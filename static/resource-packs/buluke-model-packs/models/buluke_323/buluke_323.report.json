@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:323",
+  "sourceId": "323",
+  "source": "buluke",
+  "name": "龙",
+  "entry": "UploadFile/1/BooketFiled/2023225641147504470.ldr",
+  "fileCount": 61,
+  "raw": {
+    "bytes": 89643,
+    "kb": 87.54,
+    "mb": 0.09
+  },
+  "gzip": {
+    "bytes": 15636,
+    "kb": 15.27,
+    "mb": 0.01
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "9eac68f83756",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:386",
+  "sourceId": "386",
+  "source": "buluke",
+  "name": "滚压机",
+  "entry": "UploadFile/1/BooketFiled/20233133526539779091.ldr",
+  "fileCount": 117,
+  "raw": {
+    "bytes": 3728305,
+    "kb": 3640.92,
+    "mb": 3.56
+  },
+  "gzip": {
+    "bytes": 544683,
+    "kb": 531.92,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b3cb2a062457",
+  "verified": true
+}

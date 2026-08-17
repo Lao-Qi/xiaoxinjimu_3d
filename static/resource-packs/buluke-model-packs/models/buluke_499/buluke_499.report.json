@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:499",
+  "sourceId": "499",
+  "source": "buluke",
+  "name": "跑步机",
+  "entry": "UploadFile/1/BooketFiled/2023545044191969638.ldr",
+  "fileCount": 178,
+  "raw": {
+    "bytes": 3885107,
+    "kb": 3794.05,
+    "mb": 3.71
+  },
+  "gzip": {
+    "bytes": 566520,
+    "kb": 553.24,
+    "mb": 0.54
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "1ac31e5d61b8",
+  "verified": true
+}

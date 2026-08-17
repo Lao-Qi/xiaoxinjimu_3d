@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:341",
+  "sourceId": "341",
+  "source": "buluke",
+  "name": "拱门",
+  "entry": "UploadFile/1/BooketFiled/202326578412742472.ldr",
+  "fileCount": 69,
+  "raw": {
+    "bytes": 171892,
+    "kb": 167.86,
+    "mb": 0.16
+  },
+  "gzip": {
+    "bytes": 26289,
+    "kb": 25.67,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "a014f47533f2",
+  "verified": true
+}

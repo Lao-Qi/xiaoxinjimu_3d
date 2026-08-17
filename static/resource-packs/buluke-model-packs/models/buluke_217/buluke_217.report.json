@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:217",
+  "sourceId": "217",
+  "source": "buluke",
+  "name": "齿轮橡皮联动",
+  "entry": "UploadFile/1/BooketFiled/202210291021753302489.ldr",
+  "fileCount": 174,
+  "raw": {
+    "bytes": 444905,
+    "kb": 434.48,
+    "mb": 0.42
+  },
+  "gzip": {
+    "bytes": 71591,
+    "kb": 69.91,
+    "mb": 0.07
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "05073df5e4b4",
+  "verified": true
+}

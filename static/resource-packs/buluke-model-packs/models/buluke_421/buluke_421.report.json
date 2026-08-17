@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:421",
+  "sourceId": "421",
+  "source": "buluke",
+  "name": "手动三轮车",
+  "entry": "UploadFile/1/BooketFiled/20233222815381305961.ldr",
+  "fileCount": 128,
+  "raw": {
+    "bytes": 316511,
+    "kb": 309.09,
+    "mb": 0.3
+  },
+  "gzip": {
+    "bytes": 51804,
+    "kb": 50.59,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "0cedecdf66ab",
+  "verified": true
+}

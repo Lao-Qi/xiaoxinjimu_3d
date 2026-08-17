@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:267",
+  "sourceId": "267",
+  "source": "buluke",
+  "name": "mini按摩机",
+  "entry": "UploadFile/1/BooketFiled/20221223226382254320.ldr",
+  "fileCount": 93,
+  "raw": {
+    "bytes": 215110,
+    "kb": 210.07,
+    "mb": 0.21
+  },
+  "gzip": {
+    "bytes": 33395,
+    "kb": 32.61,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e9c4f734f7b9",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:271",
+  "sourceId": "271",
+  "source": "buluke",
+  "name": "攻城车",
+  "entry": "UploadFile/1/BooketFiled/20221223450556669401.ldr",
+  "fileCount": 98,
+  "raw": {
+    "bytes": 256742,
+    "kb": 250.72,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 39236,
+    "kb": 38.32,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ec7918c7c929",
+  "verified": true
+}

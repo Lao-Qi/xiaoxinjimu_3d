@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:417",
+  "sourceId": "417",
+  "source": "buluke",
+  "name": "可折叠手机支架",
+  "entry": "UploadFile/1/BooketFiled/2023322240488423353.ldr",
+  "fileCount": 99,
+  "raw": {
+    "bytes": 226462,
+    "kb": 221.15,
+    "mb": 0.22
+  },
+  "gzip": {
+    "bytes": 38271,
+    "kb": 37.37,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "e3274306341f",
+  "verified": true
+}

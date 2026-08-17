@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:517",
+  "sourceId": "517",
+  "source": "buluke",
+  "name": "绘图仪",
+  "entry": "UploadFile/1/BooketFiled/20238161020661846555.ldr",
+  "fileCount": 199,
+  "raw": {
+    "bytes": 4414277,
+    "kb": 4310.82,
+    "mb": 4.21
+  },
+  "gzip": {
+    "bytes": 649997,
+    "kb": 634.76,
+    "mb": 0.62
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "7a243b539f17",
+  "verified": true
+}

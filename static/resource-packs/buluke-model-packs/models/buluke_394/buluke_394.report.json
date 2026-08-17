@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:394",
+  "sourceId": "394",
+  "source": "buluke",
+  "name": "烧烤架",
+  "entry": "UploadFile/1/BooketFiled/20233134337223628403.ldr",
+  "fileCount": 113,
+  "raw": {
+    "bytes": 280963,
+    "kb": 274.38,
+    "mb": 0.27
+  },
+  "gzip": {
+    "bytes": 43310,
+    "kb": 42.29,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b9f6e77c1410",
+  "verified": true
+}

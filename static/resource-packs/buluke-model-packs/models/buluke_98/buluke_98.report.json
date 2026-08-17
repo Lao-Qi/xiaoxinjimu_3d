@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:98",
+  "sourceId": "98",
+  "source": "buluke",
+  "name": "简易小车",
+  "entry": "UploadFile/1/BooketFiled/20227501766628540.ldr",
+  "fileCount": 128,
+  "raw": {
+    "bytes": 4393458,
+    "kb": 4290.49,
+    "mb": 4.19
+  },
+  "gzip": {
+    "bytes": 640358,
+    "kb": 625.35,
+    "mb": 0.61
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "42e5dfa1c744",
+  "verified": true
+}

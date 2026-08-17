@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:498",
+  "sourceId": "498",
+  "source": "buluke",
+  "name": "迷你小摩托",
+  "entry": "UploadFile/1/BooketFiled/202354507972319430.ldr",
+  "fileCount": 124,
+  "raw": {
+    "bytes": 255357,
+    "kb": 249.37,
+    "mb": 0.24
+  },
+  "gzip": {
+    "bytes": 42078,
+    "kb": 41.09,
+    "mb": 0.04
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b0e94e61a2db",
+  "verified": true
+}

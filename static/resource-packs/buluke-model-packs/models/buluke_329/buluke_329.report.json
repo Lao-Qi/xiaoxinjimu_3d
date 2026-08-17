@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:329",
+  "sourceId": "329",
+  "source": "buluke",
+  "name": "代步车",
+  "entry": "UploadFile/1/BooketFiled/202326516533147958.ldr",
+  "fileCount": 109,
+  "raw": {
+    "bytes": 323556,
+    "kb": 315.97,
+    "mb": 0.31
+  },
+  "gzip": {
+    "bytes": 48452,
+    "kb": 47.32,
+    "mb": 0.05
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "67a916d3ff37",
+  "verified": true
+}

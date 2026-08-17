@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:512",
+  "sourceId": "512",
+  "source": "buluke",
+  "name": "长足四脚兽",
+  "entry": "UploadFile/1/BooketFiled/202354585490721126.ldr",
+  "fileCount": 151,
+  "raw": {
+    "bytes": 3735929,
+    "kb": 3648.37,
+    "mb": 3.56
+  },
+  "gzip": {
+    "bytes": 547705,
+    "kb": 534.87,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ea60c35975c2",
+  "verified": true
+}

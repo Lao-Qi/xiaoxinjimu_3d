@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:372",
+  "sourceId": "372",
+  "source": "buluke",
+  "name": "舂米机",
+  "entry": "UploadFile/1/BooketFiled/20233132857162458051.ldr",
+  "fileCount": 157,
+  "raw": {
+    "bytes": 4329439,
+    "kb": 4227.97,
+    "mb": 4.13
+  },
+  "gzip": {
+    "bytes": 631477,
+    "kb": 616.68,
+    "mb": 0.6
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "4a7f74d2135c",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:309",
+  "sourceId": "309",
+  "source": "buluke",
+  "name": "搅拌器",
+  "entry": "UploadFile/1/BooketFiled/2023223527492382098.ldr",
+  "fileCount": 122,
+  "raw": {
+    "bytes": 4101978,
+    "kb": 4005.84,
+    "mb": 3.91
+  },
+  "gzip": {
+    "bytes": 597240,
+    "kb": 583.24,
+    "mb": 0.57
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "04334168fb2b",
+  "verified": true
+}

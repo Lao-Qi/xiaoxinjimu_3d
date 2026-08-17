@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:260",
+  "sourceId": "260",
+  "source": "buluke",
+  "name": "工人",
+  "entry": "UploadFile/1/BooketFiled/20221123225598993045.ldr",
+  "fileCount": 186,
+  "raw": {
+    "bytes": 4126564,
+    "kb": 4029.85,
+    "mb": 3.94
+  },
+  "gzip": {
+    "bytes": 610433,
+    "kb": 596.13,
+    "mb": 0.58
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "04681fcd44df",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:253",
+  "sourceId": "253",
+  "source": "buluke",
+  "name": "竹蜻蜓",
+  "entry": "UploadFile/1/BooketFiled/20221123153933260591.ldr",
+  "fileCount": 56,
+  "raw": {
+    "bytes": 120222,
+    "kb": 117.4,
+    "mb": 0.11
+  },
+  "gzip": {
+    "bytes": 20147,
+    "kb": 19.67,
+    "mb": 0.02
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "ff4d9a3d9593",
+  "verified": true
+}

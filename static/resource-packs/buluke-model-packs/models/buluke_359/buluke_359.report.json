@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:359",
+  "sourceId": "359",
+  "source": "buluke",
+  "name": "龙舟",
+  "entry": "UploadFile/1/BooketFiled/2023223160782335882.ldr",
+  "fileCount": 234,
+  "raw": {
+    "bytes": 4810423,
+    "kb": 4697.68,
+    "mb": 4.59
+  },
+  "gzip": {
+    "bytes": 704860,
+    "kb": 688.34,
+    "mb": 0.67
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "66ac916e3925",
+  "verified": true
+}

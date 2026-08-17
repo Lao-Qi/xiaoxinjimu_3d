@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:333",
+  "sourceId": "333",
+  "source": "buluke",
+  "name": "模型飞机",
+  "entry": "UploadFile/1/BooketFiled/2023265323386840683.ldr",
+  "fileCount": 106,
+  "raw": {
+    "bytes": 196503,
+    "kb": 191.9,
+    "mb": 0.19
+  },
+  "gzip": {
+    "bytes": 33060,
+    "kb": 32.29,
+    "mb": 0.03
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "b379f5bd2e8f",
+  "verified": true
+}

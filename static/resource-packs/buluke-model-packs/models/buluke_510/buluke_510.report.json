@@ -1,0 +1,22 @@
+{
+  "modelId": "buluke:510",
+  "sourceId": "510",
+  "source": "buluke",
+  "name": "云梯",
+  "entry": "UploadFile/1/BooketFiled/2023545635402373496.ldr",
+  "fileCount": 125,
+  "raw": {
+    "bytes": 3754706,
+    "kb": 3666.71,
+    "mb": 3.58
+  },
+  "gzip": {
+    "bytes": 543829,
+    "kb": 531.08,
+    "mb": 0.52
+  },
+  "missingCount": 0,
+  "missingSample": [],
+  "hash": "45ef51c2f500",
+  "verified": true
+}
