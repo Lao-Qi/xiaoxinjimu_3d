@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T18:37:40.033Z",
+  "generatedAt": "2026-08-21T18:29:30.330Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -1766,18 +1766,6 @@
       "hash": "3542fc7fea67",
       "missingCount": 0
     },
-    "buluke:368": {
-      "name": "游泳",
-      "sourceId": "368",
-      "source": "buluke",
-      "pack": "models/buluke_368/buluke_368.586137c7bf0b.pack.gz",
-      "manifest": "models/buluke_368/buluke_368.manifest.json",
-      "fileCount": 166,
-      "rawBytes": 4019483,
-      "gzipBytes": 587400,
-      "hash": "586137c7bf0b",
-      "missingCount": 0
-    },
     "buluke:369": {
       "name": "半框眼镜",
       "sourceId": "369",
@@ -1824,18 +1812,6 @@
       "rawBytes": 308179,
       "gzipBytes": 47381,
       "hash": "d2c075ed6132",
-      "missingCount": 0
-    },
-    "buluke:376": {
-      "name": "大摆锤",
-      "sourceId": "376",
-      "source": "buluke",
-      "pack": "models/buluke_376/buluke_376.525b9602586a.pack.gz",
-      "manifest": "models/buluke_376/buluke_376.manifest.json",
-      "fileCount": 146,
-      "rawBytes": 3739660,
-      "gzipBytes": 547265,
-      "hash": "525b9602586a",
       "missingCount": 0
     },
     "buluke:378": {
@@ -1946,30 +1922,6 @@
       "hash": "4987c292a6f9",
       "missingCount": 0
     },
-    "buluke:389": {
-      "name": "动力摆",
-      "sourceId": "389",
-      "source": "buluke",
-      "pack": "models/buluke_389/buluke_389.3b08698692a3.pack.gz",
-      "manifest": "models/buluke_389/buluke_389.manifest.json",
-      "fileCount": 84,
-      "rawBytes": 224747,
-      "gzipBytes": 35956,
-      "hash": "3b08698692a3",
-      "missingCount": 0
-    },
-    "buluke:390": {
-      "name": "流水线",
-      "sourceId": "390",
-      "source": "buluke",
-      "pack": "models/buluke_390/buluke_390.63b02f370601.pack.gz",
-      "manifest": "models/buluke_390/buluke_390.manifest.json",
-      "fileCount": 166,
-      "rawBytes": 3829376,
-      "gzipBytes": 558472,
-      "hash": "63b02f370601",
-      "missingCount": 0
-    },
     "buluke:391": {
       "name": "青蛙",
       "sourceId": "391",
@@ -1980,54 +1932,6 @@
       "rawBytes": 3647542,
       "gzipBytes": 533066,
       "hash": "f7c1ff053fa2",
-      "missingCount": 0
-    },
-    "buluke:392": {
-      "name": "秋千",
-      "sourceId": "392",
-      "source": "buluke",
-      "pack": "models/buluke_392/buluke_392.32a66780c8ce.pack.gz",
-      "manifest": "models/buluke_392/buluke_392.manifest.json",
-      "fileCount": 91,
-      "rawBytes": 205933,
-      "gzipBytes": 32810,
-      "hash": "32a66780c8ce",
-      "missingCount": 0
-    },
-    "buluke:393": {
-      "name": "赛车",
-      "sourceId": "393",
-      "source": "buluke",
-      "pack": "models/buluke_393/buluke_393.e7d6e8412142.pack.gz",
-      "manifest": "models/buluke_393/buluke_393.manifest.json",
-      "fileCount": 222,
-      "rawBytes": 4096758,
-      "gzipBytes": 599357,
-      "hash": "e7d6e8412142",
-      "missingCount": 0
-    },
-    "buluke:394": {
-      "name": "烧烤架",
-      "sourceId": "394",
-      "source": "buluke",
-      "pack": "models/buluke_394/buluke_394.b9f6e77c1410.pack.gz",
-      "manifest": "models/buluke_394/buluke_394.manifest.json",
-      "fileCount": 113,
-      "rawBytes": 280963,
-      "gzipBytes": 43310,
-      "hash": "b9f6e77c1410",
-      "missingCount": 0
-    },
-    "buluke:395": {
-      "name": "手电钻",
-      "sourceId": "395",
-      "source": "buluke",
-      "pack": "models/buluke_395/buluke_395.10d8d93a932b.pack.gz",
-      "manifest": "models/buluke_395/buluke_395.manifest.json",
-      "fileCount": 151,
-      "rawBytes": 3780085,
-      "gzipBytes": 554228,
-      "hash": "10d8d93a932b",
       "missingCount": 0
     },
     "buluke:396": {
@@ -2042,30 +1946,6 @@
       "hash": "5360bbfaea4c",
       "missingCount": 0
     },
-    "buluke:397": {
-      "name": "旋转陀螺",
-      "sourceId": "397",
-      "source": "buluke",
-      "pack": "models/buluke_397/buluke_397.66ce31f383ff.pack.gz",
-      "manifest": "models/buluke_397/buluke_397.manifest.json",
-      "fileCount": 148,
-      "rawBytes": 3821621,
-      "gzipBytes": 558738,
-      "hash": "66ce31f383ff",
-      "missingCount": 0
-    },
-    "buluke:398": {
-      "name": "摇摆玩具",
-      "sourceId": "398",
-      "source": "buluke",
-      "pack": "models/buluke_398/buluke_398.308f6dd73e5d.pack.gz",
-      "manifest": "models/buluke_398/buluke_398.manifest.json",
-      "fileCount": 121,
-      "rawBytes": 265440,
-      "gzipBytes": 46214,
-      "hash": "308f6dd73e5d",
-      "missingCount": 0
-    },
     "buluke:399": {
       "name": "扁担舞",
       "sourceId": "399",
@@ -2076,18 +1956,6 @@
       "rawBytes": 3893474,
       "gzipBytes": 569591,
       "hash": "bb89159bbd92",
-      "missingCount": 0
-    },
-    "buluke:400": {
-      "name": "变速箱",
-      "sourceId": "400",
-      "source": "buluke",
-      "pack": "models/buluke_400/buluke_400.e5d01e96d16b.pack.gz",
-      "manifest": "models/buluke_400/buluke_400.manifest.json",
-      "fileCount": 85,
-      "rawBytes": 540951,
-      "gzipBytes": 83668,
-      "hash": "e5d01e96d16b",
       "missingCount": 0
     },
     "buluke:401": {
@@ -2124,18 +1992,6 @@
       "rawBytes": 3652978,
       "gzipBytes": 530568,
       "hash": "54e6f8664390",
-      "missingCount": 0
-    },
-    "buluke:404": {
-      "name": "公园跑步机",
-      "sourceId": "404",
-      "source": "buluke",
-      "pack": "models/buluke_404/buluke_404.141a6a9f59e8.pack.gz",
-      "manifest": "models/buluke_404/buluke_404.manifest.json",
-      "fileCount": 121,
-      "rawBytes": 564969,
-      "gzipBytes": 84483,
-      "hash": "141a6a9f59e8",
       "missingCount": 0
     },
     "buluke:405": {
@@ -2258,18 +2114,6 @@
       "hash": "f57b25d5dae3",
       "missingCount": 0
     },
-    "buluke:415": {
-      "name": "简易滑滑梯",
-      "sourceId": "415",
-      "source": "buluke",
-      "pack": "models/buluke_415/buluke_415.223ac5553452.pack.gz",
-      "manifest": "models/buluke_415/buluke_415.manifest.json",
-      "fileCount": 111,
-      "rawBytes": 324256,
-      "gzipBytes": 49260,
-      "hash": "223ac5553452",
-      "missingCount": 0
-    },
     "buluke:416": {
       "name": "简易搅拌器",
       "sourceId": "416",
@@ -2304,18 +2148,6 @@
       "rawBytes": 166935,
       "gzipBytes": 28479,
       "hash": "dd40150eec0b",
-      "missingCount": 0
-    },
-    "buluke:419": {
-      "name": "秋千2",
-      "sourceId": "419",
-      "source": "buluke",
-      "pack": "models/buluke_419/buluke_419.89867af76ed0.pack.gz",
-      "manifest": "models/buluke_419/buluke_419.manifest.json",
-      "fileCount": 106,
-      "rawBytes": 250675,
-      "gzipBytes": 40529,
-      "hash": "89867af76ed0",
       "missingCount": 0
     },
     "buluke:420": {
@@ -2354,18 +2186,6 @@
       "hash": "8ae8d69befd7",
       "missingCount": 0
     },
-    "buluke:423": {
-      "name": "手机支架2",
-      "sourceId": "423",
-      "source": "buluke",
-      "pack": "models/buluke_423/buluke_423.c46c1e58d2ec.pack.gz",
-      "manifest": "models/buluke_423/buluke_423.manifest.json",
-      "fileCount": 95,
-      "rawBytes": 540228,
-      "gzipBytes": 79959,
-      "hash": "c46c1e58d2ec",
-      "missingCount": 0
-    },
     "buluke:424": {
       "name": "甩干机",
       "sourceId": "424",
@@ -2376,18 +2196,6 @@
       "rawBytes": 3702666,
       "gzipBytes": 542018,
       "hash": "1a4030da2822",
-      "missingCount": 0
-    },
-    "buluke:425": {
-      "name": "双体船",
-      "sourceId": "425",
-      "source": "buluke",
-      "pack": "models/buluke_425/buluke_425.15e934c6927c.pack.gz",
-      "manifest": "models/buluke_425/buluke_425.manifest.json",
-      "fileCount": 80,
-      "rawBytes": 159452,
-      "gzipBytes": 28462,
-      "hash": "15e934c6927c",
       "missingCount": 0
     },
     "buluke:426": {
@@ -2436,30 +2244,6 @@
       "rawBytes": 206059,
       "gzipBytes": 32550,
       "hash": "15717158465f",
-      "missingCount": 0
-    },
-    "buluke:430": {
-      "name": "万向轮结构6",
-      "sourceId": "430",
-      "source": "buluke",
-      "pack": "models/buluke_430/buluke_430.f50c6ffd71a6.pack.gz",
-      "manifest": "models/buluke_430/buluke_430.manifest.json",
-      "fileCount": 75,
-      "rawBytes": 231663,
-      "gzipBytes": 37688,
-      "hash": "f50c6ffd71a6",
-      "missingCount": 0
-    },
-    "buluke:431": {
-      "name": "万向轮结构7",
-      "sourceId": "431",
-      "source": "buluke",
-      "pack": "models/buluke_431/buluke_431.cbaf1390dded.pack.gz",
-      "manifest": "models/buluke_431/buluke_431.manifest.json",
-      "fileCount": 66,
-      "rawBytes": 213258,
-      "gzipBytes": 33200,
-      "hash": "cbaf1390dded",
       "missingCount": 0
     },
     "buluke:432": {
@@ -2570,18 +2354,6 @@
       "hash": "086f09be26aa",
       "missingCount": 0
     },
-    "buluke:441": {
-      "name": "小桥",
-      "sourceId": "441",
-      "source": "buluke",
-      "pack": "models/buluke_441/buluke_441.c6add5b1745d.pack.gz",
-      "manifest": "models/buluke_441/buluke_441.manifest.json",
-      "fileCount": 107,
-      "rawBytes": 264137,
-      "gzipBytes": 40972,
-      "hash": "c6add5b1745d",
-      "missingCount": 0
-    },
     "buluke:442": {
       "name": "小舟",
       "sourceId": "442",
@@ -2604,30 +2376,6 @@
       "rawBytes": 120379,
       "gzipBytes": 17619,
       "hash": "f2d2bc904b21",
-      "missingCount": 0
-    },
-    "buluke:444": {
-      "name": "悬崖勒马",
-      "sourceId": "444",
-      "source": "buluke",
-      "pack": "models/buluke_444/buluke_444.9724227bc90b.pack.gz",
-      "manifest": "models/buluke_444/buluke_444.manifest.json",
-      "fileCount": 149,
-      "rawBytes": 3894814,
-      "gzipBytes": 568983,
-      "hash": "9724227bc90b",
-      "missingCount": 0
-    },
-    "buluke:445": {
-      "name": "眼镜2",
-      "sourceId": "445",
-      "source": "buluke",
-      "pack": "models/buluke_445/buluke_445.bc75ffb9d913.pack.gz",
-      "manifest": "models/buluke_445/buluke_445.manifest.json",
-      "fileCount": 88,
-      "rawBytes": 210565,
-      "gzipBytes": 36913,
-      "hash": "bc75ffb9d913",
       "missingCount": 0
     },
     "buluke:446": {
@@ -2664,18 +2412,6 @@
       "rawBytes": 3794327,
       "gzipBytes": 552973,
       "hash": "3817e57aa11d",
-      "missingCount": 0
-    },
-    "buluke:449": {
-      "name": "电三轮",
-      "sourceId": "449",
-      "source": "buluke",
-      "pack": "models/buluke_449/buluke_449.2ee8bfe1d12d.pack.gz",
-      "manifest": "models/buluke_449/buluke_449.manifest.json",
-      "fileCount": 181,
-      "rawBytes": 3974619,
-      "gzipBytes": 579624,
-      "hash": "2ee8bfe1d12d",
       "missingCount": 0
     },
     "buluke:450": {
@@ -2724,18 +2460,6 @@
       "rawBytes": 305267,
       "gzipBytes": 46826,
       "hash": "376da54ca899",
-      "missingCount": 0
-    },
-    "buluke:454": {
-      "name": "烤鱼机",
-      "sourceId": "454",
-      "source": "buluke",
-      "pack": "models/buluke_454/buluke_454.4d4ee9717396.pack.gz",
-      "manifest": "models/buluke_454/buluke_454.manifest.json",
-      "fileCount": 133,
-      "rawBytes": 3760242,
-      "gzipBytes": 548638,
-      "hash": "4d4ee9717396",
       "missingCount": 0
     },
     "buluke:455": {
@@ -2894,18 +2618,6 @@
       "hash": "97e9fc2bc3a2",
       "missingCount": 0
     },
-    "buluke:468": {
-      "name": "双人挤压机",
-      "sourceId": "468",
-      "source": "buluke",
-      "pack": "models/buluke_468/buluke_468.37f6db2e18b0.pack.gz",
-      "manifest": "models/buluke_468/buluke_468.manifest.json",
-      "fileCount": 98,
-      "rawBytes": 603766,
-      "gzipBytes": 89520,
-      "hash": "37f6db2e18b0",
-      "missingCount": 0
-    },
     "buluke:469": {
       "name": "四脚虫",
       "sourceId": "469",
@@ -2918,42 +2630,6 @@
       "hash": "8bc229e639f5",
       "missingCount": 0
     },
-    "buluke:470": {
-      "name": "踏脚器",
-      "sourceId": "470",
-      "source": "buluke",
-      "pack": "models/buluke_470/buluke_470.d810f636b86f.pack.gz",
-      "manifest": "models/buluke_470/buluke_470.manifest.json",
-      "fileCount": 123,
-      "rawBytes": 3729063,
-      "gzipBytes": 542137,
-      "hash": "d810f636b86f",
-      "missingCount": 0
-    },
-    "buluke:471": {
-      "name": "跳舞机器人",
-      "sourceId": "471",
-      "source": "buluke",
-      "pack": "models/buluke_471/buluke_471.3a8386a96f9a.pack.gz",
-      "manifest": "models/buluke_471/buluke_471.manifest.json",
-      "fileCount": 153,
-      "rawBytes": 4144496,
-      "gzipBytes": 603338,
-      "hash": "3a8386a96f9a",
-      "missingCount": 0
-    },
-    "buluke:472": {
-      "name": "往返小车2",
-      "sourceId": "472",
-      "source": "buluke",
-      "pack": "models/buluke_472/buluke_472.6038c2e314ea.pack.gz",
-      "manifest": "models/buluke_472/buluke_472.manifest.json",
-      "fileCount": 163,
-      "rawBytes": 3866612,
-      "gzipBytes": 563695,
-      "hash": "6038c2e314ea",
-      "missingCount": 0
-    },
     "buluke:473": {
       "name": "旋转机器",
       "sourceId": "473",
@@ -2964,30 +2640,6 @@
       "rawBytes": 307883,
       "gzipBytes": 51239,
       "hash": "e9d270002094",
-      "missingCount": 0
-    },
-    "buluke:474": {
-      "name": "摇头风扇",
-      "sourceId": "474",
-      "source": "buluke",
-      "pack": "models/buluke_474/buluke_474.e32ba566cf3c.pack.gz",
-      "manifest": "models/buluke_474/buluke_474.manifest.json",
-      "fileCount": 157,
-      "rawBytes": 3782294,
-      "gzipBytes": 556855,
-      "hash": "e32ba566cf3c",
-      "missingCount": 0
-    },
-    "buluke:475": {
-      "name": "移动城堡",
-      "sourceId": "475",
-      "source": "buluke",
-      "pack": "models/buluke_475/buluke_475.d76c5e06bca8.pack.gz",
-      "manifest": "models/buluke_475/buluke_475.manifest.json",
-      "fileCount": 131,
-      "rawBytes": 3733329,
-      "gzipBytes": 547919,
-      "hash": "d76c5e06bca8",
       "missingCount": 0
     },
     "buluke:476": {
@@ -3098,18 +2750,6 @@
       "hash": "a042bf4a117a",
       "missingCount": 0
     },
-    "buluke:485": {
-      "name": "大炮",
-      "sourceId": "485",
-      "source": "buluke",
-      "pack": "models/buluke_485/buluke_485.32d740c2b80e.pack.gz",
-      "manifest": "models/buluke_485/buluke_485.manifest.json",
-      "fileCount": 145,
-      "rawBytes": 744665,
-      "gzipBytes": 107559,
-      "hash": "32d740c2b80e",
-      "missingCount": 0
-    },
     "buluke:486": {
       "name": "电磁炮车",
       "sourceId": "486",
@@ -3134,18 +2774,6 @@
       "hash": "f7e7df76e611",
       "missingCount": 0
     },
-    "buluke:488": {
-      "name": "电锯",
-      "sourceId": "488",
-      "source": "buluke",
-      "pack": "models/buluke_488/buluke_488.106fa87f9466.pack.gz",
-      "manifest": "models/buluke_488/buluke_488.manifest.json",
-      "fileCount": 173,
-      "rawBytes": 439852,
-      "gzipBytes": 72170,
-      "hash": "106fa87f9466",
-      "missingCount": 0
-    },
     "buluke:489": {
       "name": "高尔夫小人",
       "sourceId": "489",
@@ -3156,42 +2784,6 @@
       "rawBytes": 301210,
       "gzipBytes": 46927,
       "hash": "381092b8bbfa",
-      "missingCount": 0
-    },
-    "buluke:490": {
-      "name": "划船机器人",
-      "sourceId": "490",
-      "source": "buluke",
-      "pack": "models/buluke_490/buluke_490.aa367023dfc5.pack.gz",
-      "manifest": "models/buluke_490/buluke_490.manifest.json",
-      "fileCount": 160,
-      "rawBytes": 395919,
-      "gzipBytes": 62698,
-      "hash": "aa367023dfc5",
-      "missingCount": 0
-    },
-    "buluke:491": {
-      "name": "轮滑转向运动",
-      "sourceId": "491",
-      "source": "buluke",
-      "pack": "models/buluke_491/buluke_491.c9e0d227da98.pack.gz",
-      "manifest": "models/buluke_491/buluke_491.manifest.json",
-      "fileCount": 104,
-      "rawBytes": 362334,
-      "gzipBytes": 56046,
-      "hash": "c9e0d227da98",
-      "missingCount": 0
-    },
-    "buluke:492": {
-      "name": "轮滑转动速度",
-      "sourceId": "492",
-      "source": "buluke",
-      "pack": "models/buluke_492/buluke_492.15d2460f288f.pack.gz",
-      "manifest": "models/buluke_492/buluke_492.manifest.json",
-      "fileCount": 90,
-      "rawBytes": 176975,
-      "gzipBytes": 31476,
-      "hash": "15d2460f288f",
       "missingCount": 0
     },
     "buluke:493": {
@@ -3242,18 +2834,6 @@
       "hash": "9ca766911e90",
       "missingCount": 0
     },
-    "buluke:497": {
-      "name": "举重小人",
-      "sourceId": "497",
-      "source": "buluke",
-      "pack": "models/buluke_497/buluke_497.25a8fad088c7.pack.gz",
-      "manifest": "models/buluke_497/buluke_497.manifest.json",
-      "fileCount": 129,
-      "rawBytes": 347659,
-      "gzipBytes": 53274,
-      "hash": "25a8fad088c7",
-      "missingCount": 0
-    },
     "buluke:498": {
       "name": "迷你小摩托",
       "sourceId": "498",
@@ -3288,18 +2868,6 @@
       "rawBytes": 216382,
       "gzipBytes": 34365,
       "hash": "1ca6564981c9",
-      "missingCount": 0
-    },
-    "buluke:501": {
-      "name": "平衡轮",
-      "sourceId": "501",
-      "source": "buluke",
-      "pack": "models/buluke_501/buluke_501.0eeddfa0ea5b.pack.gz",
-      "manifest": "models/buluke_501/buluke_501.manifest.json",
-      "fileCount": 156,
-      "rawBytes": 4208622,
-      "gzipBytes": 615290,
-      "hash": "0eeddfa0ea5b",
       "missingCount": 0
     },
     "buluke:502": {
@@ -3338,18 +2906,6 @@
       "hash": "1a4af101f27e",
       "missingCount": 0
     },
-    "buluke:505": {
-      "name": "双面锥齿轮转动",
-      "sourceId": "505",
-      "source": "buluke",
-      "pack": "models/buluke_505/buluke_505.e260278c16e1.pack.gz",
-      "manifest": "models/buluke_505/buluke_505.manifest.json",
-      "fileCount": 106,
-      "rawBytes": 567635,
-      "gzipBytes": 89009,
-      "hash": "e260278c16e1",
-      "missingCount": 0
-    },
     "buluke:506": {
       "name": "双翼直升机",
       "sourceId": "506",
@@ -3372,18 +2928,6 @@
       "rawBytes": 3736960,
       "gzipBytes": 546677,
       "hash": "f9606ce32193",
-      "missingCount": 0
-    },
-    "buluke:508": {
-      "name": "旋转烧烤架",
-      "sourceId": "508",
-      "source": "buluke",
-      "pack": "models/buluke_508/buluke_508.19ec71f05bbf.pack.gz",
-      "manifest": "models/buluke_508/buluke_508.manifest.json",
-      "fileCount": 142,
-      "rawBytes": 3762420,
-      "gzipBytes": 551896,
-      "hash": "19ec71f05bbf",
       "missingCount": 0
     },
     "buluke:509": {
@@ -3432,18 +2976,6 @@
       "rawBytes": 3735929,
       "gzipBytes": 547705,
       "hash": "ea60c35975c2",
-      "missingCount": 0
-    },
-    "buluke:513": {
-      "name": "自动避障车",
-      "sourceId": "513",
-      "source": "buluke",
-      "pack": "models/buluke_513/buluke_513.2fe38edbf00c.pack.gz",
-      "manifest": "models/buluke_513/buluke_513.manifest.json",
-      "fileCount": 133,
-      "rawBytes": 316070,
-      "gzipBytes": 51031,
-      "hash": "2fe38edbf00c",
       "missingCount": 0
     },
     "buluke:514": {
@@ -3602,30 +3134,6 @@
       "hash": "0af99efaf18d",
       "missingCount": 0
     },
-    "buluke:104": {
-      "name": "称",
-      "sourceId": "104",
-      "source": "buluke",
-      "pack": "models/buluke_104/buluke_104.54e7fcff58fb.pack.gz",
-      "manifest": "models/buluke_104/buluke_104.manifest.json",
-      "fileCount": 129,
-      "rawBytes": 368666,
-      "gzipBytes": 52013,
-      "hash": "54e7fcff58fb",
-      "missingCount": 0
-    },
-    "buluke:105": {
-      "name": "大摆锤",
-      "sourceId": "105",
-      "source": "buluke",
-      "pack": "models/buluke_105/buluke_105.f1b41db93fad.pack.gz",
-      "manifest": "models/buluke_105/buluke_105.manifest.json",
-      "fileCount": 136,
-      "rawBytes": 339463,
-      "gzipBytes": 52000,
-      "hash": "f1b41db93fad",
-      "missingCount": 0
-    },
     "buluke:106": {
       "name": "钓鱼竿",
       "sourceId": "106",
@@ -3674,18 +3182,6 @@
       "hash": "76400bea5362",
       "missingCount": 0
     },
-    "buluke:110": {
-      "name": "手推车",
-      "sourceId": "110",
-      "source": "buluke",
-      "pack": "models/buluke_110/buluke_110.804eeb4b0b01.pack.gz",
-      "manifest": "models/buluke_110/buluke_110.manifest.json",
-      "fileCount": 164,
-      "rawBytes": 458993,
-      "gzipBytes": 69787,
-      "hash": "804eeb4b0b01",
-      "missingCount": 0
-    },
     "buluke:111": {
       "name": "指向小车",
       "sourceId": "111",
@@ -3720,18 +3216,6 @@
       "rawBytes": 1091631,
       "gzipBytes": 166498,
       "hash": "292c88981040",
-      "missingCount": 0
-    },
-    "buluke:520": {
-      "name": "摩天轮1",
-      "sourceId": "520",
-      "source": "buluke",
-      "pack": "models/buluke_520/buluke_520.e15d2fa3d13b.pack.gz",
-      "manifest": "models/buluke_520/buluke_520.manifest.json",
-      "fileCount": 192,
-      "rawBytes": 716303,
-      "gzipBytes": 114046,
-      "hash": "e15d2fa3d13b",
       "missingCount": 0
     },
     "buluke:521": {
