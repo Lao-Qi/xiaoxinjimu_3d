@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T18:29:30.330Z",
+  "generatedAt": "2026-08-23T10:45:29.656Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -3192,18 +3192,6 @@
       "rawBytes": 286278,
       "gzipBytes": 44988,
       "hash": "f9be905429b9",
-      "missingCount": 0
-    },
-    "buluke:518": {
-      "name": "兵兵球发球机",
-      "sourceId": "518",
-      "source": "buluke",
-      "pack": "models/buluke_518/buluke_518.6e01159d4b93.pack.gz",
-      "manifest": "models/buluke_518/buluke_518.manifest.json",
-      "fileCount": 207,
-      "rawBytes": 890662,
-      "gzipBytes": 133347,
-      "hash": "6e01159d4b93",
       "missingCount": 0
     },
     "buluke:519": {

@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T18:29:30.330Z",
-  "models": 270,
+  "generatedAt": "2026-08-23T10:45:29.656Z",
+  "models": 269,
   "skipped": 0,
-  "totalRawBytes": 441909030,
-  "totalGzipBytes": 65229033,
-  "averageRawBytes": 1636700,
-  "averageGzipBytes": 241589,
+  "totalRawBytes": 441018368,
+  "totalGzipBytes": 65095686,
+  "averageRawBytes": 1639473,
+  "averageGzipBytes": 241991,
   "gzipSize": {
-    "bytes": 65229033,
-    "kb": 63700.23,
-    "mb": 62.21
+    "bytes": 65095686,
+    "kb": 63570.01,
+    "mb": 62.08
   },
   "rawSize": {
-    "bytes": 441909030,
-    "kb": 431551.79,
-    "mb": 421.44
+    "bytes": 441018368,
+    "kb": 430682,
+    "mb": 420.59
   },
   "outputs": [
     {
@@ -6401,30 +6401,6 @@
       "verified": true,
       "manifest": "models/buluke_111/buluke_111.manifest.json",
       "pack": "models/buluke_111/buluke_111.f9be905429b9.pack.gz"
-    },
-    {
-      "modelId": "buluke:518",
-      "sourceId": "518",
-      "source": "buluke",
-      "name": "兵兵球发球机",
-      "entry": "UploadFile/1/BooketFiled/202473124242536193.ldr",
-      "fileCount": 207,
-      "raw": {
-        "bytes": 890662,
-        "kb": 869.79,
-        "mb": 0.85
-      },
-      "gzip": {
-        "bytes": 133347,
-        "kb": 130.22,
-        "mb": 0.13
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "6e01159d4b93",
-      "verified": true,
-      "manifest": "models/buluke_518/buluke_518.manifest.json",
-      "pack": "models/buluke_518/buluke_518.6e01159d4b93.pack.gz"
     },
     {
       "modelId": "buluke:519",
