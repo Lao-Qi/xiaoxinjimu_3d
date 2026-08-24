@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T10:45:29.656Z",
+  "generatedAt": "2026-08-24T15:04:34.988Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -1080,18 +1080,6 @@
       "rawBytes": 4129989,
       "gzipBytes": 604562,
       "hash": "ce390d099159",
-      "missingCount": 0
-    },
-    "buluke:311": {
-      "name": "四驱车",
-      "sourceId": "311",
-      "source": "buluke",
-      "pack": "models/buluke_311/buluke_311.f880ed632355.pack.gz",
-      "manifest": "models/buluke_311/buluke_311.manifest.json",
-      "fileCount": 201,
-      "rawBytes": 4304530,
-      "gzipBytes": 630484,
-      "hash": "f880ed632355",
       "missingCount": 0
     },
     "buluke:312": {
@@ -3096,18 +3084,6 @@
       "rawBytes": 4215069,
       "gzipBytes": 617287,
       "hash": "ddedb73fca68",
-      "missingCount": 0
-    },
-    "buluke:101": {
-      "name": "四驱车",
-      "sourceId": "101",
-      "source": "buluke",
-      "pack": "models/buluke_101/buluke_101.a64e08a0e2f5.pack.gz",
-      "manifest": "models/buluke_101/buluke_101.manifest.json",
-      "fileCount": 201,
-      "rawBytes": 4304530,
-      "gzipBytes": 630483,
-      "hash": "a64e08a0e2f5",
       "missingCount": 0
     },
     "buluke:102": {

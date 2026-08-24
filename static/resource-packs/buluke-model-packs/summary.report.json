@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T10:45:29.656Z",
-  "models": 269,
+  "generatedAt": "2026-08-24T15:04:34.988Z",
+  "models": 267,
   "skipped": 0,
-  "totalRawBytes": 441018368,
-  "totalGzipBytes": 65095686,
-  "averageRawBytes": 1639473,
-  "averageGzipBytes": 241991,
+  "totalRawBytes": 432409308,
+  "totalGzipBytes": 63834719,
+  "averageRawBytes": 1619511,
+  "averageGzipBytes": 239081,
   "gzipSize": {
-    "bytes": 65095686,
-    "kb": 63570.01,
-    "mb": 62.08
+    "bytes": 63834719,
+    "kb": 62338.59,
+    "mb": 60.88
   },
   "rawSize": {
-    "bytes": 441018368,
-    "kb": 430682,
-    "mb": 420.59
+    "bytes": 432409308,
+    "kb": 422274.71,
+    "mb": 412.38
   },
   "outputs": [
     {
@@ -2177,30 +2177,6 @@
       "verified": true,
       "manifest": "models/buluke_310/buluke_310.manifest.json",
       "pack": "models/buluke_310/buluke_310.ce390d099159.pack.gz"
-    },
-    {
-      "modelId": "buluke:311",
-      "sourceId": "311",
-      "source": "buluke",
-      "name": "四驱车",
-      "entry": "UploadFile/1/BooketFiled/2023993058845559272.ldr",
-      "fileCount": 201,
-      "raw": {
-        "bytes": 4304530,
-        "kb": 4203.64,
-        "mb": 4.11
-      },
-      "gzip": {
-        "bytes": 630484,
-        "kb": 615.71,
-        "mb": 0.6
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "f880ed632355",
-      "verified": true,
-      "manifest": "models/buluke_311/buluke_311.manifest.json",
-      "pack": "models/buluke_311/buluke_311.f880ed632355.pack.gz"
     },
     {
       "modelId": "buluke:312",
@@ -6209,30 +6185,6 @@
       "verified": true,
       "manifest": "models/buluke_100/buluke_100.manifest.json",
       "pack": "models/buluke_100/buluke_100.ddedb73fca68.pack.gz"
-    },
-    {
-      "modelId": "buluke:101",
-      "sourceId": "101",
-      "source": "buluke",
-      "name": "四驱车",
-      "entry": "UploadFile/1/BooketFiled/2023992841305590493.ldr",
-      "fileCount": 201,
-      "raw": {
-        "bytes": 4304530,
-        "kb": 4203.64,
-        "mb": 4.11
-      },
-      "gzip": {
-        "bytes": 630483,
-        "kb": 615.71,
-        "mb": 0.6
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "a64e08a0e2f5",
-      "verified": true,
-      "manifest": "models/buluke_101/buluke_101.manifest.json",
-      "pack": "models/buluke_101/buluke_101.a64e08a0e2f5.pack.gz"
     },
     {
       "modelId": "buluke:102",
