@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T15:04:34.988Z",
-  "models": 267,
+  "generatedAt": "2026-08-26T14:04:30.496Z",
+  "models": 266,
   "skipped": 0,
-  "totalRawBytes": 432409308,
-  "totalGzipBytes": 63834719,
-  "averageRawBytes": 1619511,
-  "averageGzipBytes": 239081,
+  "totalRawBytes": 428493502,
+  "totalGzipBytes": 63259735,
+  "averageRawBytes": 1610878,
+  "averageGzipBytes": 237819,
   "gzipSize": {
-    "bytes": 63834719,
-    "kb": 62338.59,
-    "mb": 60.88
+    "bytes": 63259735,
+    "kb": 61777.08,
+    "mb": 60.33
   },
   "rawSize": {
-    "bytes": 432409308,
-    "kb": 422274.71,
-    "mb": 412.38
+    "bytes": 428493502,
+    "kb": 418450.69,
+    "mb": 408.64
   },
   "outputs": [
     {
@@ -4841,30 +4841,6 @@
       "verified": true,
       "manifest": "models/buluke_450/buluke_450.manifest.json",
       "pack": "models/buluke_450/buluke_450.4c9b483e533c.pack.gz"
-    },
-    {
-      "modelId": "buluke:451",
-      "sourceId": "451",
-      "source": "buluke",
-      "name": "割草机",
-      "entry": "UploadFile/1/BooketFiled/20234111115581502863.ldr",
-      "fileCount": 173,
-      "raw": {
-        "bytes": 3915806,
-        "kb": 3824.03,
-        "mb": 3.73
-      },
-      "gzip": {
-        "bytes": 574984,
-        "kb": 561.51,
-        "mb": 0.55
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "7172b7c9983e",
-      "verified": true,
-      "manifest": "models/buluke_451/buluke_451.manifest.json",
-      "pack": "models/buluke_451/buluke_451.7172b7c9983e.pack.gz"
     },
     {
       "modelId": "buluke:452",

@@ -1318,12 +1318,6 @@
 /static/resource-packs/buluke-model-packs/models/buluke_450/buluke_450.manifest.json
   Cache-Control: public, max-age=31536000, immutable
 
-/static/resource-packs/buluke-model-packs/models/buluke_451/buluke_451.7172b7c9983e.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_451/buluke_451.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
 /static/resource-packs/buluke-model-packs/models/buluke_452/buluke_452.7f9a8304b41f.pack.gz
   Cache-Control: public, max-age=31536000, immutable
 
