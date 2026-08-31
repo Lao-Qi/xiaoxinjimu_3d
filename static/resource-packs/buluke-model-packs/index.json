@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T15:35:31.010Z",
+  "generatedAt": "2026-08-31T08:23:30.199Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -1562,18 +1562,6 @@
       "hash": "6aa08cf2b414",
       "missingCount": 0
     },
-    "buluke:349": {
-      "name": "大巴车",
-      "sourceId": "349",
-      "source": "buluke",
-      "pack": "models/buluke_349/buluke_349.226bed02ba00.pack.gz",
-      "manifest": "models/buluke_349/buluke_349.manifest.json",
-      "fileCount": 172,
-      "rawBytes": 3838634,
-      "gzipBytes": 560510,
-      "hash": "226bed02ba00",
-      "missingCount": 0
-    },
     "buluke:350": {
       "name": "吊车",
       "sourceId": "350",
@@ -1622,18 +1610,6 @@
       "hash": "0f2ffd87d1eb",
       "missingCount": 0
     },
-    "buluke:354": {
-      "name": "负重训练",
-      "sourceId": "354",
-      "source": "buluke",
-      "pack": "models/buluke_354/buluke_354.4846389b071e.pack.gz",
-      "manifest": "models/buluke_354/buluke_354.manifest.json",
-      "fileCount": 163,
-      "rawBytes": 4435267,
-      "gzipBytes": 647217,
-      "hash": "4846389b071e",
-      "missingCount": 0
-    },
     "buluke:355": {
       "name": "荷兰风车",
       "sourceId": "355",
@@ -1670,54 +1646,6 @@
       "hash": "f305c3183e99",
       "missingCount": 0
     },
-    "buluke:358": {
-      "name": "举重机器人",
-      "sourceId": "358",
-      "source": "buluke",
-      "pack": "models/buluke_358/buluke_358.9f1751827191.pack.gz",
-      "manifest": "models/buluke_358/buluke_358.manifest.json",
-      "fileCount": 171,
-      "rawBytes": 4038501,
-      "gzipBytes": 594609,
-      "hash": "9f1751827191",
-      "missingCount": 0
-    },
-    "buluke:359": {
-      "name": "龙舟",
-      "sourceId": "359",
-      "source": "buluke",
-      "pack": "models/buluke_359/buluke_359.66ac916e3925.pack.gz",
-      "manifest": "models/buluke_359/buluke_359.manifest.json",
-      "fileCount": 234,
-      "rawBytes": 4810423,
-      "gzipBytes": 704860,
-      "hash": "66ac916e3925",
-      "missingCount": 0
-    },
-    "buluke:360": {
-      "name": "摩托",
-      "sourceId": "360",
-      "source": "buluke",
-      "pack": "models/buluke_360/buluke_360.b8fd60d53c15.pack.gz",
-      "manifest": "models/buluke_360/buluke_360.manifest.json",
-      "fileCount": 169,
-      "rawBytes": 4327020,
-      "gzipBytes": 634432,
-      "hash": "b8fd60d53c15",
-      "missingCount": 0
-    },
-    "buluke:361": {
-      "name": "螃蟹",
-      "sourceId": "361",
-      "source": "buluke",
-      "pack": "models/buluke_361/buluke_361.41c3f1e0720b.pack.gz",
-      "manifest": "models/buluke_361/buluke_361.manifest.json",
-      "fileCount": 169,
-      "rawBytes": 4471853,
-      "gzipBytes": 655287,
-      "hash": "41c3f1e0720b",
-      "missingCount": 0
-    },
     "buluke:362": {
       "name": "手杆称",
       "sourceId": "362",
@@ -1728,30 +1656,6 @@
       "rawBytes": 297392,
       "gzipBytes": 40432,
       "hash": "641b1f3f7677",
-      "missingCount": 0
-    },
-    "buluke:366": {
-      "name": "仰卧起坐",
-      "sourceId": "366",
-      "source": "buluke",
-      "pack": "models/buluke_366/buluke_366.c03843f437f4.pack.gz",
-      "manifest": "models/buluke_366/buluke_366.manifest.json",
-      "fileCount": 181,
-      "rawBytes": 4015850,
-      "gzipBytes": 590439,
-      "hash": "c03843f437f4",
-      "missingCount": 0
-    },
-    "buluke:367": {
-      "name": "引体向上",
-      "sourceId": "367",
-      "source": "buluke",
-      "pack": "models/buluke_367/buluke_367.3542fc7fea67.pack.gz",
-      "manifest": "models/buluke_367/buluke_367.manifest.json",
-      "fileCount": 167,
-      "rawBytes": 4189229,
-      "gzipBytes": 620266,
-      "hash": "3542fc7fea67",
       "missingCount": 0
     },
     "buluke:369": {
@@ -1908,18 +1812,6 @@
       "rawBytes": 184595,
       "gzipBytes": 29761,
       "hash": "4987c292a6f9",
-      "missingCount": 0
-    },
-    "buluke:391": {
-      "name": "青蛙",
-      "sourceId": "391",
-      "source": "buluke",
-      "pack": "models/buluke_391/buluke_391.f7c1ff053fa2.pack.gz",
-      "manifest": "models/buluke_391/buluke_391.manifest.json",
-      "fileCount": 119,
-      "rawBytes": 3647542,
-      "gzipBytes": 533066,
-      "hash": "f7c1ff053fa2",
       "missingCount": 0
     },
     "buluke:396": {
@@ -2904,18 +2796,6 @@
       "rawBytes": 3736960,
       "gzipBytes": 546677,
       "hash": "f9606ce32193",
-      "missingCount": 0
-    },
-    "buluke:509": {
-      "name": "仰卧起坐",
-      "sourceId": "509",
-      "source": "buluke",
-      "pack": "models/buluke_509/buluke_509.8df2349c5c33.pack.gz",
-      "manifest": "models/buluke_509/buluke_509.manifest.json",
-      "fileCount": 168,
-      "rawBytes": 3800068,
-      "gzipBytes": 558021,
-      "hash": "8df2349c5c33",
       "missingCount": 0
     },
     "buluke:510": {

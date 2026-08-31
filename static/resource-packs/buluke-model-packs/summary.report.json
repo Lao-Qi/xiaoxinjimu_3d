@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T15:35:31.010Z",
-  "models": 266,
+  "generatedAt": "2026-08-31T08:23:30.199Z",
+  "models": 256,
   "skipped": 0,
-  "totalRawBytes": 428493502,
-  "totalGzipBytes": 63259735,
-  "averageRawBytes": 1610878,
-  "averageGzipBytes": 237819,
+  "totalRawBytes": 386919115,
+  "totalGzipBytes": 57161028,
+  "averageRawBytes": 1511403,
+  "averageGzipBytes": 223285,
   "gzipSize": {
-    "bytes": 63259735,
-    "kb": 61777.08,
-    "mb": 60.33
+    "bytes": 57161028,
+    "kb": 55821.32,
+    "mb": 54.51
   },
   "rawSize": {
-    "bytes": 428493502,
-    "kb": 418450.69,
-    "mb": 408.64
+    "bytes": 386919115,
+    "kb": 377850.7,
+    "mb": 368.99
   },
   "outputs": [
     {
@@ -3139,30 +3139,6 @@
       "pack": "models/buluke_241/buluke_241.6aa08cf2b414.pack.gz"
     },
     {
-      "modelId": "buluke:349",
-      "sourceId": "349",
-      "source": "buluke",
-      "name": "大巴车",
-      "entry": "UploadFile/1/BooketFiled/202346103620222642.ldr",
-      "fileCount": 172,
-      "raw": {
-        "bytes": 3838634,
-        "kb": 3748.67,
-        "mb": 3.66
-      },
-      "gzip": {
-        "bytes": 560510,
-        "kb": 547.37,
-        "mb": 0.53
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "226bed02ba00",
-      "verified": true,
-      "manifest": "models/buluke_349/buluke_349.manifest.json",
-      "pack": "models/buluke_349/buluke_349.226bed02ba00.pack.gz"
-    },
-    {
       "modelId": "buluke:350",
       "sourceId": "350",
       "source": "buluke",
@@ -3259,30 +3235,6 @@
       "pack": "models/buluke_353/buluke_353.0f2ffd87d1eb.pack.gz"
     },
     {
-      "modelId": "buluke:354",
-      "sourceId": "354",
-      "source": "buluke",
-      "name": "负重训练",
-      "entry": "UploadFile/1/BooketFiled/2023471444648694449.ldr",
-      "fileCount": 163,
-      "raw": {
-        "bytes": 4435267,
-        "kb": 4331.32,
-        "mb": 4.23
-      },
-      "gzip": {
-        "bytes": 647217,
-        "kb": 632.05,
-        "mb": 0.62
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "4846389b071e",
-      "verified": true,
-      "manifest": "models/buluke_354/buluke_354.manifest.json",
-      "pack": "models/buluke_354/buluke_354.4846389b071e.pack.gz"
-    },
-    {
       "modelId": "buluke:355",
       "sourceId": "355",
       "source": "buluke",
@@ -3355,102 +3307,6 @@
       "pack": "models/buluke_357/buluke_357.f305c3183e99.pack.gz"
     },
     {
-      "modelId": "buluke:358",
-      "sourceId": "358",
-      "source": "buluke",
-      "name": "举重机器人",
-      "entry": "UploadFile/1/BooketFiled/20232231148620368579.ldr",
-      "fileCount": 171,
-      "raw": {
-        "bytes": 4038501,
-        "kb": 3943.85,
-        "mb": 3.85
-      },
-      "gzip": {
-        "bytes": 594609,
-        "kb": 580.67,
-        "mb": 0.57
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "9f1751827191",
-      "verified": true,
-      "manifest": "models/buluke_358/buluke_358.manifest.json",
-      "pack": "models/buluke_358/buluke_358.9f1751827191.pack.gz"
-    },
-    {
-      "modelId": "buluke:359",
-      "sourceId": "359",
-      "source": "buluke",
-      "name": "龙舟",
-      "entry": "UploadFile/1/BooketFiled/2023223160782335882.ldr",
-      "fileCount": 234,
-      "raw": {
-        "bytes": 4810423,
-        "kb": 4697.68,
-        "mb": 4.59
-      },
-      "gzip": {
-        "bytes": 704860,
-        "kb": 688.34,
-        "mb": 0.67
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "66ac916e3925",
-      "verified": true,
-      "manifest": "models/buluke_359/buluke_359.manifest.json",
-      "pack": "models/buluke_359/buluke_359.66ac916e3925.pack.gz"
-    },
-    {
-      "modelId": "buluke:360",
-      "sourceId": "360",
-      "source": "buluke",
-      "name": "摩托",
-      "entry": "UploadFile/1/BooketFiled/20232231627688897928.ldr",
-      "fileCount": 169,
-      "raw": {
-        "bytes": 4327020,
-        "kb": 4225.61,
-        "mb": 4.13
-      },
-      "gzip": {
-        "bytes": 634432,
-        "kb": 619.56,
-        "mb": 0.61
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "b8fd60d53c15",
-      "verified": true,
-      "manifest": "models/buluke_360/buluke_360.manifest.json",
-      "pack": "models/buluke_360/buluke_360.b8fd60d53c15.pack.gz"
-    },
-    {
-      "modelId": "buluke:361",
-      "sourceId": "361",
-      "source": "buluke",
-      "name": "螃蟹",
-      "entry": "UploadFile/1/BooketFiled/20232231753667755.ldr",
-      "fileCount": 169,
-      "raw": {
-        "bytes": 4471853,
-        "kb": 4367.04,
-        "mb": 4.26
-      },
-      "gzip": {
-        "bytes": 655287,
-        "kb": 639.93,
-        "mb": 0.62
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "41c3f1e0720b",
-      "verified": true,
-      "manifest": "models/buluke_361/buluke_361.manifest.json",
-      "pack": "models/buluke_361/buluke_361.41c3f1e0720b.pack.gz"
-    },
-    {
       "modelId": "buluke:362",
       "sourceId": "362",
       "source": "buluke",
@@ -3473,54 +3329,6 @@
       "verified": true,
       "manifest": "models/buluke_362/buluke_362.manifest.json",
       "pack": "models/buluke_362/buluke_362.641b1f3f7677.pack.gz"
-    },
-    {
-      "modelId": "buluke:366",
-      "sourceId": "366",
-      "source": "buluke",
-      "name": "仰卧起坐",
-      "entry": "UploadFile/1/BooketFiled/2023223211120250452.ldr",
-      "fileCount": 181,
-      "raw": {
-        "bytes": 4015850,
-        "kb": 3921.73,
-        "mb": 3.83
-      },
-      "gzip": {
-        "bytes": 590439,
-        "kb": 576.6,
-        "mb": 0.56
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "c03843f437f4",
-      "verified": true,
-      "manifest": "models/buluke_366/buluke_366.manifest.json",
-      "pack": "models/buluke_366/buluke_366.c03843f437f4.pack.gz"
-    },
-    {
-      "modelId": "buluke:367",
-      "sourceId": "367",
-      "source": "buluke",
-      "name": "引体向上",
-      "entry": "UploadFile/1/BooketFiled/20232232141838708366.ldr",
-      "fileCount": 167,
-      "raw": {
-        "bytes": 4189229,
-        "kb": 4091.04,
-        "mb": 4
-      },
-      "gzip": {
-        "bytes": 620266,
-        "kb": 605.73,
-        "mb": 0.59
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "3542fc7fea67",
-      "verified": true,
-      "manifest": "models/buluke_367/buluke_367.manifest.json",
-      "pack": "models/buluke_367/buluke_367.3542fc7fea67.pack.gz"
     },
     {
       "modelId": "buluke:369",
@@ -3833,30 +3641,6 @@
       "verified": true,
       "manifest": "models/buluke_388/buluke_388.manifest.json",
       "pack": "models/buluke_388/buluke_388.4987c292a6f9.pack.gz"
-    },
-    {
-      "modelId": "buluke:391",
-      "sourceId": "391",
-      "source": "buluke",
-      "name": "青蛙",
-      "entry": "UploadFile/1/BooketFiled/20233134217325555705.ldr",
-      "fileCount": 119,
-      "raw": {
-        "bytes": 3647542,
-        "kb": 3562.05,
-        "mb": 3.48
-      },
-      "gzip": {
-        "bytes": 533066,
-        "kb": 520.57,
-        "mb": 0.51
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "f7c1ff053fa2",
-      "verified": true,
-      "manifest": "models/buluke_391/buluke_391.manifest.json",
-      "pack": "models/buluke_391/buluke_391.f7c1ff053fa2.pack.gz"
     },
     {
       "modelId": "buluke:396",
@@ -5825,30 +5609,6 @@
       "verified": true,
       "manifest": "models/buluke_507/buluke_507.manifest.json",
       "pack": "models/buluke_507/buluke_507.f9606ce32193.pack.gz"
-    },
-    {
-      "modelId": "buluke:509",
-      "sourceId": "509",
-      "source": "buluke",
-      "name": "仰卧起坐",
-      "entry": "UploadFile/1/BooketFiled/202354567224584140.ldr",
-      "fileCount": 168,
-      "raw": {
-        "bytes": 3800068,
-        "kb": 3711,
-        "mb": 3.62
-      },
-      "gzip": {
-        "bytes": 558021,
-        "kb": 544.94,
-        "mb": 0.53
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "8df2349c5c33",
-      "verified": true,
-      "manifest": "models/buluke_509/buluke_509.manifest.json",
-      "pack": "models/buluke_509/buluke_509.8df2349c5c33.pack.gz"
     },
     {
       "modelId": "buluke:510",
