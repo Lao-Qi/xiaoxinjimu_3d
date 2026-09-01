@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-31T08:23:30.199Z",
-  "models": 256,
+  "generatedAt": "2026-09-01T09:55:30.366Z",
+  "models": 255,
   "skipped": 0,
-  "totalRawBytes": 386919115,
-  "totalGzipBytes": 57161028,
-  "averageRawBytes": 1511403,
-  "averageGzipBytes": 223285,
+  "totalRawBytes": 386683650,
+  "totalGzipBytes": 57122998,
+  "averageRawBytes": 1516406,
+  "averageGzipBytes": 224012,
   "gzipSize": {
-    "bytes": 57161028,
-    "kb": 55821.32,
-    "mb": 54.51
+    "bytes": 57122998,
+    "kb": 55784.18,
+    "mb": 54.48
   },
   "rawSize": {
-    "bytes": 386919115,
-    "kb": 377850.7,
-    "mb": 368.99
+    "bytes": 386683650,
+    "kb": 377620.75,
+    "mb": 368.77
   },
   "outputs": [
     {
@@ -4961,30 +4961,6 @@
       "verified": true,
       "manifest": "models/buluke_466/buluke_466.manifest.json",
       "pack": "models/buluke_466/buluke_466.4b90e7745a70.pack.gz"
-    },
-    {
-      "modelId": "buluke:467",
-      "sourceId": "467",
-      "source": "buluke",
-      "name": "手动除草机",
-      "entry": "UploadFile/1/BooketFiled/20234112420189536932.ldr",
-      "fileCount": 110,
-      "raw": {
-        "bytes": 235465,
-        "kb": 229.95,
-        "mb": 0.22
-      },
-      "gzip": {
-        "bytes": 38030,
-        "kb": 37.14,
-        "mb": 0.04
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "97e9fc2bc3a2",
-      "verified": true,
-      "manifest": "models/buluke_467/buluke_467.manifest.json",
-      "pack": "models/buluke_467/buluke_467.97e9fc2bc3a2.pack.gz"
     },
     {
       "modelId": "buluke:469",

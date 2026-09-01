@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-31T08:23:30.199Z",
+  "generatedAt": "2026-09-01T09:55:30.366Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -2472,18 +2472,6 @@
       "rawBytes": 3874012,
       "gzipBytes": 566020,
       "hash": "4b90e7745a70",
-      "missingCount": 0
-    },
-    "buluke:467": {
-      "name": "手动除草机",
-      "sourceId": "467",
-      "source": "buluke",
-      "pack": "models/buluke_467/buluke_467.97e9fc2bc3a2.pack.gz",
-      "manifest": "models/buluke_467/buluke_467.manifest.json",
-      "fileCount": 110,
-      "rawBytes": 235465,
-      "gzipBytes": 38030,
-      "hash": "97e9fc2bc3a2",
       "missingCount": 0
     },
     "buluke:469": {

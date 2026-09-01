@@ -4,7 +4,7 @@ Encrypted JSON files: 423
 New encrypted JSON files: 2
 Reused encrypted JSON files: 421
 Optimized images: 1170
-Buluke model packs: 256
+Buluke model packs: 255
 Rewritten image files: 384
 Obfuscated app scripts: 6
 Synced page titles: 14/16
