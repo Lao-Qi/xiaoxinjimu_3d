@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-01T09:55:30.366Z",
-  "models": 255,
+  "generatedAt": "2026-09-17T15:24:57.038Z",
+  "models": 248,
   "skipped": 0,
-  "totalRawBytes": 386683650,
-  "totalGzipBytes": 57122998,
-  "averageRawBytes": 1516406,
-  "averageGzipBytes": 224012,
+  "totalRawBytes": 356909127,
+  "totalGzipBytes": 52757768,
+  "averageRawBytes": 1439150,
+  "averageGzipBytes": 212733,
   "gzipSize": {
-    "bytes": 57122998,
-    "kb": 55784.18,
-    "mb": 54.48
+    "bytes": 52757768,
+    "kb": 51521.26,
+    "mb": 50.31
   },
   "rawSize": {
-    "bytes": 386683650,
-    "kb": 377620.75,
-    "mb": 368.77
+    "bytes": 356909127,
+    "kb": 348544.07,
+    "mb": 340.38
   },
   "outputs": [
     {
@@ -1579,30 +1579,6 @@
       "pack": "models/buluke_284/buluke_284.eb156e6167ee.pack.gz"
     },
     {
-      "modelId": "buluke:285",
-      "sourceId": "285",
-      "source": "buluke",
-      "name": "摇头电扇",
-      "entry": "UploadFile/1/BooketFiled/20221224716349106419.ldr",
-      "fileCount": 165,
-      "raw": {
-        "bytes": 3810668,
-        "kb": 3721.36,
-        "mb": 3.63
-      },
-      "gzip": {
-        "bytes": 562982,
-        "kb": 549.79,
-        "mb": 0.54
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "67076daf6cd7",
-      "verified": true,
-      "manifest": "models/buluke_285/buluke_285.manifest.json",
-      "pack": "models/buluke_285/buluke_285.67076daf6cd7.pack.gz"
-    },
-    {
       "modelId": "buluke:286",
       "sourceId": "286",
       "source": "buluke",
@@ -3139,30 +3115,6 @@
       "pack": "models/buluke_241/buluke_241.6aa08cf2b414.pack.gz"
     },
     {
-      "modelId": "buluke:350",
-      "sourceId": "350",
-      "source": "buluke",
-      "name": "吊车",
-      "entry": "UploadFile/1/BooketFiled/2023223223273540096.ldr",
-      "fileCount": 248,
-      "raw": {
-        "bytes": 4745464,
-        "kb": 4634.24,
-        "mb": 4.53
-      },
-      "gzip": {
-        "bytes": 697534,
-        "kb": 681.19,
-        "mb": 0.67
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "d4136d453df7",
-      "verified": true,
-      "manifest": "models/buluke_350/buluke_350.manifest.json",
-      "pack": "models/buluke_350/buluke_350.d4136d453df7.pack.gz"
-    },
-    {
       "modelId": "buluke:351",
       "sourceId": "351",
       "source": "buluke",
@@ -3187,30 +3139,6 @@
       "pack": "models/buluke_351/buluke_351.10318aa9cb36.pack.gz"
     },
     {
-      "modelId": "buluke:352",
-      "sourceId": "352",
-      "source": "buluke",
-      "name": "飞龙",
-      "entry": "UploadFile/1/BooketFiled/20232232326143795569.ldr",
-      "fileCount": 183,
-      "raw": {
-        "bytes": 4334255,
-        "kb": 4232.67,
-        "mb": 4.13
-      },
-      "gzip": {
-        "bytes": 637479,
-        "kb": 622.54,
-        "mb": 0.61
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "a8f9b18fac1b",
-      "verified": true,
-      "manifest": "models/buluke_352/buluke_352.manifest.json",
-      "pack": "models/buluke_352/buluke_352.a8f9b18fac1b.pack.gz"
-    },
-    {
       "modelId": "buluke:353",
       "sourceId": "353",
       "source": "buluke",
@@ -3233,30 +3161,6 @@
       "verified": true,
       "manifest": "models/buluke_353/buluke_353.manifest.json",
       "pack": "models/buluke_353/buluke_353.0f2ffd87d1eb.pack.gz"
-    },
-    {
-      "modelId": "buluke:355",
-      "sourceId": "355",
-      "source": "buluke",
-      "name": "荷兰风车",
-      "entry": "UploadFile/1/BooketFiled/20232232559822814233.ldr",
-      "fileCount": 195,
-      "raw": {
-        "bytes": 4521111,
-        "kb": 4415.15,
-        "mb": 4.31
-      },
-      "gzip": {
-        "bytes": 659446,
-        "kb": 643.99,
-        "mb": 0.63
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "d6a6d6346282",
-      "verified": true,
-      "manifest": "models/buluke_355/buluke_355.manifest.json",
-      "pack": "models/buluke_355/buluke_355.d6a6d6346282.pack.gz"
     },
     {
       "modelId": "buluke:356",
@@ -3641,54 +3545,6 @@
       "verified": true,
       "manifest": "models/buluke_388/buluke_388.manifest.json",
       "pack": "models/buluke_388/buluke_388.4987c292a6f9.pack.gz"
-    },
-    {
-      "modelId": "buluke:396",
-      "sourceId": "396",
-      "source": "buluke",
-      "name": "小狗",
-      "entry": "UploadFile/1/BooketFiled/20233134426764274742.ldr",
-      "fileCount": 228,
-      "raw": {
-        "bytes": 4427799,
-        "kb": 4324.02,
-        "mb": 4.22
-      },
-      "gzip": {
-        "bytes": 645317,
-        "kb": 630.19,
-        "mb": 0.62
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "5360bbfaea4c",
-      "verified": true,
-      "manifest": "models/buluke_396/buluke_396.manifest.json",
-      "pack": "models/buluke_396/buluke_396.5360bbfaea4c.pack.gz"
-    },
-    {
-      "modelId": "buluke:399",
-      "sourceId": "399",
-      "source": "buluke",
-      "name": "扁担舞",
-      "entry": "UploadFile/1/BooketFiled/2023313821352473807.ldr",
-      "fileCount": 176,
-      "raw": {
-        "bytes": 3893474,
-        "kb": 3802.22,
-        "mb": 3.71
-      },
-      "gzip": {
-        "bytes": 569591,
-        "kb": 556.24,
-        "mb": 0.54
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "bb89159bbd92",
-      "verified": true,
-      "manifest": "models/buluke_399/buluke_399.manifest.json",
-      "pack": "models/buluke_399/buluke_399.bb89159bbd92.pack.gz"
     },
     {
       "modelId": "buluke:401",
@@ -5537,30 +5393,6 @@
       "verified": true,
       "manifest": "models/buluke_504/buluke_504.manifest.json",
       "pack": "models/buluke_504/buluke_504.1a4af101f27e.pack.gz"
-    },
-    {
-      "modelId": "buluke:506",
-      "sourceId": "506",
-      "source": "buluke",
-      "name": "双翼直升机",
-      "entry": "UploadFile/1/BooketFiled/2023545438140619291.ldr",
-      "fileCount": 222,
-      "raw": {
-        "bytes": 4041752,
-        "kb": 3947.02,
-        "mb": 3.85
-      },
-      "gzip": {
-        "bytes": 592881,
-        "kb": 578.99,
-        "mb": 0.57
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "cc6bad58c98b",
-      "verified": true,
-      "manifest": "models/buluke_506/buluke_506.manifest.json",
-      "pack": "models/buluke_506/buluke_506.cc6bad58c98b.pack.gz"
     },
     {
       "modelId": "buluke:507",
