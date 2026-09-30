@@ -1108,12 +1108,6 @@
 /static/resource-packs/buluke-model-packs/models/buluke_422/buluke_422.manifest.json
   Cache-Control: public, max-age=31536000, immutable
 
-/static/resource-packs/buluke-model-packs/models/buluke_424/buluke_424.1a4030da2822.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_424/buluke_424.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
 /static/resource-packs/buluke-model-packs/models/buluke_426/buluke_426.2ea72920244f.pack.gz
   Cache-Control: public, max-age=31536000, immutable
 
@@ -1220,12 +1214,6 @@
   Cache-Control: public, max-age=31536000, immutable
 
 /static/resource-packs/buluke-model-packs/models/buluke_448/buluke_448.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_450/buluke_450.4c9b483e533c.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_450/buluke_450.manifest.json
   Cache-Control: public, max-age=31536000, immutable
 
 /static/resource-packs/buluke-model-packs/models/buluke_452/buluke_452.7f9a8304b41f.pack.gz

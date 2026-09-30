@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-17T15:24:57.038Z",
+  "generatedAt": "2026-09-30T17:41:27.007Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -1994,18 +1994,6 @@
       "hash": "8ae8d69befd7",
       "missingCount": 0
     },
-    "buluke:424": {
-      "name": "甩干机",
-      "sourceId": "424",
-      "source": "buluke",
-      "pack": "models/buluke_424/buluke_424.1a4030da2822.pack.gz",
-      "manifest": "models/buluke_424/buluke_424.manifest.json",
-      "fileCount": 125,
-      "rawBytes": 3702666,
-      "gzipBytes": 542018,
-      "hash": "1a4030da2822",
-      "missingCount": 0
-    },
     "buluke:426": {
       "name": "天平",
       "sourceId": "426",
@@ -2220,18 +2208,6 @@
       "rawBytes": 3794327,
       "gzipBytes": 552973,
       "hash": "3817e57aa11d",
-      "missingCount": 0
-    },
-    "buluke:450": {
-      "name": "缝纫机",
-      "sourceId": "450",
-      "source": "buluke",
-      "pack": "models/buluke_450/buluke_450.4c9b483e533c.pack.gz",
-      "manifest": "models/buluke_450/buluke_450.manifest.json",
-      "fileCount": 178,
-      "rawBytes": 3809496,
-      "gzipBytes": 557707,
-      "hash": "4c9b483e533c",
       "missingCount": 0
     },
     "buluke:452": {
