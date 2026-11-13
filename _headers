@@ -1384,18 +1384,6 @@
 /static/resource-packs/buluke-model-packs/models/buluke_489/buluke_489.manifest.json
   Cache-Control: public, max-age=31536000, immutable
 
-/static/resource-packs/buluke-model-packs/models/buluke_493/buluke_493.9fba6f877448.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_493/buluke_493.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_494/buluke_494.a38a3467cdab.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_494/buluke_494.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
 /static/resource-packs/buluke-model-packs/models/buluke_495/buluke_495.7aadb6c34228.pack.gz
   Cache-Control: public, max-age=31536000, immutable
 
@@ -1412,12 +1400,6 @@
   Cache-Control: public, max-age=31536000, immutable
 
 /static/resource-packs/buluke-model-packs/models/buluke_498/buluke_498.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_499/buluke_499.1ac31e5d61b8.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_499/buluke_499.manifest.json
   Cache-Control: public, max-age=31536000, immutable
 
 /static/resource-packs/buluke-model-packs/models/buluke_500/buluke_500.1ca6564981c9.pack.gz
@@ -1448,12 +1430,6 @@
   Cache-Control: public, max-age=31536000, immutable
 
 /static/resource-packs/buluke-model-packs/models/buluke_507/buluke_507.manifest.json
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_510/buluke_510.45ef51c2f500.pack.gz
-  Cache-Control: public, max-age=31536000, immutable
-
-/static/resource-packs/buluke-model-packs/models/buluke_510/buluke_510.manifest.json
   Cache-Control: public, max-age=31536000, immutable
 
 /static/resource-packs/buluke-model-packs/models/buluke_511/buluke_511.966318967fe9.pack.gz

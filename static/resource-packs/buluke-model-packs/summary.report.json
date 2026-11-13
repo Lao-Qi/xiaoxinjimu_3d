@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T17:41:27.007Z",
-  "models": 246,
+  "generatedAt": "2026-11-13T07:21:36.957Z",
+  "models": 242,
   "skipped": 0,
-  "totalRawBytes": 349396965,
-  "totalGzipBytes": 51658043,
-  "averageRawBytes": 1420313,
-  "averageGzipBytes": 209992,
+  "totalRawBytes": 333814831,
+  "totalGzipBytes": 49385597,
+  "averageRawBytes": 1379400,
+  "averageGzipBytes": 204073,
   "gzipSize": {
-    "bytes": 51658043,
-    "kb": 50447.31,
-    "mb": 49.26
+    "bytes": 49385597,
+    "kb": 48228.12,
+    "mb": 47.1
   },
   "rawSize": {
-    "bytes": 349396965,
-    "kb": 341207.97,
-    "mb": 333.21
+    "bytes": 333814831,
+    "kb": 325991.05,
+    "mb": 318.35
   },
   "outputs": [
     {
@@ -5107,54 +5107,6 @@
       "pack": "models/buluke_489/buluke_489.381092b8bbfa.pack.gz"
     },
     {
-      "modelId": "buluke:493",
-      "sourceId": "493",
-      "source": "buluke",
-      "name": "火星采矿车",
-      "entry": "UploadFile/1/BooketFiled/202354455579724823.ldr",
-      "fileCount": 200,
-      "raw": {
-        "bytes": 3972344,
-        "kb": 3879.24,
-        "mb": 3.79
-      },
-      "gzip": {
-        "bytes": 582400,
-        "kb": 568.75,
-        "mb": 0.56
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "9fba6f877448",
-      "verified": true,
-      "manifest": "models/buluke_493/buluke_493.manifest.json",
-      "pack": "models/buluke_493/buluke_493.9fba6f877448.pack.gz"
-    },
-    {
-      "modelId": "buluke:494",
-      "sourceId": "494",
-      "source": "buluke",
-      "name": "火星探测车",
-      "entry": "UploadFile/1/BooketFiled/202354484856664301.ldr",
-      "fileCount": 188,
-      "raw": {
-        "bytes": 3969977,
-        "kb": 3876.93,
-        "mb": 3.79
-      },
-      "gzip": {
-        "bytes": 579697,
-        "kb": 566.11,
-        "mb": 0.55
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "a38a3467cdab",
-      "verified": true,
-      "manifest": "models/buluke_494/buluke_494.manifest.json",
-      "pack": "models/buluke_494/buluke_494.a38a3467cdab.pack.gz"
-    },
-    {
       "modelId": "buluke:495",
       "sourceId": "495",
       "source": "buluke",
@@ -5225,30 +5177,6 @@
       "verified": true,
       "manifest": "models/buluke_498/buluke_498.manifest.json",
       "pack": "models/buluke_498/buluke_498.b0e94e61a2db.pack.gz"
-    },
-    {
-      "modelId": "buluke:499",
-      "sourceId": "499",
-      "source": "buluke",
-      "name": "跑步机",
-      "entry": "UploadFile/1/BooketFiled/2023545044191969638.ldr",
-      "fileCount": 178,
-      "raw": {
-        "bytes": 3885107,
-        "kb": 3794.05,
-        "mb": 3.71
-      },
-      "gzip": {
-        "bytes": 566520,
-        "kb": 553.24,
-        "mb": 0.54
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "1ac31e5d61b8",
-      "verified": true,
-      "manifest": "models/buluke_499/buluke_499.manifest.json",
-      "pack": "models/buluke_499/buluke_499.1ac31e5d61b8.pack.gz"
     },
     {
       "modelId": "buluke:500",
@@ -5369,30 +5297,6 @@
       "verified": true,
       "manifest": "models/buluke_507/buluke_507.manifest.json",
       "pack": "models/buluke_507/buluke_507.f9606ce32193.pack.gz"
-    },
-    {
-      "modelId": "buluke:510",
-      "sourceId": "510",
-      "source": "buluke",
-      "name": "云梯",
-      "entry": "UploadFile/1/BooketFiled/2023545635402373496.ldr",
-      "fileCount": 125,
-      "raw": {
-        "bytes": 3754706,
-        "kb": 3666.71,
-        "mb": 3.58
-      },
-      "gzip": {
-        "bytes": 543829,
-        "kb": 531.08,
-        "mb": 0.52
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "45ef51c2f500",
-      "verified": true,
-      "manifest": "models/buluke_510/buluke_510.manifest.json",
-      "pack": "models/buluke_510/buluke_510.45ef51c2f500.pack.gz"
     },
     {
       "modelId": "buluke:511",

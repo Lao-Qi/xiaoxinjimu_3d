@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T17:41:27.007Z",
+  "generatedAt": "2026-11-13T07:21:36.957Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -2546,30 +2546,6 @@
       "hash": "381092b8bbfa",
       "missingCount": 0
     },
-    "buluke:493": {
-      "name": "火星采矿车",
-      "sourceId": "493",
-      "source": "buluke",
-      "pack": "models/buluke_493/buluke_493.9fba6f877448.pack.gz",
-      "manifest": "models/buluke_493/buluke_493.manifest.json",
-      "fileCount": 200,
-      "rawBytes": 3972344,
-      "gzipBytes": 582400,
-      "hash": "9fba6f877448",
-      "missingCount": 0
-    },
-    "buluke:494": {
-      "name": "火星探测车",
-      "sourceId": "494",
-      "source": "buluke",
-      "pack": "models/buluke_494/buluke_494.a38a3467cdab.pack.gz",
-      "manifest": "models/buluke_494/buluke_494.manifest.json",
-      "fileCount": 188,
-      "rawBytes": 3969977,
-      "gzipBytes": 579697,
-      "hash": "a38a3467cdab",
-      "missingCount": 0
-    },
     "buluke:495": {
       "name": "霍布森方向节",
       "sourceId": "495",
@@ -2604,18 +2580,6 @@
       "rawBytes": 255357,
       "gzipBytes": 42078,
       "hash": "b0e94e61a2db",
-      "missingCount": 0
-    },
-    "buluke:499": {
-      "name": "跑步机",
-      "sourceId": "499",
-      "source": "buluke",
-      "pack": "models/buluke_499/buluke_499.1ac31e5d61b8.pack.gz",
-      "manifest": "models/buluke_499/buluke_499.manifest.json",
-      "fileCount": 178,
-      "rawBytes": 3885107,
-      "gzipBytes": 566520,
-      "hash": "1ac31e5d61b8",
       "missingCount": 0
     },
     "buluke:500": {
@@ -2676,18 +2640,6 @@
       "rawBytes": 3736960,
       "gzipBytes": 546677,
       "hash": "f9606ce32193",
-      "missingCount": 0
-    },
-    "buluke:510": {
-      "name": "云梯",
-      "sourceId": "510",
-      "source": "buluke",
-      "pack": "models/buluke_510/buluke_510.45ef51c2f500.pack.gz",
-      "manifest": "models/buluke_510/buluke_510.manifest.json",
-      "fileCount": 125,
-      "rawBytes": 3754706,
-      "gzipBytes": 543829,
-      "hash": "45ef51c2f500",
       "missingCount": 0
     },
     "buluke:511": {
