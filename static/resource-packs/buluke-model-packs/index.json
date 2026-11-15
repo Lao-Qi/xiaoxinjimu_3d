@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T04:36:07.777Z",
+  "generatedAt": "2026-11-15T10:14:25.240Z",
   "models": {
     "buluke:217": {
       "name": "齿轮橡皮联动",
@@ -1680,18 +1680,6 @@
       "rawBytes": 250312,
       "gzipBytes": 41182,
       "hash": "cb55b640f0fc",
-      "missingCount": 0
-    },
-    "buluke:380": {
-      "name": "稻草人",
-      "sourceId": "380",
-      "source": "buluke",
-      "pack": "models/buluke_380/buluke_380.b8f03dd54546.pack.gz",
-      "manifest": "models/buluke_380/buluke_380.manifest.json",
-      "fileCount": 153,
-      "rawBytes": 3803674,
-      "gzipBytes": 559043,
-      "hash": "b8f03dd54546",
       "missingCount": 0
     },
     "buluke:381": {

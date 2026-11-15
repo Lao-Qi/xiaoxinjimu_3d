@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T04:36:07.777Z",
-  "models": 242,
+  "generatedAt": "2026-11-15T10:14:25.240Z",
+  "models": 241,
   "skipped": 0,
-  "totalRawBytes": 333814831,
-  "totalGzipBytes": 49385597,
-  "averageRawBytes": 1379400,
-  "averageGzipBytes": 204073,
+  "totalRawBytes": 330011157,
+  "totalGzipBytes": 48826554,
+  "averageRawBytes": 1369341,
+  "averageGzipBytes": 202600,
   "gzipSize": {
-    "bytes": 49385597,
-    "kb": 48228.12,
-    "mb": 47.1
+    "bytes": 48826554,
+    "kb": 47682.18,
+    "mb": 46.56
   },
   "rawSize": {
-    "bytes": 333814831,
-    "kb": 325991.05,
-    "mb": 318.35
+    "bytes": 330011157,
+    "kb": 322276.52,
+    "mb": 314.72
   },
   "outputs": [
     {
@@ -3377,30 +3377,6 @@
       "verified": true,
       "manifest": "models/buluke_379/buluke_379.manifest.json",
       "pack": "models/buluke_379/buluke_379.cb55b640f0fc.pack.gz"
-    },
-    {
-      "modelId": "buluke:380",
-      "sourceId": "380",
-      "source": "buluke",
-      "name": "稻草人",
-      "entry": "UploadFile/1/BooketFiled/20233133227343936795.ldr",
-      "fileCount": 153,
-      "raw": {
-        "bytes": 3803674,
-        "kb": 3714.53,
-        "mb": 3.63
-      },
-      "gzip": {
-        "bytes": 559043,
-        "kb": 545.94,
-        "mb": 0.53
-      },
-      "missingCount": 0,
-      "missingSample": [],
-      "hash": "b8f03dd54546",
-      "verified": true,
-      "manifest": "models/buluke_380/buluke_380.manifest.json",
-      "pack": "models/buluke_380/buluke_380.b8f03dd54546.pack.gz"
     },
     {
       "modelId": "buluke:381",
